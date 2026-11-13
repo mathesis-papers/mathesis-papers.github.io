@@ -1,0 +1,31 @@
+{
+  "entries": [
+    {
+      "id": "chen-chen-step-m-eulerian-parity-positivity",
+      "kind": "collected",
+      "reading": {
+        "en": "https://papers.trureturing.org/chen-chen-step-m-eulerian-parity-positivity/chen-chen-step-m-eulerian-parity-positivity/en/",
+        "zh": "https://papers.trureturing.org/chen-chen-step-m-eulerian-parity-positivity/chen-chen-step-m-eulerian-parity-positivity/zh/"
+      },
+      "repository_url": "https://github.com/mathesis-papers/chen-chen-step-m-eulerian-parity-positivity",
+      "site_url": "https://papers.trureturing.org/chen-chen-step-m-eulerian-parity-positivity/",
+      "slides": [
+        {
+          "id": "seminar",
+          "language": "en",
+          "notes_url": "https://papers.trureturing.org/chen-chen-step-m-eulerian-parity-positivity/chen-chen-step-m-eulerian-parity-positivity/slides/seminar/chen-chen-step-m-eulerian-parity-positivity-seminar-en-notes.pdf",
+          "pdf_url": "https://papers.trureturing.org/chen-chen-step-m-eulerian-parity-positivity/chen-chen-step-m-eulerian-parity-positivity/slides/seminar/chen-chen-step-m-eulerian-parity-positivity-seminar-en.pdf"
+        }
+      ],
+      "version": 2,
+      "visualizations": [
+        {
+          "id": "step-triangle",
+          "url": "https://papers.trureturing.org/chen-chen-step-m-eulerian-parity-positivity/chen-chen-step-m-eulerian-parity-positivity/viz/step-triangle/"
+        }
+      ]
+    }
+  ],
+  "generated_at": "2026-11-13T07:27:11.328211193Z",
+  "schema": "mathesis.materials-index.v1"
+}
