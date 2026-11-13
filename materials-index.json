@@ -1,6 +1,66 @@
 {
   "entries": [
     {
+      "id": "a320043-square-values-refutation",
+      "kind": "collected",
+      "reading": {},
+      "repository_url": "https://github.com/mathesis-papers/6af0f0e8964ba435e7b3ffca",
+      "site_url": "https://papers.trureturing.org/6af0f0e8964ba435e7b3ffca/",
+      "slides": [],
+      "version": 2,
+      "visualizations": []
+    },
+    {
+      "id": "alikhani-griswold-2026-connected-minus-four-family",
+      "kind": "collected",
+      "reading": {},
+      "repository_url": "https://github.com/mathesis-papers/6aec385208e1c0a6e1f65a27",
+      "site_url": "https://papers.trureturing.org/6aec385208e1c0a6e1f65a27/",
+      "slides": [],
+      "version": 1,
+      "visualizations": []
+    },
+    {
+      "id": "b164660-chebfloor",
+      "kind": "collected",
+      "reading": {},
+      "repository_url": "https://github.com/mathesis-papers/6aec384eb72807af619767e9",
+      "site_url": "https://papers.trureturing.org/6aec384eb72807af619767e9/",
+      "slides": [],
+      "version": 1,
+      "visualizations": []
+    },
+    {
+      "id": "bajnok-beatty-original-conjecture-4-1",
+      "kind": "collected",
+      "reading": {},
+      "repository_url": "https://github.com/mathesis-papers/6aec385ac094feef28f99ea6",
+      "site_url": "https://papers.trureturing.org/6aec385ac094feef28f99ea6/",
+      "slides": [],
+      "version": 2,
+      "visualizations": []
+    },
+    {
+      "id": "bala295462",
+      "kind": "collected",
+      "reading": {},
+      "repository_url": "https://github.com/mathesis-papers/6aec296c8d83894561e7bb78",
+      "site_url": "https://papers.trureturing.org/6aec296c8d83894561e7bb78/",
+      "slides": [],
+      "version": 4,
+      "visualizations": []
+    },
+    {
+      "id": "bu-gu-jaffe-2025-mixed-state-inverse-sumset",
+      "kind": "collected",
+      "reading": {},
+      "repository_url": "https://github.com/mathesis-papers/6aec384da3c95318f8824b8f",
+      "site_url": "https://papers.trureturing.org/6aec384da3c95318f8824b8f/",
+      "slides": [],
+      "version": 2,
+      "visualizations": []
+    },
+    {
       "id": "chen-chen-step-m-eulerian-parity-positivity",
       "kind": "collected",
       "reading": {
@@ -24,8 +84,328 @@
           "url": "https://papers.trureturing.org/chen-chen-step-m-eulerian-parity-positivity/chen-chen-step-m-eulerian-parity-positivity/viz/step-triangle/"
         }
       ]
+    },
+    {
+      "id": "chiral-event-parity-minimality",
+      "kind": "collected",
+      "reading": {},
+      "repository_url": "https://github.com/mathesis-papers/6aec385b06f051afc69fcf80",
+      "site_url": "https://papers.trureturing.org/6aec385b06f051afc69fcf80/",
+      "slides": [],
+      "version": 2,
+      "visualizations": []
+    },
+    {
+      "id": "consiglio-apollaro-wiesniak-2022-xmems-css-shape",
+      "kind": "collected",
+      "reading": {},
+      "repository_url": "https://github.com/mathesis-papers/6aec3855f1c54c784df87e82",
+      "site_url": "https://papers.trureturing.org/6aec3855f1c54c784df87e82/",
+      "slides": [],
+      "version": 2,
+      "visualizations": []
+    },
+    {
+      "id": "denis-lacaille-martin-serrano-ensastiga-2026-anticoherence-trace-distance",
+      "kind": "collected",
+      "reading": {},
+      "repository_url": "https://github.com/mathesis-papers/6aec384a764faffa93fead3c",
+      "site_url": "https://papers.trureturing.org/6aec384a764faffa93fead3c/",
+      "slides": [],
+      "version": 4,
+      "visualizations": []
+    },
+    {
+      "id": "ggps2025",
+      "kind": "collected",
+      "reading": {},
+      "repository_url": "https://github.com/mathesis-papers/6aec38570572f4d53e4f1556",
+      "site_url": "https://papers.trureturing.org/6aec38570572f4d53e4f1556/",
+      "slides": [],
+      "version": 1,
+      "visualizations": []
+    },
+    {
+      "id": "hardin-barker-a209723-edge-differences",
+      "kind": "collected",
+      "reading": {},
+      "repository_url": "https://github.com/mathesis-papers/6aec3850f4cab60123ed7433",
+      "site_url": "https://papers.trureturing.org/6aec3850f4cab60123ed7433/",
+      "slides": [],
+      "version": 2,
+      "visualizations": []
+    },
+    {
+      "id": "hexagon-perp-line-counterexamples",
+      "kind": "collected",
+      "reading": {},
+      "repository_url": "https://github.com/mathesis-papers/6aec3853648cbfae23c59128",
+      "site_url": "https://papers.trureturing.org/6aec3853648cbfae23c59128/",
+      "slides": [],
+      "version": 2,
+      "visualizations": []
+    },
+    {
+      "id": "huang-kosugi-nishi-matsushita-2024-reflection-diagonal-cnot-lower-bound",
+      "kind": "collected",
+      "reading": {},
+      "repository_url": "https://github.com/mathesis-papers/6aec384fc2e94f3104cde418",
+      "site_url": "https://papers.trureturing.org/6aec384fc2e94f3104cde418/",
+      "slides": [],
+      "version": 4,
+      "visualizations": []
+    },
+    {
+      "id": "huang-stoica-xia-zhong-2020-tree-equations-nonconstant",
+      "kind": "collected",
+      "reading": {},
+      "repository_url": "https://github.com/mathesis-papers/6aec385b5d5a8c54539a83af",
+      "site_url": "https://papers.trureturing.org/6aec385b5d5a8c54539a83af/",
+      "slides": [],
+      "version": 2,
+      "visualizations": []
+    },
+    {
+      "id": "kamin-shchukin-schmidt-van-loock-2023-swap-earliest-dephasing",
+      "kind": "collected",
+      "reading": {},
+      "repository_url": "https://github.com/mathesis-papers/6aec38564ddece0d4a9bcb00",
+      "site_url": "https://papers.trureturing.org/6aec38564ddece0d4a9bcb00/",
+      "slides": [],
+      "version": 1,
+      "visualizations": []
+    },
+    {
+      "id": "kang-jager-2026-universal-permutative-lift-refutation",
+      "kind": "collected",
+      "reading": {},
+      "repository_url": "https://github.com/mathesis-papers/6aec384bf903dfd2d5d82496",
+      "site_url": "https://papers.trureturing.org/6aec384bf903dfd2d5d82496/",
+      "slides": [],
+      "version": 2,
+      "visualizations": []
+    },
+    {
+      "id": "kmvq31-sl3-obstruction",
+      "kind": "collected",
+      "reading": {},
+      "repository_url": "https://github.com/mathesis-papers/6aec385d127fecfd3d2bfbf4",
+      "site_url": "https://papers.trureturing.org/6aec385d127fecfd3d2bfbf4/",
+      "slides": [],
+      "version": 2,
+      "visualizations": []
+    },
+    {
+      "id": "koljancic-oblak-2026-nssp-minimum-arcs-problem-1-8",
+      "kind": "collected",
+      "reading": {},
+      "repository_url": "https://github.com/mathesis-papers/6aec3854f194c81629beec0a",
+      "site_url": "https://papers.trureturing.org/6aec3854f194c81629beec0a/",
+      "slides": [],
+      "version": 3,
+      "visualizations": []
+    },
+    {
+      "id": "koljancic-oblak-2026-question-5-11-even-loop-path",
+      "kind": "collected",
+      "reading": {},
+      "repository_url": "https://github.com/mathesis-papers/6aec3858e584399ee16a1b5a",
+      "site_url": "https://papers.trureturing.org/6aec3858e584399ee16a1b5a/",
+      "slides": [],
+      "version": 2,
+      "visualizations": []
+    },
+    {
+      "id": "kurk396563",
+      "kind": "collected",
+      "reading": {},
+      "repository_url": "https://github.com/mathesis-papers/6aec29cd3bcdf81eb5d50073",
+      "site_url": "https://papers.trureturing.org/6aec29cd3bcdf81eb5d50073/",
+      "slides": [],
+      "version": 2,
+      "visualizations": []
+    },
+    {
+      "id": "malkoun-2026-mo512579-jordan-elementary",
+      "kind": "collected",
+      "reading": {},
+      "repository_url": "https://github.com/mathesis-papers/6aec38560b38207a66628490",
+      "site_url": "https://papers.trureturing.org/6aec38560b38207a66628490/",
+      "slides": [],
+      "version": 1,
+      "visualizations": []
+    },
+    {
+      "id": "mathar-a027182-closed-form",
+      "kind": "collected",
+      "reading": {},
+      "repository_url": "https://github.com/mathesis-papers/6aec384a07848d67879121d7",
+      "site_url": "https://papers.trureturing.org/6aec384a07848d67879121d7/",
+      "slides": [],
+      "version": 4,
+      "visualizations": []
+    },
+    {
+      "id": "mathoverflow-469781-weighted-orthogonal-minors",
+      "kind": "collected",
+      "reading": {},
+      "repository_url": "https://github.com/mathesis-papers/6aec385cdfa30d689ddd40d5",
+      "site_url": "https://papers.trureturing.org/6aec385cdfa30d689ddd40d5/",
+      "slides": [],
+      "version": 2,
+      "visualizations": []
+    },
+    {
+      "id": "mathoverflow-513954-singular-diagonal-downdate-inertia",
+      "kind": "collected",
+      "reading": {},
+      "repository_url": "https://github.com/mathesis-papers/6aec3857f36f82c2025c5d3f",
+      "site_url": "https://papers.trureturing.org/6aec3857f36f82c2025c5d3f/",
+      "slides": [],
+      "version": 2,
+      "visualizations": []
+    },
+    {
+      "id": "oeis-a189733-curtz-denominator-conjecture",
+      "kind": "collected",
+      "reading": {},
+      "repository_url": "https://github.com/mathesis-papers/6aec385ebbe9030500bdf621",
+      "site_url": "https://papers.trureturing.org/6aec385ebbe9030500bdf621/",
+      "slides": [],
+      "version": 2,
+      "visualizations": []
+    },
+    {
+      "id": "oeis-a378495-difference-conjectures",
+      "kind": "collected",
+      "reading": {},
+      "repository_url": "https://github.com/mathesis-papers/6aec38505386727c8b0b631c",
+      "site_url": "https://papers.trureturing.org/6aec38505386727c8b0b631c/",
+      "slides": [],
+      "version": 3,
+      "visualizations": []
+    },
+    {
+      "id": "oeis-a381423-hermite-differences",
+      "kind": "collected",
+      "reading": {},
+      "repository_url": "https://github.com/mathesis-papers/6aec385cf92dd78867a52d00",
+      "site_url": "https://papers.trureturing.org/6aec385cf92dd78867a52d00/",
+      "slides": [],
+      "version": 3,
+      "visualizations": []
+    },
+    {
+      "id": "oeis-a391810-alternating-jacobsthal",
+      "kind": "collected",
+      "reading": {},
+      "repository_url": "https://github.com/mathesis-papers/6aec384f18e9d5f3e99cfcd1",
+      "site_url": "https://papers.trureturing.org/6aec384f18e9d5f3e99cfcd1/",
+      "slides": [],
+      "version": 4,
+      "visualizations": []
+    },
+    {
+      "id": "oeis-a396659-edge-collision-ratio",
+      "kind": "collected",
+      "reading": {},
+      "repository_url": "https://github.com/mathesis-papers/6aec384e8c2e4599d306bbc2",
+      "site_url": "https://papers.trureturing.org/6aec384e8c2e4599d306bbc2/",
+      "slides": [],
+      "version": 4,
+      "visualizations": []
+    },
+    {
+      "id": "okada-2020-premerged-determinant-nonpalindromic",
+      "kind": "collected",
+      "reading": {},
+      "repository_url": "https://github.com/mathesis-papers/6aec38590da450359338390d",
+      "site_url": "https://papers.trureturing.org/6aec38590da450359338390d/",
+      "slides": [],
+      "version": 2,
+      "visualizations": []
+    },
+    {
+      "id": "peled-teeni-carmi-cohen-2021-correlation-minor-norm-fnf",
+      "kind": "collected",
+      "reading": {},
+      "repository_url": "https://github.com/mathesis-papers/6aec3858f30f8af15112d310",
+      "site_url": "https://papers.trureturing.org/6aec3858f30f8af15112d310/",
+      "slides": [],
+      "version": 2,
+      "visualizations": []
+    },
+    {
+      "id": "pozsgay-wanless-nonlinear-classical-factors",
+      "kind": "collected",
+      "reading": {},
+      "repository_url": "https://github.com/mathesis-papers/6aec3853a5db6bd59598cc5c",
+      "site_url": "https://papers.trureturing.org/6aec3853a5db6bd59598cc5c/",
+      "slides": [],
+      "version": 2,
+      "visualizations": []
+    },
+    {
+      "id": "radsarar-anando-2026-apollonian-second-eigenvalue",
+      "kind": "collected",
+      "reading": {},
+      "repository_url": "https://github.com/mathesis-papers/6aec3851de92f716896248cd",
+      "site_url": "https://papers.trureturing.org/6aec3851de92f716896248cd/",
+      "slides": [],
+      "version": 2,
+      "visualizations": []
+    },
+    {
+      "id": "stepanov-herrmann-guhr-2021-correlation-top-eigenvector-weight",
+      "kind": "collected",
+      "reading": {},
+      "repository_url": "https://github.com/mathesis-papers/6aec38599153a8dcadd6fdda",
+      "site_url": "https://papers.trureturing.org/6aec38599153a8dcadd6fdda/",
+      "slides": [],
+      "version": 2,
+      "visualizations": []
+    },
+    {
+      "id": "tarabunga-frau-haug-tirrito-piroli-2025-shannon-branch-bound",
+      "kind": "collected",
+      "reading": {},
+      "repository_url": "https://github.com/mathesis-papers/6aec38517a6ceac006a4c051",
+      "site_url": "https://papers.trureturing.org/6aec38517a6ceac006a4c051/",
+      "slides": [],
+      "version": 1,
+      "visualizations": []
+    },
+    {
+      "id": "user3-2026-orthogonal-absolute-product-minimum",
+      "kind": "collected",
+      "reading": {},
+      "repository_url": "https://github.com/mathesis-papers/6aec384caafcae7b566cfd4c",
+      "site_url": "https://papers.trureturing.org/6aec384caafcae7b566cfd4c/",
+      "slides": [],
+      "version": 2,
+      "visualizations": []
+    },
+    {
+      "id": "wang-conjecture326",
+      "kind": "collected",
+      "reading": {},
+      "repository_url": "https://github.com/mathesis-papers/6aec384bb5ab4ce92a483609",
+      "site_url": "https://papers.trureturing.org/6aec384bb5ab4ce92a483609/",
+      "slides": [],
+      "version": 2,
+      "visualizations": []
+    },
+    {
+      "id": "xu-et-al-2023-noisy-ghz-witness-bound-gap",
+      "kind": "collected",
+      "reading": {},
+      "repository_url": "https://github.com/mathesis-papers/6aec3852e0e3a8013bcd1496",
+      "site_url": "https://papers.trureturing.org/6aec3852e0e3a8013bcd1496/",
+      "slides": [],
+      "version": 1,
+      "visualizations": []
     }
   ],
-  "generated_at": "2026-11-13T13:48:44.252851893Z",
+  "generated_at": "2026-11-13T18:18:39.725657691Z",
   "schema": "mathesis.materials-index.v1"
 }
