@@ -14,6 +14,18 @@
     },
     {
       "formalization_requests": [],
+      "id": "abbott-2019-sequential-weak-pointer-bound",
+      "kind": "collected",
+      "reading": {},
+      "repository_url": "https://github.com/mathesis-papers/abbott-2019-sequential-weak-pointer-bound",
+      "site_url": "https://papers.trureturing.org/abbott-2019-sequential-weak-pointer-bound/",
+      "slides": [],
+      "version": 2,
+      "videos": [],
+      "visualizations": []
+    },
+    {
+      "formalization_requests": [],
       "id": "aks2610-twin-free-theta-separation",
       "kind": "collected",
       "reading": {},
@@ -703,6 +715,6 @@
       "visualizations": []
     }
   ],
-  "generated_at": "2026-11-14T19:29:20.401356052Z",
+  "generated_at": "2026-11-14T20:28:31.844267113Z",
   "schema": "mathesis.materials-index.v1"
 }
