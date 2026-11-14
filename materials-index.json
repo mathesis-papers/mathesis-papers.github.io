@@ -11,6 +11,16 @@
       "visualizations": []
     },
     {
+      "id": "aks2610-twin-free-theta-separation",
+      "kind": "collected",
+      "reading": {},
+      "repository_url": "https://github.com/mathesis-papers/aks2610-twin-free-theta-separation",
+      "site_url": "https://papers.trureturing.org/aks2610-twin-free-theta-separation/",
+      "slides": [],
+      "version": 2,
+      "visualizations": []
+    },
+    {
       "id": "alikhani-griswold-2026-connected-minus-four-family",
       "kind": "collected",
       "reading": {
@@ -161,6 +171,16 @@
       },
       "repository_url": "https://github.com/mathesis-papers/10.5281-zenodo.23903300",
       "site_url": "https://papers.trureturing.org/10.5281-zenodo.23903300/",
+      "slides": [],
+      "version": 2,
+      "visualizations": []
+    },
+    {
+      "id": "he-tubbenhauer-2025-null-tensor-summand",
+      "kind": "collected",
+      "reading": {},
+      "repository_url": "https://github.com/mathesis-papers/he-tubbenhauer-2025-null-tensor-summand",
+      "site_url": "https://papers.trureturing.org/he-tubbenhauer-2025-null-tensor-summand/",
       "slides": [],
       "version": 2,
       "visualizations": []
@@ -482,6 +502,16 @@
       "visualizations": []
     },
     {
+      "id": "schnell-ketzmerick-eckardt-2018-bose-selection-cubic-refutation",
+      "kind": "collected",
+      "reading": {},
+      "repository_url": "https://github.com/mathesis-papers/schnell-ketzmerick-eckardt-2018-bose-selection-cubic-refutation",
+      "site_url": "https://papers.trureturing.org/schnell-ketzmerick-eckardt-2018-bose-selection-cubic-refutation/",
+      "slides": [],
+      "version": 2,
+      "visualizations": []
+    },
+    {
       "id": "stepanov-herrmann-guhr-2021-correlation-top-eigenvector-weight",
       "kind": "collected",
       "reading": {
@@ -557,6 +587,6 @@
       "visualizations": []
     }
   ],
-  "generated_at": "2026-11-14T11:29:05.395168166Z",
+  "generated_at": "2026-11-14T17:21:15.379676285Z",
   "schema": "mathesis.materials-index.v1"
 }
