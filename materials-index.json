@@ -335,6 +335,16 @@
       "visualizations": []
     },
     {
+      "id": "mukherjee-banerjee-sengupta-sen-2021-bubble-eigenstate-degeneracy",
+      "kind": "collected",
+      "reading": {},
+      "repository_url": "https://github.com/mathesis-papers/mukherjee-banerjee-sengupta-sen-2021-bubble-eigenstate-degeneracy",
+      "site_url": "https://papers.trureturing.org/mukherjee-banerjee-sengupta-sen-2021-bubble-eigenstate-degeneracy/",
+      "slides": [],
+      "version": 3,
+      "visualizations": []
+    },
+    {
       "id": "narasimhachar-gour-2015-cooling-map-thermal-operation-refutation",
       "kind": "collected",
       "reading": {},
@@ -537,6 +547,6 @@
       "visualizations": []
     }
   ],
-  "generated_at": "2026-11-14T07:29:08.832469268Z",
+  "generated_at": "2026-11-14T08:29:26.828586366Z",
   "schema": "mathesis.materials-index.v1"
 }
