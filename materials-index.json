@@ -368,6 +368,16 @@
       "visualizations": []
     },
     {
+      "id": "oeis-a208509-affine-polynomial-pair-binomial-coefficients",
+      "kind": "collected",
+      "reading": {},
+      "repository_url": "https://github.com/mathesis-papers/oeis-a208509-affine-polynomial-pair-binomial-coefficients",
+      "site_url": "https://papers.trureturing.org/oeis-a208509-affine-polynomial-pair-binomial-coefficients/",
+      "slides": [],
+      "version": 2,
+      "visualizations": []
+    },
+    {
       "id": "oeis-a378495-difference-conjectures",
       "kind": "collected",
       "reading": {
@@ -547,6 +557,6 @@
       "visualizations": []
     }
   ],
-  "generated_at": "2026-11-14T08:29:26.828586366Z",
+  "generated_at": "2026-11-14T09:28:18.332583519Z",
   "schema": "mathesis.materials-index.v1"
 }
