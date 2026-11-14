@@ -1,6 +1,7 @@
 {
   "entries": [
     {
+      "formalization_requests": [],
       "id": "a320043-square-values-refutation",
       "kind": "collected",
       "reading": {},
@@ -8,9 +9,11 @@
       "site_url": "https://papers.trureturing.org/a320043-square-values-refutation/",
       "slides": [],
       "version": 2,
+      "videos": [],
       "visualizations": []
     },
     {
+      "formalization_requests": [],
       "id": "aks2610-twin-free-theta-separation",
       "kind": "collected",
       "reading": {},
@@ -18,9 +21,11 @@
       "site_url": "https://papers.trureturing.org/aks2610-twin-free-theta-separation/",
       "slides": [],
       "version": 2,
+      "videos": [],
       "visualizations": []
     },
     {
+      "formalization_requests": [],
       "id": "alikhani-griswold-2026-connected-minus-four-family",
       "kind": "collected",
       "reading": {
@@ -31,9 +36,11 @@
       "site_url": "https://papers.trureturing.org/10.5281-zenodo.23919065/",
       "slides": [],
       "version": 1,
+      "videos": [],
       "visualizations": []
     },
     {
+      "formalization_requests": [],
       "id": "b164660-chebfloor",
       "kind": "collected",
       "reading": {
@@ -44,9 +51,11 @@
       "site_url": "https://papers.trureturing.org/10.5281-zenodo.23884882/",
       "slides": [],
       "version": 1,
+      "videos": [],
       "visualizations": []
     },
     {
+      "formalization_requests": [],
       "id": "bajnok-beatty-original-conjecture-4-1",
       "kind": "collected",
       "reading": {
@@ -57,9 +66,11 @@
       "site_url": "https://papers.trureturing.org/10.5281-zenodo.23931730/",
       "slides": [],
       "version": 2,
+      "videos": [],
       "visualizations": []
     },
     {
+      "formalization_requests": [],
       "id": "bala295462",
       "kind": "collected",
       "reading": {
@@ -70,9 +81,11 @@
       "site_url": "https://papers.trureturing.org/10.5281-zenodo.23971278/",
       "slides": [],
       "version": 4,
+      "videos": [],
       "visualizations": []
     },
     {
+      "formalization_requests": [],
       "id": "bouafia-diversity-negative-type",
       "kind": "collected",
       "reading": {},
@@ -80,9 +93,11 @@
       "site_url": "https://papers.trureturing.org/bouafia-diversity-negative-type/",
       "slides": [],
       "version": 2,
+      "videos": [],
       "visualizations": []
     },
     {
+      "formalization_requests": [],
       "id": "bu-gu-jaffe-2025-mixed-state-inverse-sumset",
       "kind": "collected",
       "reading": {
@@ -93,9 +108,11 @@
       "site_url": "https://papers.trureturing.org/10.5281-zenodo.23885950/",
       "slides": [],
       "version": 2,
+      "videos": [],
       "visualizations": []
     },
     {
+      "formalization_requests": [],
       "id": "chen-chen-step-m-eulerian-parity-positivity",
       "kind": "collected",
       "reading": {
@@ -113,6 +130,7 @@
         }
       ],
       "version": 2,
+      "videos": [],
       "visualizations": [
         {
           "id": "step-triangle",
@@ -121,6 +139,7 @@
       ]
     },
     {
+      "formalization_requests": [],
       "id": "chiral-event-parity-minimality",
       "kind": "collected",
       "reading": {
@@ -131,9 +150,11 @@
       "site_url": "https://papers.trureturing.org/10.5281-zenodo.23934999/",
       "slides": [],
       "version": 2,
+      "videos": [],
       "visualizations": []
     },
     {
+      "formalization_requests": [],
       "id": "consiglio-apollaro-wiesniak-2022-xmems-css-shape",
       "kind": "collected",
       "reading": {
@@ -144,9 +165,11 @@
       "site_url": "https://papers.trureturing.org/10.5281-zenodo.23904463/",
       "slides": [],
       "version": 2,
+      "videos": [],
       "visualizations": []
     },
     {
+      "formalization_requests": [],
       "id": "denis-lacaille-martin-serrano-ensastiga-2026-anticoherence-trace-distance",
       "kind": "collected",
       "reading": {
@@ -157,9 +180,11 @@
       "site_url": "https://papers.trureturing.org/10.5281-zenodo.23884884/",
       "slides": [],
       "version": 4,
+      "videos": [],
       "visualizations": []
     },
     {
+      "formalization_requests": [],
       "id": "ggps2025",
       "kind": "collected",
       "reading": {
@@ -170,9 +195,11 @@
       "site_url": "https://papers.trureturing.org/10.5281-zenodo.23920556/",
       "slides": [],
       "version": 1,
+      "videos": [],
       "visualizations": []
     },
     {
+      "formalization_requests": [],
       "id": "hardin-barker-a209723-edge-differences",
       "kind": "collected",
       "reading": {
@@ -183,9 +210,11 @@
       "site_url": "https://papers.trureturing.org/10.5281-zenodo.23903300/",
       "slides": [],
       "version": 2,
+      "videos": [],
       "visualizations": []
     },
     {
+      "formalization_requests": [],
       "id": "he-tubbenhauer-2025-null-tensor-summand",
       "kind": "collected",
       "reading": {},
@@ -193,9 +222,11 @@
       "site_url": "https://papers.trureturing.org/he-tubbenhauer-2025-null-tensor-summand/",
       "slides": [],
       "version": 2,
+      "videos": [],
       "visualizations": []
     },
     {
+      "formalization_requests": [],
       "id": "hexagon-perp-line-counterexamples",
       "kind": "collected",
       "reading": {
@@ -206,9 +237,11 @@
       "site_url": "https://papers.trureturing.org/10.5281-zenodo.23904467/",
       "slides": [],
       "version": 2,
+      "videos": [],
       "visualizations": []
     },
     {
+      "formalization_requests": [],
       "id": "huang-kosugi-nishi-matsushita-2024-reflection-diagonal-cnot-lower-bound",
       "kind": "collected",
       "reading": {
@@ -219,9 +252,11 @@
       "site_url": "https://papers.trureturing.org/10.5281-zenodo.23885960/",
       "slides": [],
       "version": 4,
+      "videos": [],
       "visualizations": []
     },
     {
+      "formalization_requests": [],
       "id": "huang-stoica-xia-zhong-2020-tree-equations-nonconstant",
       "kind": "collected",
       "reading": {
@@ -232,9 +267,11 @@
       "site_url": "https://papers.trureturing.org/10.5281-zenodo.23935003/",
       "slides": [],
       "version": 2,
+      "videos": [],
       "visualizations": []
     },
     {
+      "formalization_requests": [],
       "id": "kamin-shchukin-schmidt-van-loock-2023-swap-earliest-dephasing",
       "kind": "collected",
       "reading": {
@@ -245,9 +282,11 @@
       "site_url": "https://papers.trureturing.org/10.5281-zenodo.23904475/",
       "slides": [],
       "version": 1,
+      "videos": [],
       "visualizations": []
     },
     {
+      "formalization_requests": [],
       "id": "kang-jager-2026-universal-permutative-lift-refutation",
       "kind": "collected",
       "reading": {
@@ -258,9 +297,11 @@
       "site_url": "https://papers.trureturing.org/10.5281-zenodo.23885964/",
       "slides": [],
       "version": 2,
+      "videos": [],
       "visualizations": []
     },
     {
+      "formalization_requests": [],
       "id": "kmvq31-sl3-obstruction",
       "kind": "collected",
       "reading": {
@@ -271,9 +312,11 @@
       "site_url": "https://papers.trureturing.org/10.5281-zenodo.23957572/",
       "slides": [],
       "version": 2,
+      "videos": [],
       "visualizations": []
     },
     {
+      "formalization_requests": [],
       "id": "koljancic-oblak-2026-nssp-minimum-arcs-problem-1-8",
       "kind": "collected",
       "reading": {
@@ -284,9 +327,11 @@
       "site_url": "https://papers.trureturing.org/10.5281-zenodo.23904481/",
       "slides": [],
       "version": 3,
+      "videos": [],
       "visualizations": []
     },
     {
+      "formalization_requests": [],
       "id": "koljancic-oblak-2026-question-5-11-even-loop-path",
       "kind": "collected",
       "reading": {
@@ -297,9 +342,11 @@
       "site_url": "https://papers.trureturing.org/10.5281-zenodo.23920567/",
       "slides": [],
       "version": 2,
+      "videos": [],
       "visualizations": []
     },
     {
+      "formalization_requests": [],
       "id": "kurk396563",
       "kind": "collected",
       "reading": {
@@ -310,9 +357,11 @@
       "site_url": "https://papers.trureturing.org/kurk396563/",
       "slides": [],
       "version": 2,
+      "videos": [],
       "visualizations": []
     },
     {
+      "formalization_requests": [],
       "id": "malkoun-2026-mo512579-jordan-elementary",
       "kind": "collected",
       "reading": {
@@ -323,9 +372,11 @@
       "site_url": "https://papers.trureturing.org/10.5281-zenodo.23920582/",
       "slides": [],
       "version": 1,
+      "videos": [],
       "visualizations": []
     },
     {
+      "formalization_requests": [],
       "id": "mathar-a027182-closed-form",
       "kind": "collected",
       "reading": {
@@ -336,9 +387,11 @@
       "site_url": "https://papers.trureturing.org/10.5281-zenodo.23884889/",
       "slides": [],
       "version": 4,
+      "videos": [],
       "visualizations": []
     },
     {
+      "formalization_requests": [],
       "id": "mathoverflow-469781-weighted-orthogonal-minors",
       "kind": "collected",
       "reading": {
@@ -349,9 +402,11 @@
       "site_url": "https://papers.trureturing.org/10.5281-zenodo.23931737/",
       "slides": [],
       "version": 2,
+      "videos": [],
       "visualizations": []
     },
     {
+      "formalization_requests": [],
       "id": "mathoverflow-513954-singular-diagonal-downdate-inertia",
       "kind": "collected",
       "reading": {
@@ -362,9 +417,11 @@
       "site_url": "https://papers.trureturing.org/10.5281-zenodo.23920597/",
       "slides": [],
       "version": 2,
+      "videos": [],
       "visualizations": []
     },
     {
+      "formalization_requests": [],
       "id": "mukherjee-banerjee-sengupta-sen-2021-bubble-eigenstate-degeneracy",
       "kind": "collected",
       "reading": {},
@@ -372,9 +429,11 @@
       "site_url": "https://papers.trureturing.org/mukherjee-banerjee-sengupta-sen-2021-bubble-eigenstate-degeneracy/",
       "slides": [],
       "version": 3,
+      "videos": [],
       "visualizations": []
     },
     {
+      "formalization_requests": [],
       "id": "narasimhachar-gour-2015-cooling-map-thermal-operation-refutation",
       "kind": "collected",
       "reading": {},
@@ -382,9 +441,11 @@
       "site_url": "https://papers.trureturing.org/narasimhachar-gour-2015-cooling-map-thermal-operation-refutation/",
       "slides": [],
       "version": 3,
+      "videos": [],
       "visualizations": []
     },
     {
+      "formalization_requests": [],
       "id": "oeis-a189733-curtz-denominator-conjecture",
       "kind": "collected",
       "reading": {
@@ -395,9 +456,11 @@
       "site_url": "https://papers.trureturing.org/10.5281-zenodo.23957583/",
       "slides": [],
       "version": 2,
+      "videos": [],
       "visualizations": []
     },
     {
+      "formalization_requests": [],
       "id": "oeis-a208509-affine-polynomial-pair-binomial-coefficients",
       "kind": "collected",
       "reading": {},
@@ -405,9 +468,11 @@
       "site_url": "https://papers.trureturing.org/oeis-a208509-affine-polynomial-pair-binomial-coefficients/",
       "slides": [],
       "version": 2,
+      "videos": [],
       "visualizations": []
     },
     {
+      "formalization_requests": [],
       "id": "oeis-a378495-difference-conjectures",
       "kind": "collected",
       "reading": {
@@ -418,9 +483,11 @@
       "site_url": "https://papers.trureturing.org/10.5281-zenodo.23903308/",
       "slides": [],
       "version": 3,
+      "videos": [],
       "visualizations": []
     },
     {
+      "formalization_requests": [],
       "id": "oeis-a381423-hermite-differences",
       "kind": "collected",
       "reading": {
@@ -431,9 +498,11 @@
       "site_url": "https://papers.trureturing.org/10.5281-zenodo.23957585/",
       "slides": [],
       "version": 3,
+      "videos": [],
       "visualizations": []
     },
     {
+      "formalization_requests": [],
       "id": "oeis-a391810-alternating-jacobsthal",
       "kind": "collected",
       "reading": {
@@ -444,9 +513,11 @@
       "site_url": "https://papers.trureturing.org/10.5281-zenodo.23885968/",
       "slides": [],
       "version": 4,
+      "videos": [],
       "visualizations": []
     },
     {
+      "formalization_requests": [],
       "id": "oeis-a396659-edge-collision-ratio",
       "kind": "collected",
       "reading": {
@@ -457,9 +528,11 @@
       "site_url": "https://papers.trureturing.org/10.5281-zenodo.23885974/",
       "slides": [],
       "version": 4,
+      "videos": [],
       "visualizations": []
     },
     {
+      "formalization_requests": [],
       "id": "okada-2020-premerged-determinant-nonpalindromic",
       "kind": "collected",
       "reading": {
@@ -470,9 +543,11 @@
       "site_url": "https://papers.trureturing.org/10.5281-zenodo.23927423/",
       "slides": [],
       "version": 2,
+      "videos": [],
       "visualizations": []
     },
     {
+      "formalization_requests": [],
       "id": "peled-teeni-carmi-cohen-2021-correlation-minor-norm-fnf",
       "kind": "collected",
       "reading": {
@@ -483,9 +558,11 @@
       "site_url": "https://papers.trureturing.org/10.5281-zenodo.23920609/",
       "slides": [],
       "version": 2,
+      "videos": [],
       "visualizations": []
     },
     {
+      "formalization_requests": [],
       "id": "pozsgay-wanless-nonlinear-classical-factors",
       "kind": "collected",
       "reading": {
@@ -496,9 +573,11 @@
       "site_url": "https://papers.trureturing.org/10.5281-zenodo.23903312/",
       "slides": [],
       "version": 2,
+      "videos": [],
       "visualizations": []
     },
     {
+      "formalization_requests": [],
       "id": "radsarar-anando-2026-apollonian-second-eigenvalue",
       "kind": "collected",
       "reading": {
@@ -509,9 +588,11 @@
       "site_url": "https://papers.trureturing.org/10.5281-zenodo.23919070/",
       "slides": [],
       "version": 2,
+      "videos": [],
       "visualizations": []
     },
     {
+      "formalization_requests": [],
       "id": "schnell-ketzmerick-eckardt-2018-bose-selection-cubic-refutation",
       "kind": "collected",
       "reading": {},
@@ -519,9 +600,11 @@
       "site_url": "https://papers.trureturing.org/schnell-ketzmerick-eckardt-2018-bose-selection-cubic-refutation/",
       "slides": [],
       "version": 2,
+      "videos": [],
       "visualizations": []
     },
     {
+      "formalization_requests": [],
       "id": "stepanov-herrmann-guhr-2021-correlation-top-eigenvector-weight",
       "kind": "collected",
       "reading": {
@@ -532,9 +615,23 @@
       "site_url": "https://papers.trureturing.org/10.5281-zenodo.23927427/",
       "slides": [],
       "version": 2,
+      "videos": [],
       "visualizations": []
     },
     {
+      "formalization_requests": [],
+      "id": "ta-2025-problem-11-7-good-involution-bound-refutation",
+      "kind": "collected",
+      "reading": {},
+      "repository_url": "https://github.com/mathesis-papers/ta-2025-problem-11-7-good-involution-bound-refutation",
+      "site_url": "https://papers.trureturing.org/ta-2025-problem-11-7-good-involution-bound-refutation/",
+      "slides": [],
+      "version": 2,
+      "videos": [],
+      "visualizations": []
+    },
+    {
+      "formalization_requests": [],
       "id": "tarabunga-frau-haug-tirrito-piroli-2025-shannon-branch-bound",
       "kind": "collected",
       "reading": {
@@ -545,9 +642,11 @@
       "site_url": "https://papers.trureturing.org/10.5281-zenodo.23903315/",
       "slides": [],
       "version": 1,
+      "videos": [],
       "visualizations": []
     },
     {
+      "formalization_requests": [],
       "id": "user3-2026-orthogonal-absolute-product-minimum",
       "kind": "collected",
       "reading": {
@@ -558,9 +657,11 @@
       "site_url": "https://papers.trureturing.org/10.5281-zenodo.23885983/",
       "slides": [],
       "version": 2,
+      "videos": [],
       "visualizations": []
     },
     {
+      "formalization_requests": [],
       "id": "wang-conjecture326",
       "kind": "collected",
       "reading": {
@@ -571,9 +672,11 @@
       "site_url": "https://papers.trureturing.org/10.5281-zenodo.23884900/",
       "slides": [],
       "version": 2,
+      "videos": [],
       "visualizations": []
     },
     {
+      "formalization_requests": [],
       "id": "wiseman-a344611",
       "kind": "collected",
       "reading": {},
@@ -581,9 +684,11 @@
       "site_url": "https://papers.trureturing.org/wiseman-a344611/",
       "slides": [],
       "version": 2,
+      "videos": [],
       "visualizations": []
     },
     {
+      "formalization_requests": [],
       "id": "xu-et-al-2023-noisy-ghz-witness-bound-gap",
       "kind": "collected",
       "reading": {
@@ -594,9 +699,10 @@
       "site_url": "https://papers.trureturing.org/10.5281-zenodo.23919078/",
       "slides": [],
       "version": 1,
+      "videos": [],
       "visualizations": []
     }
   ],
-  "generated_at": "2026-11-14T18:28:54.097005626Z",
+  "generated_at": "2026-11-14T19:05:39.780168205Z",
   "schema": "mathesis.materials-index.v1"
 }
