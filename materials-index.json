@@ -73,6 +73,16 @@
       "visualizations": []
     },
     {
+      "id": "bouafia-diversity-negative-type",
+      "kind": "collected",
+      "reading": {},
+      "repository_url": "https://github.com/mathesis-papers/bouafia-diversity-negative-type",
+      "site_url": "https://papers.trureturing.org/bouafia-diversity-negative-type/",
+      "slides": [],
+      "version": 2,
+      "visualizations": []
+    },
+    {
       "id": "bu-gu-jaffe-2025-mixed-state-inverse-sumset",
       "kind": "collected",
       "reading": {
@@ -587,6 +597,6 @@
       "visualizations": []
     }
   ],
-  "generated_at": "2026-11-14T17:21:15.379676285Z",
+  "generated_at": "2026-11-14T18:28:54.097005626Z",
   "schema": "mathesis.materials-index.v1"
 }
