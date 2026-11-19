@@ -387,7 +387,10 @@
       "formalization_requests": [],
       "id": "bernath-a400645-consecutive-ratio",
       "kind": "collected",
-      "reading": {},
+      "reading": {
+        "en": "https://papers.trureturing.org/bernath-a400645-consecutive-ratio/en/",
+        "zh": "https://papers.trureturing.org/bernath-a400645-consecutive-ratio/zh/"
+      },
       "repository_url": "https://github.com/mathesis-papers/bernath-a400645-consecutive-ratio",
       "site_url": "https://papers.trureturing.org/bernath-a400645-consecutive-ratio/",
       "slides": [],
@@ -646,18 +649,52 @@
       "visualizations": []
     },
     {
-      "formalization_requests": [],
+      "formalization_requests": [
+        {
+          "label": "Theorem 1",
+          "url": "https://github.com/the-omega-institute/trureturing-requests/issues/250"
+        },
+        {
+          "label": "Lemma 1",
+          "url": "https://github.com/the-omega-institute/trureturing-requests/issues/251"
+        },
+        {
+          "label": "Proposition 1",
+          "url": "https://github.com/the-omega-institute/trureturing-requests/issues/252"
+        }
+      ],
       "id": "denis-lacaille-martin-serrano-ensastiga-2026-anticoherence-trace-distance",
       "kind": "collected",
       "reading": {
-        "en": "https://papers.trureturing.org/10.5281-zenodo.23884884/en/",
-        "zh": "https://papers.trureturing.org/10.5281-zenodo.23884884/zh/"
+        "en": "https://papers.trureturing.org/10.5281-zenodo.23884884/denis-lacaille-martin-serrano-ensastiga-2026-anticoherence-trace-distance/en/",
+        "zh": "https://papers.trureturing.org/10.5281-zenodo.23884884/denis-lacaille-martin-serrano-ensastiga-2026-anticoherence-trace-distance/zh/"
       },
       "repository_url": "https://github.com/mathesis-papers/10.5281-zenodo.23884884",
       "site_url": "https://papers.trureturing.org/10.5281-zenodo.23884884/",
-      "slides": [],
+      "slides": [
+        {
+          "id": "seminar",
+          "language": "en",
+          "notes_url": "https://papers.trureturing.org/10.5281-zenodo.23884884/denis-lacaille-martin-serrano-ensastiga-2026-anticoherence-trace-distance/slides/seminar/denis-lacaille-martin-serrano-ensastiga-2026-anticoherence-trace-distance-seminar-en-notes.pdf",
+          "pdf_url": "https://papers.trureturing.org/10.5281-zenodo.23884884/denis-lacaille-martin-serrano-ensastiga-2026-anticoherence-trace-distance/slides/seminar/denis-lacaille-martin-serrano-ensastiga-2026-anticoherence-trace-distance-seminar-en.pdf"
+        },
+        {
+          "id": "seminar",
+          "language": "zh",
+          "notes_url": "https://papers.trureturing.org/10.5281-zenodo.23884884/denis-lacaille-martin-serrano-ensastiga-2026-anticoherence-trace-distance/slides/seminar/denis-lacaille-martin-serrano-ensastiga-2026-anticoherence-trace-distance-seminar-zh-notes.pdf",
+          "pdf_url": "https://papers.trureturing.org/10.5281-zenodo.23884884/denis-lacaille-martin-serrano-ensastiga-2026-anticoherence-trace-distance/slides/seminar/denis-lacaille-martin-serrano-ensastiga-2026-anticoherence-trace-distance-seminar-zh.pdf"
+        }
+      ],
       "version": 4,
-      "videos": [],
+      "videos": [
+        {
+          "id": "001-symmetry-and-distance-narrated_720p",
+          "mp4_url": "https://papers.trureturing.org/10.5281-zenodo.23884884/denis-lacaille-martin-serrano-ensastiga-2026-anticoherence-trace-distance/films/001-symmetry-and-distance/denis-lacaille-martin-serrano-ensastiga-2026-anticoherence-trace-distance_001_720p_narrated.mp4",
+          "poster_url": "https://papers.trureturing.org/10.5281-zenodo.23884884/denis-lacaille-martin-serrano-ensastiga-2026-anticoherence-trace-distance/films/001-symmetry-and-distance/poster.jpg",
+          "title": "When symmetric noise increases reduced distance",
+          "url": "https://papers.trureturing.org/10.5281-zenodo.23884884/denis-lacaille-martin-serrano-ensastiga-2026-anticoherence-trace-distance/films/#001-symmetry-and-distance"
+        }
+      ],
       "visualizations": []
     },
     {
@@ -1099,7 +1136,10 @@
       "formalization_requests": [],
       "id": "spin-one-rotation-boxes",
       "kind": "collected",
-      "reading": {},
+      "reading": {
+        "en": "https://papers.trureturing.org/spin-one-rotation-boxes/en/",
+        "zh": "https://papers.trureturing.org/spin-one-rotation-boxes/zh/"
+      },
       "repository_url": "https://github.com/mathesis-papers/spin-one-rotation-boxes",
       "site_url": "https://papers.trureturing.org/spin-one-rotation-boxes/",
       "slides": [],
@@ -1207,6 +1247,6 @@
       "visualizations": []
     }
   ],
-  "generated_at": "2026-11-19T13:30:07.158726216Z",
+  "generated_at": "2026-11-19T13:38:43.638369273Z",
   "schema": "mathesis.materials-index.v1"
 }
