@@ -1,15 +1,68 @@
 {
   "entries": [
     {
-      "formalization_requests": [],
+      "formalization_requests": [
+        {
+          "label": "Proposition 2, Section 2, PDF page 2",
+          "url": "https://github.com/the-omega-institute/trureturing-requests/issues/94"
+        },
+        {
+          "label": "Corollary 3, Section 2, PDF page 3",
+          "url": "https://github.com/the-omega-institute/trureturing-requests/issues/95"
+        },
+        {
+          "label": "Corollary 4, Section 2, PDF page 3",
+          "url": "https://github.com/the-omega-institute/trureturing-requests/issues/96"
+        },
+        {
+          "label": "Corollary 5, Section 2, PDF page 3",
+          "url": "https://github.com/the-omega-institute/trureturing-requests/issues/97"
+        },
+        {
+          "label": "Corollary 6, Section 3, PDF page 4",
+          "url": "https://github.com/the-omega-institute/trureturing-requests/issues/98"
+        },
+        {
+          "label": "Corollary 7, Section 3, PDF page 4",
+          "url": "https://github.com/the-omega-institute/trureturing-requests/issues/99"
+        },
+        {
+          "label": "Theorem 1, Section 1, PDF page 1",
+          "url": "https://github.com/the-omega-institute/trureturing-requests/issues/100"
+        }
+      ],
       "id": "a320043-square-values-refutation",
       "kind": "collected",
-      "reading": {},
+      "reading": {
+        "en": "https://papers.trureturing.org/a320043-square-values-refutation/a320043-square-values-refutation/en/",
+        "zh": "https://papers.trureturing.org/a320043-square-values-refutation/a320043-square-values-refutation/zh/"
+      },
       "repository_url": "https://github.com/mathesis-papers/a320043-square-values-refutation",
       "site_url": "https://papers.trureturing.org/a320043-square-values-refutation/",
-      "slides": [],
+      "slides": [
+        {
+          "id": "overview",
+          "language": "en",
+          "notes_url": "https://papers.trureturing.org/a320043-square-values-refutation/a320043-square-values-refutation/slides/overview/a320043-square-values-refutation-overview-en-notes.pdf",
+          "pdf_url": "https://papers.trureturing.org/a320043-square-values-refutation/a320043-square-values-refutation/slides/overview/a320043-square-values-refutation-overview-en.pdf"
+        },
+        {
+          "id": "overview",
+          "language": "zh",
+          "notes_url": "https://papers.trureturing.org/a320043-square-values-refutation/a320043-square-values-refutation/slides/overview/a320043-square-values-refutation-overview-zh-notes.pdf",
+          "pdf_url": "https://papers.trureturing.org/a320043-square-values-refutation/a320043-square-values-refutation/slides/overview/a320043-square-values-refutation-overview-zh.pdf"
+        }
+      ],
       "version": 2,
-      "videos": [],
+      "videos": [
+        {
+          "id": "001-pell-square-narrated_720p",
+          "mp4_url": "https://papers.trureturing.org/a320043-square-values-refutation/a320043-square-values-refutation/films/001-pell-square/a320043-square-values-refutation_001_720p_narrated.mp4",
+          "poster_url": "https://papers.trureturing.org/a320043-square-values-refutation/a320043-square-values-refutation/films/001-pell-square/poster.jpg",
+          "title": "Pell numbers and the counterexample",
+          "url": "https://papers.trureturing.org/a320043-square-values-refutation/a320043-square-values-refutation/films/#001-pell-square"
+        }
+      ],
       "visualizations": []
     },
     {
@@ -25,15 +78,60 @@
       "visualizations": []
     },
     {
-      "formalization_requests": [],
+      "formalization_requests": [
+        {
+          "label": "Corollary 2 — explicit theta family; Theorem 1 — precise theta-family spectrum",
+          "url": "https://github.com/the-omega-institute/trureturing-requests/issues/39"
+        },
+        {
+          "label": "Corollary 3 — six-residue spectral classification; Corollary 4 — complete all-length classification",
+          "url": "https://github.com/the-omega-institute/trureturing-requests/issues/40"
+        },
+        {
+          "label": "Corollary 5 — Paone–Paone specialization at eigenvalue two",
+          "url": "https://github.com/the-omega-institute/trureturing-requests/issues/41"
+        },
+        {
+          "label": "Corollary 6 — rooted-path separation in both directions",
+          "url": "https://github.com/the-omega-institute/trureturing-requests/issues/42"
+        },
+        {
+          "label": "Corollary 7 — disjoint-module lower bound",
+          "url": "https://github.com/the-omega-institute/trureturing-requests/issues/43"
+        }
+      ],
       "id": "aks2610-twin-free-theta-separation",
       "kind": "collected",
-      "reading": {},
+      "reading": {
+        "en": "https://papers.trureturing.org/aks2610-twin-free-theta-separation/aks2610-twin-free-theta-separation/en/",
+        "zh": "https://papers.trureturing.org/aks2610-twin-free-theta-separation/aks2610-twin-free-theta-separation/zh/"
+      },
       "repository_url": "https://github.com/mathesis-papers/aks2610-twin-free-theta-separation",
       "site_url": "https://papers.trureturing.org/aks2610-twin-free-theta-separation/",
-      "slides": [],
+      "slides": [
+        {
+          "id": "seminar",
+          "language": "en",
+          "notes_url": "https://papers.trureturing.org/aks2610-twin-free-theta-separation/aks2610-twin-free-theta-separation/slides/seminar/aks2610-twin-free-theta-separation-seminar-en-notes.pdf",
+          "pdf_url": "https://papers.trureturing.org/aks2610-twin-free-theta-separation/aks2610-twin-free-theta-separation/slides/seminar/aks2610-twin-free-theta-separation-seminar-en.pdf"
+        },
+        {
+          "id": "seminar",
+          "language": "zh",
+          "notes_url": "https://papers.trureturing.org/aks2610-twin-free-theta-separation/aks2610-twin-free-theta-separation/slides/seminar/aks2610-twin-free-theta-separation-seminar-zh-notes.pdf",
+          "pdf_url": "https://papers.trureturing.org/aks2610-twin-free-theta-separation/aks2610-twin-free-theta-separation/slides/seminar/aks2610-twin-free-theta-separation-seminar-zh.pdf"
+        }
+      ],
       "version": 2,
-      "videos": [],
+      "videos": [
+        {
+          "id": "001-landmarks-narrated_720p",
+          "mp4_url": "https://papers.trureturing.org/aks2610-twin-free-theta-separation/aks2610-twin-free-theta-separation/films/001-landmarks/aks2610-twin-free-theta-separation_001_720p_narrated.mp4",
+          "poster_url": "https://papers.trureturing.org/aks2610-twin-free-theta-separation/aks2610-twin-free-theta-separation/films/001-landmarks/poster.jpg",
+          "title": "Two landmarks, two spectral rules",
+          "url": "https://papers.trureturing.org/aks2610-twin-free-theta-separation/aks2610-twin-free-theta-separation/films/#001-landmarks"
+        }
+      ],
       "visualizations": []
     },
     {
@@ -715,6 +813,6 @@
       "visualizations": []
     }
   ],
-  "generated_at": "2026-11-19T09:30:42.587655582Z",
+  "generated_at": "2026-11-19T10:53:51.054431418Z",
   "schema": "mathesis.materials-index.v1"
 }
