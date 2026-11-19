@@ -698,60 +698,227 @@
       "visualizations": []
     },
     {
-      "formalization_requests": [],
+      "formalization_requests": [
+        {
+          "label": "Theorem 1",
+          "url": "https://github.com/the-omega-institute/trureturing-requests/issues/165"
+        },
+        {
+          "label": "Corollary 2",
+          "url": "https://github.com/the-omega-institute/trureturing-requests/issues/166"
+        },
+        {
+          "label": "Proposition 3",
+          "url": "https://github.com/the-omega-institute/trureturing-requests/issues/167"
+        },
+        {
+          "label": "Proposition 4",
+          "url": "https://github.com/the-omega-institute/trureturing-requests/issues/168"
+        }
+      ],
       "id": "ggps2025",
       "kind": "collected",
       "reading": {
-        "en": "https://papers.trureturing.org/10.5281-zenodo.23920556/en/",
-        "zh": "https://papers.trureturing.org/10.5281-zenodo.23920556/zh/"
+        "en": "https://papers.trureturing.org/10.5281-zenodo.23920556/ggps2025/en/",
+        "zh": "https://papers.trureturing.org/10.5281-zenodo.23920556/ggps2025/zh/"
       },
       "repository_url": "https://github.com/mathesis-papers/10.5281-zenodo.23920556",
       "site_url": "https://papers.trureturing.org/10.5281-zenodo.23920556/",
-      "slides": [],
+      "slides": [
+        {
+          "id": "seminar",
+          "language": "en",
+          "notes_url": "https://papers.trureturing.org/10.5281-zenodo.23920556/ggps2025/slides/seminar/ggps2025-seminar-en-notes.pdf",
+          "pdf_url": "https://papers.trureturing.org/10.5281-zenodo.23920556/ggps2025/slides/seminar/ggps2025-seminar-en.pdf"
+        },
+        {
+          "id": "seminar",
+          "language": "zh",
+          "notes_url": "https://papers.trureturing.org/10.5281-zenodo.23920556/ggps2025/slides/seminar/ggps2025-seminar-zh-notes.pdf",
+          "pdf_url": "https://papers.trureturing.org/10.5281-zenodo.23920556/ggps2025/slides/seminar/ggps2025-seminar-zh.pdf"
+        }
+      ],
       "version": 1,
-      "videos": [],
+      "videos": [
+        {
+          "id": "001-modulus-narrated_720p",
+          "mp4_url": "https://papers.trureturing.org/10.5281-zenodo.23920556/ggps2025/films/001-modulus/ggps2025_001_720p_narrated.mp4",
+          "poster_url": "https://papers.trureturing.org/10.5281-zenodo.23920556/ggps2025/films/001-modulus/poster.jpg",
+          "title": "Why moving off the real axis breaks a bound",
+          "url": "https://papers.trureturing.org/10.5281-zenodo.23920556/ggps2025/films/#001-modulus"
+        }
+      ],
       "visualizations": []
     },
     {
-      "formalization_requests": [],
+      "formalization_requests": [
+        {
+          "label": "Lemma 1",
+          "url": "https://github.com/the-omega-institute/trureturing-requests/issues/222"
+        },
+        {
+          "label": "Corollary 2; Theorem 1",
+          "url": "https://github.com/the-omega-institute/trureturing-requests/issues/223"
+        },
+        {
+          "label": "Corollary 1",
+          "url": "https://github.com/the-omega-institute/trureturing-requests/issues/224"
+        }
+      ],
       "id": "hardin-barker-a209723-edge-differences",
       "kind": "collected",
       "reading": {
-        "en": "https://papers.trureturing.org/10.5281-zenodo.23903300/en/",
-        "zh": "https://papers.trureturing.org/10.5281-zenodo.23903300/zh/"
+        "en": "https://papers.trureturing.org/10.5281-zenodo.23903300/hardin-barker-a209723-edge-differences/en/",
+        "zh": "https://papers.trureturing.org/10.5281-zenodo.23903300/hardin-barker-a209723-edge-differences/zh/"
       },
       "repository_url": "https://github.com/mathesis-papers/10.5281-zenodo.23903300",
       "site_url": "https://papers.trureturing.org/10.5281-zenodo.23903300/",
-      "slides": [],
+      "slides": [
+        {
+          "id": "seminar",
+          "language": "en",
+          "notes_url": "https://papers.trureturing.org/10.5281-zenodo.23903300/hardin-barker-a209723-edge-differences/slides/seminar/hardin-barker-a209723-edge-differences-seminar-en-notes.pdf",
+          "pdf_url": "https://papers.trureturing.org/10.5281-zenodo.23903300/hardin-barker-a209723-edge-differences/slides/seminar/hardin-barker-a209723-edge-differences-seminar-en.pdf"
+        },
+        {
+          "id": "seminar",
+          "language": "zh",
+          "notes_url": "https://papers.trureturing.org/10.5281-zenodo.23903300/hardin-barker-a209723-edge-differences/slides/seminar/hardin-barker-a209723-edge-differences-seminar-zh-notes.pdf",
+          "pdf_url": "https://papers.trureturing.org/10.5281-zenodo.23903300/hardin-barker-a209723-edge-differences/slides/seminar/hardin-barker-a209723-edge-differences-seminar-zh.pdf"
+        }
+      ],
       "version": 2,
-      "videos": [],
+      "videos": [
+        {
+          "id": "001-two-stars-narrated_720p",
+          "mp4_url": "https://papers.trureturing.org/10.5281-zenodo.23903300/hardin-barker-a209723-edge-differences/films/001-two-stars/hardin-barker-a209723-edge-differences_001_720p_narrated.mp4",
+          "poster_url": "https://papers.trureturing.org/10.5281-zenodo.23903300/hardin-barker-a209723-edge-differences/films/001-two-stars/poster.jpg",
+          "title": "Two stars count the grids",
+          "url": "https://papers.trureturing.org/10.5281-zenodo.23903300/hardin-barker-a209723-edge-differences/films/#001-two-stars"
+        }
+      ],
       "visualizations": []
     },
     {
-      "formalization_requests": [],
+      "formalization_requests": [
+        {
+          "label": "Maximal null multiplicity and rank bound",
+          "url": "https://github.com/the-omega-institute/trureturing-requests/issues/44"
+        },
+        {
+          "label": "Quantitative singular tensor summand bounds over any field",
+          "url": "https://github.com/the-omega-institute/trureturing-requests/issues/45"
+        },
+        {
+          "label": "Composition multiplicities with rank deficit",
+          "url": "https://github.com/the-omega-institute/trureturing-requests/issues/46"
+        },
+        {
+          "label": "Nonmodular monoid splitting and unit-group count comparison",
+          "url": "https://github.com/the-omega-institute/trureturing-requests/issues/47"
+        },
+        {
+          "label": "Right-zero tensor decomposition and finite-exponent correction",
+          "url": "https://github.com/the-omega-institute/trureturing-requests/issues/48"
+        },
+        {
+          "label": "Exact counts for the C2 union S3 zero semigroup",
+          "url": "https://github.com/the-omega-institute/trureturing-requests/issues/49"
+        },
+        {
+          "label": "Explicit nilpotent tensor Jordan multiplicities",
+          "url": "https://github.com/the-omega-institute/trureturing-requests/issues/50"
+        },
+        {
+          "label": "Exact recurrence for the published six-dimensional fusion example",
+          "url": "https://github.com/the-omega-institute/trureturing-requests/issues/51"
+        }
+      ],
       "id": "he-tubbenhauer-2025-null-tensor-summand",
       "kind": "collected",
-      "reading": {},
+      "reading": {
+        "en": "https://papers.trureturing.org/he-tubbenhauer-2025-null-tensor-summand/he-tubbenhauer-2025-null-tensor-summand/en/",
+        "zh": "https://papers.trureturing.org/he-tubbenhauer-2025-null-tensor-summand/he-tubbenhauer-2025-null-tensor-summand/zh/"
+      },
       "repository_url": "https://github.com/mathesis-papers/he-tubbenhauer-2025-null-tensor-summand",
       "site_url": "https://papers.trureturing.org/he-tubbenhauer-2025-null-tensor-summand/",
-      "slides": [],
+      "slides": [
+        {
+          "id": "null-summands",
+          "language": "en",
+          "notes_url": "https://papers.trureturing.org/he-tubbenhauer-2025-null-tensor-summand/he-tubbenhauer-2025-null-tensor-summand/slides/null-summands/he-tubbenhauer-2025-null-tensor-summand-null-summands-en-notes.pdf",
+          "pdf_url": "https://papers.trureturing.org/he-tubbenhauer-2025-null-tensor-summand/he-tubbenhauer-2025-null-tensor-summand/slides/null-summands/he-tubbenhauer-2025-null-tensor-summand-null-summands-en.pdf"
+        },
+        {
+          "id": "null-summands",
+          "language": "zh",
+          "notes_url": "https://papers.trureturing.org/he-tubbenhauer-2025-null-tensor-summand/he-tubbenhauer-2025-null-tensor-summand/slides/null-summands/he-tubbenhauer-2025-null-tensor-summand-null-summands-zh-notes.pdf",
+          "pdf_url": "https://papers.trureturing.org/he-tubbenhauer-2025-null-tensor-summand/he-tubbenhauer-2025-null-tensor-summand/slides/null-summands/he-tubbenhauer-2025-null-tensor-summand-null-summands-zh.pdf"
+        }
+      ],
       "version": 2,
-      "videos": [],
+      "videos": [
+        {
+          "id": "001-null-summands-narrated_720p",
+          "mp4_url": "https://papers.trureturing.org/he-tubbenhauer-2025-null-tensor-summand/he-tubbenhauer-2025-null-tensor-summand/films/001-null-summands/he-tubbenhauer-2025-null-tensor-summand_001_720p_narrated.mp4",
+          "poster_url": "https://papers.trureturing.org/he-tubbenhauer-2025-null-tensor-summand/he-tubbenhauer-2025-null-tensor-summand/films/001-null-summands/poster.jpg",
+          "title": "From a common zero space to an independent summand",
+          "url": "https://papers.trureturing.org/he-tubbenhauer-2025-null-tensor-summand/he-tubbenhauer-2025-null-tensor-summand/films/#001-null-summands"
+        }
+      ],
       "visualizations": []
     },
     {
-      "formalization_requests": [],
+      "formalization_requests": [
+        {
+          "label": "Theorem 1",
+          "url": "https://github.com/the-omega-institute/trureturing-requests/issues/192"
+        },
+        {
+          "label": "Corollary 4; Proposition 2",
+          "url": "https://github.com/the-omega-institute/trureturing-requests/issues/193"
+        },
+        {
+          "label": "Lemma 3",
+          "url": "https://github.com/the-omega-institute/trureturing-requests/issues/194"
+        },
+        {
+          "label": "Corollary 5",
+          "url": "https://github.com/the-omega-institute/trureturing-requests/issues/195"
+        }
+      ],
       "id": "hexagon-perp-line-counterexamples",
       "kind": "collected",
       "reading": {
-        "en": "https://papers.trureturing.org/10.5281-zenodo.23904467/en/",
-        "zh": "https://papers.trureturing.org/10.5281-zenodo.23904467/zh/"
+        "en": "https://papers.trureturing.org/10.5281-zenodo.23904467/hexagon-perp-line-counterexamples/en/",
+        "zh": "https://papers.trureturing.org/10.5281-zenodo.23904467/hexagon-perp-line-counterexamples/zh/"
       },
       "repository_url": "https://github.com/mathesis-papers/10.5281-zenodo.23904467",
       "site_url": "https://papers.trureturing.org/10.5281-zenodo.23904467/",
-      "slides": [],
+      "slides": [
+        {
+          "id": "seminar",
+          "language": "en",
+          "notes_url": "https://papers.trureturing.org/10.5281-zenodo.23904467/hexagon-perp-line-counterexamples/slides/seminar/hexagon-perp-line-counterexamples-seminar-en-notes.pdf",
+          "pdf_url": "https://papers.trureturing.org/10.5281-zenodo.23904467/hexagon-perp-line-counterexamples/slides/seminar/hexagon-perp-line-counterexamples-seminar-en.pdf"
+        },
+        {
+          "id": "seminar",
+          "language": "zh",
+          "notes_url": "https://papers.trureturing.org/10.5281-zenodo.23904467/hexagon-perp-line-counterexamples/slides/seminar/hexagon-perp-line-counterexamples-seminar-zh-notes.pdf",
+          "pdf_url": "https://papers.trureturing.org/10.5281-zenodo.23904467/hexagon-perp-line-counterexamples/slides/seminar/hexagon-perp-line-counterexamples-seminar-zh.pdf"
+        }
+      ],
       "version": 2,
-      "videos": [],
+      "videos": [
+        {
+          "id": "001-twelve-fifteen-narrated_720p",
+          "mp4_url": "https://papers.trureturing.org/10.5281-zenodo.23904467/hexagon-perp-line-counterexamples/films/001-twelve-fifteen/hexagon-perp-line-counterexamples_001_720p_narrated.mp4",
+          "poster_url": "https://papers.trureturing.org/10.5281-zenodo.23904467/hexagon-perp-line-counterexamples/films/001-twelve-fifteen/poster.jpg",
+          "title": "Why twelve is not fifteen",
+          "url": "https://papers.trureturing.org/10.5281-zenodo.23904467/hexagon-perp-line-counterexamples/films/#001-twelve-fifteen"
+        }
+      ],
       "visualizations": []
     },
     {
@@ -1247,6 +1414,6 @@
       "visualizations": []
     }
   ],
-  "generated_at": "2026-11-19T13:38:43.638369273Z",
+  "generated_at": "2026-11-19T14:13:27.838407681Z",
   "schema": "mathesis.materials-index.v1"
 }
