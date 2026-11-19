@@ -1923,6 +1923,18 @@
     },
     {
       "formalization_requests": [],
+      "id": "rowland-sistos-barron-2025-rank-sequences",
+      "kind": "collected",
+      "reading": {},
+      "repository_url": "https://github.com/mathesis-papers/rowland-sistos-barron-2025-rank-sequences",
+      "site_url": "https://papers.trureturing.org/rowland-sistos-barron-2025-rank-sequences/",
+      "slides": [],
+      "version": 2,
+      "videos": [],
+      "visualizations": []
+    },
+    {
+      "formalization_requests": [],
       "id": "schnell-ketzmerick-eckardt-2018-bose-selection-cubic-refutation",
       "kind": "collected",
       "reading": {},
@@ -2048,6 +2060,6 @@
       "visualizations": []
     }
   ],
-  "generated_at": "2026-11-19T21:28:58.529236079Z",
+  "generated_at": "2026-11-19T22:28:36.550326239Z",
   "schema": "mathesis.materials-index.v1"
 }
