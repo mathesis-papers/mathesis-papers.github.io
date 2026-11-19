@@ -225,48 +225,18 @@
       "visualizations": []
     },
     {
-      "formalization_requests": [
-        {
-          "label": "Proposition 2",
-          "url": "https://github.com/the-omega-institute/trureturing-requests/issues/234"
-        },
-        {
-          "label": "Proposition 3",
-          "url": "https://github.com/the-omega-institute/trureturing-requests/issues/235"
-        }
-      ],
+      "formalization_requests": [],
       "id": "b164660-chebfloor",
       "kind": "collected",
       "reading": {
-        "en": "https://papers.trureturing.org/10.5281-zenodo.23884882/b164660-chebfloor/en/",
-        "zh": "https://papers.trureturing.org/10.5281-zenodo.23884882/b164660-chebfloor/zh/"
+        "en": "https://papers.trureturing.org/10.5281-zenodo.23884882/en/",
+        "zh": "https://papers.trureturing.org/10.5281-zenodo.23884882/zh/"
       },
       "repository_url": "https://github.com/mathesis-papers/10.5281-zenodo.23884882",
       "site_url": "https://papers.trureturing.org/10.5281-zenodo.23884882/",
-      "slides": [
-        {
-          "id": "seminar",
-          "language": "en",
-          "notes_url": "https://papers.trureturing.org/10.5281-zenodo.23884882/b164660-chebfloor/slides/seminar/b164660-chebfloor-seminar-en-notes.pdf",
-          "pdf_url": "https://papers.trureturing.org/10.5281-zenodo.23884882/b164660-chebfloor/slides/seminar/b164660-chebfloor-seminar-en.pdf"
-        },
-        {
-          "id": "seminar",
-          "language": "zh",
-          "notes_url": "https://papers.trureturing.org/10.5281-zenodo.23884882/b164660-chebfloor/slides/seminar/b164660-chebfloor-seminar-zh-notes.pdf",
-          "pdf_url": "https://papers.trureturing.org/10.5281-zenodo.23884882/b164660-chebfloor/slides/seminar/b164660-chebfloor-seminar-zh.pdf"
-        }
-      ],
+      "slides": [],
       "version": 1,
-      "videos": [
-        {
-          "id": "001-divisibility-sign-narrated_720p",
-          "mp4_url": "https://papers.trureturing.org/10.5281-zenodo.23884882/b164660-chebfloor/films/001-divisibility-sign/b164660-chebfloor_001_720p_narrated.mp4",
-          "poster_url": "https://papers.trureturing.org/10.5281-zenodo.23884882/b164660-chebfloor/films/001-divisibility-sign/poster.jpg",
-          "title": "Two floors, one sign flip",
-          "url": "https://papers.trureturing.org/10.5281-zenodo.23884882/b164660-chebfloor/films/#001-divisibility-sign"
-        }
-      ],
+      "videos": [],
       "visualizations": []
     },
     {
@@ -330,7 +300,10 @@
       "formalization_requests": [],
       "id": "central-edges",
       "kind": "collected",
-      "reading": {},
+      "reading": {
+        "en": "https://papers.trureturing.org/central-edges/en/",
+        "zh": "https://papers.trureturing.org/central-edges/zh/"
+      },
       "repository_url": "https://github.com/mathesis-papers/central-edges",
       "site_url": "https://papers.trureturing.org/central-edges/",
       "slides": [],
@@ -546,7 +519,10 @@
       "formalization_requests": [],
       "id": "kok-jaco-addition-law-refutation",
       "kind": "collected",
-      "reading": {},
+      "reading": {
+        "en": "https://papers.trureturing.org/kok-jaco-addition-law-refutation/en/",
+        "zh": "https://papers.trureturing.org/kok-jaco-addition-law-refutation/zh/"
+      },
       "repository_url": "https://github.com/mathesis-papers/kok-jaco-addition-law-refutation",
       "site_url": "https://papers.trureturing.org/kok-jaco-addition-law-refutation/",
       "slides": [],
@@ -942,6 +918,6 @@
       "visualizations": []
     }
   ],
-  "generated_at": "2026-11-19T12:34:10.292221354Z",
+  "generated_at": "2026-11-19T12:41:24.469703925Z",
   "schema": "mathesis.materials-index.v1"
 }
