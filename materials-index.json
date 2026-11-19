@@ -922,18 +922,52 @@
       "visualizations": []
     },
     {
-      "formalization_requests": [],
+      "formalization_requests": [
+        {
+          "label": "Theorem 1",
+          "url": "https://github.com/the-omega-institute/trureturing-requests/issues/229"
+        },
+        {
+          "label": "Lemma 1",
+          "url": "https://github.com/the-omega-institute/trureturing-requests/issues/230"
+        },
+        {
+          "label": "Corollary 1",
+          "url": "https://github.com/the-omega-institute/trureturing-requests/issues/231"
+        }
+      ],
       "id": "huang-kosugi-nishi-matsushita-2024-reflection-diagonal-cnot-lower-bound",
       "kind": "collected",
       "reading": {
-        "en": "https://papers.trureturing.org/10.5281-zenodo.23885960/en/",
-        "zh": "https://papers.trureturing.org/10.5281-zenodo.23885960/zh/"
+        "en": "https://papers.trureturing.org/10.5281-zenodo.23885960/huang-kosugi-nishi-matsushita-2024-reflection-diagonal-cnot-lower-bound/en/",
+        "zh": "https://papers.trureturing.org/10.5281-zenodo.23885960/huang-kosugi-nishi-matsushita-2024-reflection-diagonal-cnot-lower-bound/zh/"
       },
       "repository_url": "https://github.com/mathesis-papers/10.5281-zenodo.23885960",
       "site_url": "https://papers.trureturing.org/10.5281-zenodo.23885960/",
-      "slides": [],
+      "slides": [
+        {
+          "id": "seminar",
+          "language": "en",
+          "notes_url": "https://papers.trureturing.org/10.5281-zenodo.23885960/huang-kosugi-nishi-matsushita-2024-reflection-diagonal-cnot-lower-bound/slides/seminar/huang-kosugi-nishi-matsushita-2024-reflection-diagonal-cnot-lower-bound-seminar-en-notes.pdf",
+          "pdf_url": "https://papers.trureturing.org/10.5281-zenodo.23885960/huang-kosugi-nishi-matsushita-2024-reflection-diagonal-cnot-lower-bound/slides/seminar/huang-kosugi-nishi-matsushita-2024-reflection-diagonal-cnot-lower-bound-seminar-en.pdf"
+        },
+        {
+          "id": "seminar",
+          "language": "zh",
+          "notes_url": "https://papers.trureturing.org/10.5281-zenodo.23885960/huang-kosugi-nishi-matsushita-2024-reflection-diagonal-cnot-lower-bound/slides/seminar/huang-kosugi-nishi-matsushita-2024-reflection-diagonal-cnot-lower-bound-seminar-zh-notes.pdf",
+          "pdf_url": "https://papers.trureturing.org/10.5281-zenodo.23885960/huang-kosugi-nishi-matsushita-2024-reflection-diagonal-cnot-lower-bound/slides/seminar/huang-kosugi-nishi-matsushita-2024-reflection-diagonal-cnot-lower-bound-seminar-zh.pdf"
+        }
+      ],
       "version": 4,
-      "videos": [],
+      "videos": [
+        {
+          "id": "001-parity-return-narrated_720p",
+          "mp4_url": "https://papers.trureturing.org/10.5281-zenodo.23885960/huang-kosugi-nishi-matsushita-2024-reflection-diagonal-cnot-lower-bound/films/001-parity-return/huang-kosugi-nishi-matsushita-2024-reflection-diagonal-cnot-lower-bound_001_720p_narrated.mp4",
+          "poster_url": "https://papers.trureturing.org/10.5281-zenodo.23885960/huang-kosugi-nishi-matsushita-2024-reflection-diagonal-cnot-lower-bound/films/001-parity-return/poster.jpg",
+          "title": "Why parity labels must return",
+          "url": "https://papers.trureturing.org/10.5281-zenodo.23885960/huang-kosugi-nishi-matsushita-2024-reflection-diagonal-cnot-lower-bound/films/#001-parity-return"
+        }
+      ],
       "visualizations": []
     },
     {
@@ -1414,6 +1448,6 @@
       "visualizations": []
     }
   ],
-  "generated_at": "2026-11-19T14:13:27.838407681Z",
+  "generated_at": "2026-11-19T14:29:39.141092197Z",
   "schema": "mathesis.materials-index.v1"
 }
