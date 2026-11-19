@@ -1487,57 +1487,291 @@
       "visualizations": []
     },
     {
-      "formalization_requests": [],
+      "formalization_requests": [
+        {
+          "label": "Theorem 1, Sections 1 and 3",
+          "url": "https://github.com/the-omega-institute/trureturing-requests/issues/117"
+        },
+        {
+          "label": "Lemma 2, Section 2",
+          "url": "https://github.com/the-omega-institute/trureturing-requests/issues/118"
+        },
+        {
+          "label": "Corollary 3, Section 3",
+          "url": "https://github.com/the-omega-institute/trureturing-requests/issues/119"
+        },
+        {
+          "label": "Corollary 4, Section 3",
+          "url": "https://github.com/the-omega-institute/trureturing-requests/issues/120"
+        },
+        {
+          "label": "Corollary 5, Section 4",
+          "url": "https://github.com/the-omega-institute/trureturing-requests/issues/121"
+        },
+        {
+          "label": "Corollary 6, Section 4",
+          "url": "https://github.com/the-omega-institute/trureturing-requests/issues/122"
+        },
+        {
+          "label": "Corollary 7, Section 5",
+          "url": "https://github.com/the-omega-institute/trureturing-requests/issues/123"
+        }
+      ],
       "id": "mathoverflow-469781-weighted-orthogonal-minors",
       "kind": "collected",
       "reading": {
-        "en": "https://papers.trureturing.org/10.5281-zenodo.23931737/en/",
-        "zh": "https://papers.trureturing.org/10.5281-zenodo.23931737/zh/"
+        "en": "https://papers.trureturing.org/10.5281-zenodo.23931737/mathoverflow-469781-weighted-orthogonal-minors/en/",
+        "zh": "https://papers.trureturing.org/10.5281-zenodo.23931737/mathoverflow-469781-weighted-orthogonal-minors/zh/"
       },
       "repository_url": "https://github.com/mathesis-papers/10.5281-zenodo.23931737",
       "site_url": "https://papers.trureturing.org/10.5281-zenodo.23931737/",
-      "slides": [],
+      "slides": [
+        {
+          "id": "seminar",
+          "language": "en",
+          "notes_url": "https://papers.trureturing.org/10.5281-zenodo.23931737/mathoverflow-469781-weighted-orthogonal-minors/slides/seminar/mathoverflow-469781-weighted-orthogonal-minors-seminar-en-notes.pdf",
+          "pdf_url": "https://papers.trureturing.org/10.5281-zenodo.23931737/mathoverflow-469781-weighted-orthogonal-minors/slides/seminar/mathoverflow-469781-weighted-orthogonal-minors-seminar-en.pdf"
+        },
+        {
+          "id": "seminar",
+          "language": "zh",
+          "notes_url": "https://papers.trureturing.org/10.5281-zenodo.23931737/mathoverflow-469781-weighted-orthogonal-minors/slides/seminar/mathoverflow-469781-weighted-orthogonal-minors-seminar-zh-notes.pdf",
+          "pdf_url": "https://papers.trureturing.org/10.5281-zenodo.23931737/mathoverflow-469781-weighted-orthogonal-minors/slides/seminar/mathoverflow-469781-weighted-orthogonal-minors-seminar-zh.pdf"
+        }
+      ],
       "version": 2,
-      "videos": [],
+      "videos": [
+        {
+          "id": "001-minors-to-volumes-narrated_720p",
+          "mp4_url": "https://papers.trureturing.org/10.5281-zenodo.23931737/mathoverflow-469781-weighted-orthogonal-minors/films/001-minors-to-volumes/mathoverflow-469781-weighted-orthogonal-minors_001_720p_narrated.mp4",
+          "poster_url": "https://papers.trureturing.org/10.5281-zenodo.23931737/mathoverflow-469781-weighted-orthogonal-minors/films/001-minors-to-volumes/poster.jpg",
+          "title": "From areas to volumes",
+          "url": "https://papers.trureturing.org/10.5281-zenodo.23931737/mathoverflow-469781-weighted-orthogonal-minors/films/#001-minors-to-volumes"
+        }
+      ],
       "visualizations": []
     },
     {
-      "formalization_requests": [],
+      "formalization_requests": [
+        {
+          "label": "Theorem 1",
+          "url": "https://github.com/the-omega-institute/trureturing-requests/issues/169"
+        },
+        {
+          "label": "Corollary 2",
+          "url": "https://github.com/the-omega-institute/trureturing-requests/issues/170"
+        },
+        {
+          "label": "Corollary 3",
+          "url": "https://github.com/the-omega-institute/trureturing-requests/issues/171"
+        },
+        {
+          "label": "Corollary 4",
+          "url": "https://github.com/the-omega-institute/trureturing-requests/issues/172"
+        },
+        {
+          "label": "Theorem 5",
+          "url": "https://github.com/the-omega-institute/trureturing-requests/issues/173"
+        },
+        {
+          "label": "Corollary 7",
+          "url": "https://github.com/the-omega-institute/trureturing-requests/issues/174"
+        },
+        {
+          "label": "Corollary 8",
+          "url": "https://github.com/the-omega-institute/trureturing-requests/issues/175"
+        },
+        {
+          "label": "Corollary 9",
+          "url": "https://github.com/the-omega-institute/trureturing-requests/issues/176"
+        },
+        {
+          "label": "Corollary 10",
+          "url": "https://github.com/the-omega-institute/trureturing-requests/issues/177"
+        },
+        {
+          "label": "Theorem 11",
+          "url": "https://github.com/the-omega-institute/trureturing-requests/issues/178"
+        }
+      ],
       "id": "mathoverflow-513954-singular-diagonal-downdate-inertia",
       "kind": "collected",
       "reading": {
-        "en": "https://papers.trureturing.org/10.5281-zenodo.23920597/en/",
-        "zh": "https://papers.trureturing.org/10.5281-zenodo.23920597/zh/"
+        "en": "https://papers.trureturing.org/10.5281-zenodo.23920597/mathoverflow-513954-singular-diagonal-downdate-inertia/en/",
+        "zh": "https://papers.trureturing.org/10.5281-zenodo.23920597/mathoverflow-513954-singular-diagonal-downdate-inertia/zh/"
       },
       "repository_url": "https://github.com/mathesis-papers/10.5281-zenodo.23920597",
       "site_url": "https://papers.trureturing.org/10.5281-zenodo.23920597/",
-      "slides": [],
+      "slides": [
+        {
+          "id": "seminar",
+          "language": "en",
+          "notes_url": "https://papers.trureturing.org/10.5281-zenodo.23920597/mathoverflow-513954-singular-diagonal-downdate-inertia/slides/seminar/mathoverflow-513954-singular-diagonal-downdate-inertia-seminar-en-notes.pdf",
+          "pdf_url": "https://papers.trureturing.org/10.5281-zenodo.23920597/mathoverflow-513954-singular-diagonal-downdate-inertia/slides/seminar/mathoverflow-513954-singular-diagonal-downdate-inertia-seminar-en.pdf"
+        },
+        {
+          "id": "seminar",
+          "language": "zh",
+          "notes_url": "https://papers.trureturing.org/10.5281-zenodo.23920597/mathoverflow-513954-singular-diagonal-downdate-inertia/slides/seminar/mathoverflow-513954-singular-diagonal-downdate-inertia-seminar-zh-notes.pdf",
+          "pdf_url": "https://papers.trureturing.org/10.5281-zenodo.23920597/mathoverflow-513954-singular-diagonal-downdate-inertia/slides/seminar/mathoverflow-513954-singular-diagonal-downdate-inertia-seminar-zh.pdf"
+        }
+      ],
       "version": 2,
-      "videos": [],
+      "videos": [
+        {
+          "id": "001-one-direction-narrated_720p",
+          "mp4_url": "https://papers.trureturing.org/10.5281-zenodo.23920597/mathoverflow-513954-singular-diagonal-downdate-inertia/films/001-one-direction/mathoverflow-513954-singular-diagonal-downdate-inertia_001_720p_narrated.mp4",
+          "poster_url": "https://papers.trureturing.org/10.5281-zenodo.23920597/mathoverflow-513954-singular-diagonal-downdate-inertia/films/001-one-direction/poster.jpg",
+          "title": "One direction and a diffuse tail",
+          "url": "https://papers.trureturing.org/10.5281-zenodo.23920597/mathoverflow-513954-singular-diagonal-downdate-inertia/films/#001-one-direction"
+        }
+      ],
       "visualizations": []
     },
     {
-      "formalization_requests": [],
+      "formalization_requests": [
+        {
+          "label": "Energy-resolved cycle counts with arbitrary minimum gap",
+          "url": "https://github.com/the-omega-institute/trureturing-requests/issues/68"
+        },
+        {
+          "label": "Full-packing and two-parity near-zero bubble lower bounds",
+          "url": "https://github.com/the-omega-institute/trureturing-requests/issues/69"
+        },
+        {
+          "label": "Exact counterexample to the printed positive-exponent bubble bound",
+          "url": "https://github.com/the-omega-institute/trureturing-requests/issues/70"
+        },
+        {
+          "label": "Parity-refined placements and balanced-fragment zero modes",
+          "url": "https://github.com/the-omega-institute/trureturing-requests/issues/71"
+        },
+        {
+          "label": "Catalan multiplicity of simultaneous bubble zero modes",
+          "url": "https://github.com/the-omega-institute/trureturing-requests/issues/72"
+        },
+        {
+          "label": "Bubble field spectrum and imbalanced zero-mode resonance",
+          "url": "https://github.com/the-omega-institute/trureturing-requests/issues/73"
+        },
+        {
+          "label": "Non-bubble endpoint eigenstates at chain length fourteen",
+          "url": "https://github.com/the-omega-institute/trureturing-requests/issues/74"
+        },
+        {
+          "label": "Correct bubble evolution phase and staggered magnetization offset",
+          "url": "https://github.com/the-omega-institute/trureturing-requests/issues/75"
+        }
+      ],
       "id": "mukherjee-banerjee-sengupta-sen-2021-bubble-eigenstate-degeneracy",
       "kind": "collected",
-      "reading": {},
+      "reading": {
+        "en": "https://papers.trureturing.org/mukherjee-banerjee-sengupta-sen-2021-bubble-eigenstate-degeneracy/mukherjee-banerjee-sengupta-sen-2021-bubble-eigenstate-degeneracy/en/",
+        "zh": "https://papers.trureturing.org/mukherjee-banerjee-sengupta-sen-2021-bubble-eigenstate-degeneracy/mukherjee-banerjee-sengupta-sen-2021-bubble-eigenstate-degeneracy/zh/"
+      },
       "repository_url": "https://github.com/mathesis-papers/mukherjee-banerjee-sengupta-sen-2021-bubble-eigenstate-degeneracy",
       "site_url": "https://papers.trureturing.org/mukherjee-banerjee-sengupta-sen-2021-bubble-eigenstate-degeneracy/",
-      "slides": [],
+      "slides": [
+        {
+          "id": "bubble-seminar",
+          "language": "en",
+          "notes_url": "https://papers.trureturing.org/mukherjee-banerjee-sengupta-sen-2021-bubble-eigenstate-degeneracy/mukherjee-banerjee-sengupta-sen-2021-bubble-eigenstate-degeneracy/slides/bubble-seminar/mukherjee-banerjee-sengupta-sen-2021-bubble-eigenstate-degeneracy-bubble-seminar-en-notes.pdf",
+          "pdf_url": "https://papers.trureturing.org/mukherjee-banerjee-sengupta-sen-2021-bubble-eigenstate-degeneracy/mukherjee-banerjee-sengupta-sen-2021-bubble-eigenstate-degeneracy/slides/bubble-seminar/mukherjee-banerjee-sengupta-sen-2021-bubble-eigenstate-degeneracy-bubble-seminar-en.pdf"
+        },
+        {
+          "id": "bubble-seminar",
+          "language": "zh",
+          "notes_url": "https://papers.trureturing.org/mukherjee-banerjee-sengupta-sen-2021-bubble-eigenstate-degeneracy/mukherjee-banerjee-sengupta-sen-2021-bubble-eigenstate-degeneracy/slides/bubble-seminar/mukherjee-banerjee-sengupta-sen-2021-bubble-eigenstate-degeneracy-bubble-seminar-zh-notes.pdf",
+          "pdf_url": "https://papers.trureturing.org/mukherjee-banerjee-sengupta-sen-2021-bubble-eigenstate-degeneracy/mukherjee-banerjee-sengupta-sen-2021-bubble-eigenstate-degeneracy/slides/bubble-seminar/mukherjee-banerjee-sengupta-sen-2021-bubble-eigenstate-degeneracy-bubble-seminar-zh.pdf"
+        }
+      ],
       "version": 3,
-      "videos": [],
+      "videos": [
+        {
+          "id": "001-marked-gaps-narrated_720p",
+          "mp4_url": "https://papers.trureturing.org/mukherjee-banerjee-sengupta-sen-2021-bubble-eigenstate-degeneracy/mukherjee-banerjee-sengupta-sen-2021-bubble-eigenstate-degeneracy/films/001-marked-gaps/mukherjee-banerjee-sengupta-sen-2021-bubble-eigenstate-degeneracy_001_720p_narrated.mp4",
+          "poster_url": "https://papers.trureturing.org/mukherjee-banerjee-sengupta-sen-2021-bubble-eigenstate-degeneracy/mukherjee-banerjee-sengupta-sen-2021-bubble-eigenstate-degeneracy/films/001-marked-gaps/poster.jpg",
+          "title": "Mark one bubble on the ring",
+          "url": "https://papers.trureturing.org/mukherjee-banerjee-sengupta-sen-2021-bubble-eigenstate-degeneracy/mukherjee-banerjee-sengupta-sen-2021-bubble-eigenstate-degeneracy/films/#001-marked-gaps"
+        }
+      ],
       "visualizations": []
     },
     {
-      "formalization_requests": [],
+      "formalization_requests": [
+        {
+          "label": "Population-preserving thermal blocks for arbitrary full-support inputs",
+          "url": "https://github.com/the-omega-institute/trureturing-requests/issues/76"
+        },
+        {
+          "label": "Expose the existing concrete four-level exact-separation witness",
+          "url": "https://github.com/the-omega-institute/trureturing-requests/issues/77"
+        },
+        {
+          "label": "Dimension-independent rational four-unitary Gram gap",
+          "url": "https://github.com/the-omega-institute/trureturing-requests/issues/78"
+        },
+        {
+          "label": "Four-level thermal-output trace-norm closure separation",
+          "url": "https://github.com/the-omega-institute/trureturing-requests/issues/79"
+        },
+        {
+          "label": "Finite Gibbs-tail stability of the four-level obstruction",
+          "url": "https://github.com/the-omega-institute/trureturing-requests/issues/80"
+        },
+        {
+          "label": "Full-support phase-parameter family of exact cooling separation",
+          "url": "https://github.com/the-omega-institute/trureturing-requests/issues/81"
+        },
+        {
+          "label": "Closure separation with four occupied distinct energy levels",
+          "url": "https://github.com/the-omega-institute/trureturing-requests/issues/82"
+        },
+        {
+          "label": "Three-vector unitary-family and rank-two S2.6 obstructions",
+          "url": "https://github.com/the-omega-institute/trureturing-requests/issues/83"
+        },
+        {
+          "label": "Cooling channel outside closed optimally coherent convex hull",
+          "url": "https://github.com/the-omega-institute/trureturing-requests/issues/84"
+        },
+        {
+          "label": "Minimum generic dimension four for closure separation",
+          "url": "https://github.com/the-omega-institute/trureturing-requests/issues/85"
+        }
+      ],
       "id": "narasimhachar-gour-2015-cooling-map-thermal-operation-refutation",
       "kind": "collected",
-      "reading": {},
+      "reading": {
+        "en": "https://papers.trureturing.org/narasimhachar-gour-2015-cooling-map-thermal-operation-refutation/narasimhachar-gour-2015-cooling-map-thermal-operation-refutation/en/",
+        "zh": "https://papers.trureturing.org/narasimhachar-gour-2015-cooling-map-thermal-operation-refutation/narasimhachar-gour-2015-cooling-map-thermal-operation-refutation/zh/"
+      },
       "repository_url": "https://github.com/mathesis-papers/narasimhachar-gour-2015-cooling-map-thermal-operation-refutation",
       "site_url": "https://papers.trureturing.org/narasimhachar-gour-2015-cooling-map-thermal-operation-refutation/",
-      "slides": [],
+      "slides": [
+        {
+          "id": "seminar",
+          "language": "en",
+          "notes_url": "https://papers.trureturing.org/narasimhachar-gour-2015-cooling-map-thermal-operation-refutation/narasimhachar-gour-2015-cooling-map-thermal-operation-refutation/slides/seminar/narasimhachar-gour-2015-cooling-map-thermal-operation-refutation-seminar-en-notes.pdf",
+          "pdf_url": "https://papers.trureturing.org/narasimhachar-gour-2015-cooling-map-thermal-operation-refutation/narasimhachar-gour-2015-cooling-map-thermal-operation-refutation/slides/seminar/narasimhachar-gour-2015-cooling-map-thermal-operation-refutation-seminar-en.pdf"
+        },
+        {
+          "id": "seminar",
+          "language": "zh",
+          "notes_url": "https://papers.trureturing.org/narasimhachar-gour-2015-cooling-map-thermal-operation-refutation/narasimhachar-gour-2015-cooling-map-thermal-operation-refutation/slides/seminar/narasimhachar-gour-2015-cooling-map-thermal-operation-refutation-seminar-zh-notes.pdf",
+          "pdf_url": "https://papers.trureturing.org/narasimhachar-gour-2015-cooling-map-thermal-operation-refutation/narasimhachar-gour-2015-cooling-map-thermal-operation-refutation/slides/seminar/narasimhachar-gour-2015-cooling-map-thermal-operation-refutation-seminar-zh.pdf"
+        }
+      ],
       "version": 3,
-      "videos": [],
+      "videos": [
+        {
+          "id": "001-coherence-obstruction-narrated_720p",
+          "mp4_url": "https://papers.trureturing.org/narasimhachar-gour-2015-cooling-map-thermal-operation-refutation/narasimhachar-gour-2015-cooling-map-thermal-operation-refutation/films/001-coherence-obstruction/narasimhachar-gour-2015-cooling-map-thermal-operation-refutation_001_720p_narrated.mp4",
+          "poster_url": "https://papers.trureturing.org/narasimhachar-gour-2015-cooling-map-thermal-operation-refutation/narasimhachar-gour-2015-cooling-map-thermal-operation-refutation/films/001-coherence-obstruction/poster.jpg",
+          "title": "Cooling without energy loss",
+          "url": "https://papers.trureturing.org/narasimhachar-gour-2015-cooling-map-thermal-operation-refutation/narasimhachar-gour-2015-cooling-map-thermal-operation-refutation/films/#001-coherence-obstruction"
+        }
+      ],
       "visualizations": []
     },
     {
@@ -1814,6 +2048,6 @@
       "visualizations": []
     }
   ],
-  "generated_at": "2026-11-19T15:54:05.289486507Z",
+  "generated_at": "2026-11-19T16:30:32.070958354Z",
   "schema": "mathesis.materials-index.v1"
 }
