@@ -1218,33 +1218,109 @@
       "visualizations": []
     },
     {
-      "formalization_requests": [],
+      "formalization_requests": [
+        {
+          "label": "Lemma 2, Section 2",
+          "url": "https://github.com/the-omega-institute/trureturing-requests/issues/189"
+        },
+        {
+          "label": "Corollary 4, Section 2; Theorem 3, Section 2",
+          "url": "https://github.com/the-omega-institute/trureturing-requests/issues/190"
+        },
+        {
+          "label": "Theorem 1, Section 1",
+          "url": "https://github.com/the-omega-institute/trureturing-requests/issues/191"
+        }
+      ],
       "id": "koljancic-oblak-2026-nssp-minimum-arcs-problem-1-8",
       "kind": "collected",
       "reading": {
-        "en": "https://papers.trureturing.org/10.5281-zenodo.23904481/en/",
-        "zh": "https://papers.trureturing.org/10.5281-zenodo.23904481/zh/"
+        "en": "https://papers.trureturing.org/10.5281-zenodo.23904481/koljancic-oblak-2026-nssp-minimum-arcs-problem-1-8/en/",
+        "zh": "https://papers.trureturing.org/10.5281-zenodo.23904481/koljancic-oblak-2026-nssp-minimum-arcs-problem-1-8/zh/"
       },
       "repository_url": "https://github.com/mathesis-papers/10.5281-zenodo.23904481",
       "site_url": "https://papers.trureturing.org/10.5281-zenodo.23904481/",
-      "slides": [],
+      "slides": [
+        {
+          "id": "seminar",
+          "language": "en",
+          "notes_url": "https://papers.trureturing.org/10.5281-zenodo.23904481/koljancic-oblak-2026-nssp-minimum-arcs-problem-1-8/slides/seminar/koljancic-oblak-2026-nssp-minimum-arcs-problem-1-8-seminar-en-notes.pdf",
+          "pdf_url": "https://papers.trureturing.org/10.5281-zenodo.23904481/koljancic-oblak-2026-nssp-minimum-arcs-problem-1-8/slides/seminar/koljancic-oblak-2026-nssp-minimum-arcs-problem-1-8-seminar-en.pdf"
+        },
+        {
+          "id": "seminar",
+          "language": "zh",
+          "notes_url": "https://papers.trureturing.org/10.5281-zenodo.23904481/koljancic-oblak-2026-nssp-minimum-arcs-problem-1-8/slides/seminar/koljancic-oblak-2026-nssp-minimum-arcs-problem-1-8-seminar-zh-notes.pdf",
+          "pdf_url": "https://papers.trureturing.org/10.5281-zenodo.23904481/koljancic-oblak-2026-nssp-minimum-arcs-problem-1-8/slides/seminar/koljancic-oblak-2026-nssp-minimum-arcs-problem-1-8-seminar-zh.pdf"
+        }
+      ],
       "version": 3,
-      "videos": [],
+      "videos": [
+        {
+          "id": "001-balanced-flows-narrated_720p",
+          "mp4_url": "https://papers.trureturing.org/10.5281-zenodo.23904481/koljancic-oblak-2026-nssp-minimum-arcs-problem-1-8/films/001-balanced-flows/koljancic-oblak-2026-nssp-minimum-arcs-problem-1-8_001_720p_narrated.mp4",
+          "poster_url": "https://papers.trureturing.org/10.5281-zenodo.23904481/koljancic-oblak-2026-nssp-minimum-arcs-problem-1-8/films/001-balanced-flows/poster.jpg",
+          "title": "Counting arcs through balanced flows",
+          "url": "https://papers.trureturing.org/10.5281-zenodo.23904481/koljancic-oblak-2026-nssp-minimum-arcs-problem-1-8/films/#001-balanced-flows"
+        }
+      ],
       "visualizations": []
     },
     {
-      "formalization_requests": [],
+      "formalization_requests": [
+        {
+          "label": "Lemma 3, Section 2",
+          "url": "https://github.com/the-omega-institute/trureturing-requests/issues/154"
+        },
+        {
+          "label": "Lemma 4, Section 3",
+          "url": "https://github.com/the-omega-institute/trureturing-requests/issues/155"
+        },
+        {
+          "label": "Theorem 1, Section 1",
+          "url": "https://github.com/the-omega-institute/trureturing-requests/issues/156"
+        },
+        {
+          "label": "Corollary 5, Section 3",
+          "url": "https://github.com/the-omega-institute/trureturing-requests/issues/157"
+        },
+        {
+          "label": "Corollary 6, Section 4",
+          "url": "https://github.com/the-omega-institute/trureturing-requests/issues/158"
+        }
+      ],
       "id": "koljancic-oblak-2026-question-5-11-even-loop-path",
       "kind": "collected",
       "reading": {
-        "en": "https://papers.trureturing.org/10.5281-zenodo.23920567/en/",
-        "zh": "https://papers.trureturing.org/10.5281-zenodo.23920567/zh/"
+        "en": "https://papers.trureturing.org/10.5281-zenodo.23920567/koljancic-oblak-2026-question-5-11-even-loop-path/en/",
+        "zh": "https://papers.trureturing.org/10.5281-zenodo.23920567/koljancic-oblak-2026-question-5-11-even-loop-path/zh/"
       },
       "repository_url": "https://github.com/mathesis-papers/10.5281-zenodo.23920567",
       "site_url": "https://papers.trureturing.org/10.5281-zenodo.23920567/",
-      "slides": [],
+      "slides": [
+        {
+          "id": "seminar",
+          "language": "en",
+          "notes_url": "https://papers.trureturing.org/10.5281-zenodo.23920567/koljancic-oblak-2026-question-5-11-even-loop-path/slides/seminar/koljancic-oblak-2026-question-5-11-even-loop-path-seminar-en-notes.pdf",
+          "pdf_url": "https://papers.trureturing.org/10.5281-zenodo.23920567/koljancic-oblak-2026-question-5-11-even-loop-path/slides/seminar/koljancic-oblak-2026-question-5-11-even-loop-path-seminar-en.pdf"
+        },
+        {
+          "id": "seminar",
+          "language": "zh",
+          "notes_url": "https://papers.trureturing.org/10.5281-zenodo.23920567/koljancic-oblak-2026-question-5-11-even-loop-path/slides/seminar/koljancic-oblak-2026-question-5-11-even-loop-path-seminar-zh-notes.pdf",
+          "pdf_url": "https://papers.trureturing.org/10.5281-zenodo.23920567/koljancic-oblak-2026-question-5-11-even-loop-path/slides/seminar/koljancic-oblak-2026-question-5-11-even-loop-path-seminar-zh.pdf"
+        }
+      ],
       "version": 2,
-      "videos": [],
+      "videos": [
+        {
+          "id": "001-separated-branches-narrated_720p",
+          "mp4_url": "https://papers.trureturing.org/10.5281-zenodo.23920567/koljancic-oblak-2026-question-5-11-even-loop-path/films/001-separated-branches/koljancic-oblak-2026-question-5-11-even-loop-path_001_720p_narrated.mp4",
+          "poster_url": "https://papers.trureturing.org/10.5281-zenodo.23920567/koljancic-oblak-2026-question-5-11-even-loop-path/films/001-separated-branches/poster.jpg",
+          "title": "Separate the branches, build the path",
+          "url": "https://papers.trureturing.org/10.5281-zenodo.23920567/koljancic-oblak-2026-question-5-11-even-loop-path/films/#001-separated-branches"
+        }
+      ],
       "visualizations": []
     },
     {
@@ -1620,6 +1696,6 @@
       "visualizations": []
     }
   ],
-  "generated_at": "2026-11-19T15:05:20.03663538Z",
+  "generated_at": "2026-11-19T15:26:24.75013606Z",
   "schema": "mathesis.materials-index.v1"
 }
