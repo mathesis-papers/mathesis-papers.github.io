@@ -331,45 +331,186 @@
       "visualizations": []
     },
     {
-      "formalization_requests": [],
+      "formalization_requests": [
+        {
+          "label": "Corollary 2",
+          "url": "https://github.com/the-omega-institute/trureturing-requests/issues/264"
+        },
+        {
+          "label": "Corollary 3",
+          "url": "https://github.com/the-omega-institute/trureturing-requests/issues/265"
+        },
+        {
+          "label": "Corollary 4",
+          "url": "https://github.com/the-omega-institute/trureturing-requests/issues/266"
+        },
+        {
+          "label": "Corollary 6",
+          "url": "https://github.com/the-omega-institute/trureturing-requests/issues/267"
+        }
+      ],
       "id": "bala295462",
       "kind": "collected",
       "reading": {
-        "en": "https://papers.trureturing.org/10.5281-zenodo.23971278/en/",
-        "zh": "https://papers.trureturing.org/10.5281-zenodo.23971278/zh/"
+        "en": "https://papers.trureturing.org/10.5281-zenodo.23971278/bala295462/en/",
+        "zh": "https://papers.trureturing.org/10.5281-zenodo.23971278/bala295462/zh/"
       },
       "repository_url": "https://github.com/mathesis-papers/10.5281-zenodo.23971278",
       "site_url": "https://papers.trureturing.org/10.5281-zenodo.23971278/",
-      "slides": [],
+      "slides": [
+        {
+          "id": "seminar",
+          "language": "en",
+          "notes_url": "https://papers.trureturing.org/10.5281-zenodo.23971278/bala295462/slides/seminar/bala295462-seminar-en-notes.pdf",
+          "pdf_url": "https://papers.trureturing.org/10.5281-zenodo.23971278/bala295462/slides/seminar/bala295462-seminar-en.pdf"
+        },
+        {
+          "id": "seminar",
+          "language": "zh",
+          "notes_url": "https://papers.trureturing.org/10.5281-zenodo.23971278/bala295462/slides/seminar/bala295462-seminar-zh-notes.pdf",
+          "pdf_url": "https://papers.trureturing.org/10.5281-zenodo.23971278/bala295462/slides/seminar/bala295462-seminar-zh.pdf"
+        }
+      ],
       "version": 4,
-      "videos": [],
+      "videos": [
+        {
+          "id": "001-binary-spacing-narrated_720p",
+          "mp4_url": "https://papers.trureturing.org/10.5281-zenodo.23971278/bala295462/films/001-binary-spacing/bala295462_001_720p_narrated.mp4",
+          "poster_url": "https://papers.trureturing.org/10.5281-zenodo.23971278/bala295462/films/001-binary-spacing/poster.jpg",
+          "title": "Three zeros decide parity",
+          "url": "https://papers.trureturing.org/10.5281-zenodo.23971278/bala295462/films/#001-binary-spacing"
+        }
+      ],
       "visualizations": []
     },
     {
       "formalization_requests": [],
-      "id": "bouafia-diversity-negative-type",
+      "id": "bernath-a400645-consecutive-ratio",
       "kind": "collected",
       "reading": {},
-      "repository_url": "https://github.com/mathesis-papers/bouafia-diversity-negative-type",
-      "site_url": "https://papers.trureturing.org/bouafia-diversity-negative-type/",
+      "repository_url": "https://github.com/mathesis-papers/bernath-a400645-consecutive-ratio",
+      "site_url": "https://papers.trureturing.org/bernath-a400645-consecutive-ratio/",
       "slides": [],
       "version": 2,
       "videos": [],
       "visualizations": []
     },
     {
-      "formalization_requests": [],
+      "formalization_requests": [
+        {
+          "label": "Theorem 1 (Section 2) — Full five-point scaled-Hamming certificate",
+          "url": "https://github.com/the-omega-institute/trureturing-requests/issues/31"
+        },
+        {
+          "label": "Proposition 2 (Section 3) — Positive-definite simplex optimality criterion",
+          "url": "https://github.com/the-omega-institute/trureturing-requests/issues/32"
+        },
+        {
+          "label": "Corollary 3 (Section 3) — Unique optimizer restoring a deleted point",
+          "url": "https://github.com/the-omega-institute/trureturing-requests/issues/33"
+        },
+        {
+          "label": "Theorem 4 (Section 4) — Eight-point Euclidean exponential-similarity failure",
+          "url": "https://github.com/the-omega-institute/trureturing-requests/issues/34"
+        },
+        {
+          "label": "Proposition 5 (Section 4) — Strict-sign small-scale transfer of deletion failure",
+          "url": "https://github.com/the-omega-institute/trureturing-requests/issues/35"
+        },
+        {
+          "label": "Corollary 6 (Section 4) — Huntsman configuration at all sufficiently small scales",
+          "url": "https://github.com/the-omega-institute/trureturing-requests/issues/36"
+        },
+        {
+          "label": "Corollary 7 (Section 5) — Hamming positive-scale failure with optimal zero-scale limit",
+          "url": "https://github.com/the-omega-institute/trureturing-requests/issues/37"
+        },
+        {
+          "label": "Corollary 8 (Section 5) — Robustness and arbitrary-cardinality deletion failures",
+          "url": "https://github.com/the-omega-institute/trureturing-requests/issues/38"
+        }
+      ],
+      "id": "bouafia-diversity-negative-type",
+      "kind": "collected",
+      "reading": {
+        "en": "https://papers.trureturing.org/bouafia-diversity-negative-type/bouafia-diversity-negative-type/en/",
+        "zh": "https://papers.trureturing.org/bouafia-diversity-negative-type/bouafia-diversity-negative-type/zh/"
+      },
+      "repository_url": "https://github.com/mathesis-papers/bouafia-diversity-negative-type",
+      "site_url": "https://papers.trureturing.org/bouafia-diversity-negative-type/",
+      "slides": [
+        {
+          "id": "seminar",
+          "language": "en",
+          "notes_url": "https://papers.trureturing.org/bouafia-diversity-negative-type/bouafia-diversity-negative-type/slides/seminar/bouafia-diversity-negative-type-seminar-en-notes.pdf",
+          "pdf_url": "https://papers.trureturing.org/bouafia-diversity-negative-type/bouafia-diversity-negative-type/slides/seminar/bouafia-diversity-negative-type-seminar-en.pdf"
+        },
+        {
+          "id": "seminar",
+          "language": "zh",
+          "notes_url": "https://papers.trureturing.org/bouafia-diversity-negative-type/bouafia-diversity-negative-type/slides/seminar/bouafia-diversity-negative-type-seminar-zh-notes.pdf",
+          "pdf_url": "https://papers.trureturing.org/bouafia-diversity-negative-type/bouafia-diversity-negative-type/slides/seminar/bouafia-diversity-negative-type-seminar-zh.pdf"
+        }
+      ],
+      "version": 2,
+      "videos": [
+        {
+          "id": "001-deleted-point-narrated_720p",
+          "mp4_url": "https://papers.trureturing.org/bouafia-diversity-negative-type/bouafia-diversity-negative-type/films/001-deleted-point/bouafia-diversity-negative-type_001_720p_narrated.mp4",
+          "poster_url": "https://papers.trureturing.org/bouafia-diversity-negative-type/bouafia-diversity-negative-type/films/001-deleted-point/poster.jpg",
+          "title": "Can a deleted point come back?",
+          "url": "https://papers.trureturing.org/bouafia-diversity-negative-type/bouafia-diversity-negative-type/films/#001-deleted-point"
+        }
+      ],
+      "visualizations": []
+    },
+    {
+      "formalization_requests": [
+        {
+          "label": "Theorem 1",
+          "url": "https://github.com/the-omega-institute/trureturing-requests/issues/236"
+        },
+        {
+          "label": "Corollary 2",
+          "url": "https://github.com/the-omega-institute/trureturing-requests/issues/237"
+        },
+        {
+          "label": "Corollary 3",
+          "url": "https://github.com/the-omega-institute/trureturing-requests/issues/238"
+        }
+      ],
       "id": "bu-gu-jaffe-2025-mixed-state-inverse-sumset",
       "kind": "collected",
       "reading": {
-        "en": "https://papers.trureturing.org/10.5281-zenodo.23885950/en/",
-        "zh": "https://papers.trureturing.org/10.5281-zenodo.23885950/zh/"
+        "en": "https://papers.trureturing.org/10.5281-zenodo.23885950/bu-gu-jaffe-2025-mixed-state-inverse-sumset/en/",
+        "zh": "https://papers.trureturing.org/10.5281-zenodo.23885950/bu-gu-jaffe-2025-mixed-state-inverse-sumset/zh/"
       },
       "repository_url": "https://github.com/mathesis-papers/10.5281-zenodo.23885950",
       "site_url": "https://papers.trureturing.org/10.5281-zenodo.23885950/",
-      "slides": [],
+      "slides": [
+        {
+          "id": "seminar",
+          "language": "en",
+          "notes_url": "https://papers.trureturing.org/10.5281-zenodo.23885950/bu-gu-jaffe-2025-mixed-state-inverse-sumset/slides/seminar/bu-gu-jaffe-2025-mixed-state-inverse-sumset-seminar-en-notes.pdf",
+          "pdf_url": "https://papers.trureturing.org/10.5281-zenodo.23885950/bu-gu-jaffe-2025-mixed-state-inverse-sumset/slides/seminar/bu-gu-jaffe-2025-mixed-state-inverse-sumset-seminar-en.pdf"
+        },
+        {
+          "id": "seminar",
+          "language": "zh",
+          "notes_url": "https://papers.trureturing.org/10.5281-zenodo.23885950/bu-gu-jaffe-2025-mixed-state-inverse-sumset/slides/seminar/bu-gu-jaffe-2025-mixed-state-inverse-sumset-seminar-zh-notes.pdf",
+          "pdf_url": "https://papers.trureturing.org/10.5281-zenodo.23885950/bu-gu-jaffe-2025-mixed-state-inverse-sumset/slides/seminar/bu-gu-jaffe-2025-mixed-state-inverse-sumset-seminar-zh.pdf"
+        }
+      ],
       "version": 2,
-      "videos": [],
+      "videos": [
+        {
+          "id": "001-two-point-obstruction-narrated_720p",
+          "mp4_url": "https://papers.trureturing.org/10.5281-zenodo.23885950/bu-gu-jaffe-2025-mixed-state-inverse-sumset/films/001-two-point-obstruction/bu-gu-jaffe-2025-mixed-state-inverse-sumset_001_720p_narrated.mp4",
+          "poster_url": "https://papers.trureturing.org/10.5281-zenodo.23885950/bu-gu-jaffe-2025-mixed-state-inverse-sumset/films/001-two-point-obstruction/poster.jpg",
+          "title": "Two points among seven",
+          "url": "https://papers.trureturing.org/10.5281-zenodo.23885950/bu-gu-jaffe-2025-mixed-state-inverse-sumset/films/#001-two-point-obstruction"
+        }
+      ],
       "visualizations": []
     },
     {
@@ -415,33 +556,93 @@
       ]
     },
     {
-      "formalization_requests": [],
+      "formalization_requests": [
+        {
+          "label": "Corollary 3; Corollary 4; Corollary 5; Corollary 6; Corollary 7; Lemma 2 and equation (1); Theorem 1",
+          "url": "https://github.com/the-omega-institute/trureturing-requests/issues/124"
+        }
+      ],
       "id": "chiral-event-parity-minimality",
       "kind": "collected",
       "reading": {
-        "en": "https://papers.trureturing.org/10.5281-zenodo.23934999/en/",
-        "zh": "https://papers.trureturing.org/10.5281-zenodo.23934999/zh/"
+        "en": "https://papers.trureturing.org/10.5281-zenodo.23934999/chiral-event-parity-minimality/en/",
+        "zh": "https://papers.trureturing.org/10.5281-zenodo.23934999/chiral-event-parity-minimality/zh/"
       },
       "repository_url": "https://github.com/mathesis-papers/10.5281-zenodo.23934999",
       "site_url": "https://papers.trureturing.org/10.5281-zenodo.23934999/",
-      "slides": [],
+      "slides": [
+        {
+          "id": "parity-minimality",
+          "language": "en",
+          "notes_url": "https://papers.trureturing.org/10.5281-zenodo.23934999/chiral-event-parity-minimality/slides/parity-minimality/chiral-event-parity-minimality-parity-minimality-en-notes.pdf",
+          "pdf_url": "https://papers.trureturing.org/10.5281-zenodo.23934999/chiral-event-parity-minimality/slides/parity-minimality/chiral-event-parity-minimality-parity-minimality-en.pdf"
+        },
+        {
+          "id": "parity-minimality",
+          "language": "zh",
+          "notes_url": "https://papers.trureturing.org/10.5281-zenodo.23934999/chiral-event-parity-minimality/slides/parity-minimality/chiral-event-parity-minimality-parity-minimality-zh-notes.pdf",
+          "pdf_url": "https://papers.trureturing.org/10.5281-zenodo.23934999/chiral-event-parity-minimality/slides/parity-minimality/chiral-event-parity-minimality-parity-minimality-zh.pdf"
+        }
+      ],
       "version": 2,
-      "videos": [],
+      "videos": [
+        {
+          "id": "001-antipodal-sphere-narrated_720p",
+          "mp4_url": "https://papers.trureturing.org/10.5281-zenodo.23934999/chiral-event-parity-minimality/films/001-antipodal-sphere/chiral-event-parity-minimality_001_720p_narrated.mp4",
+          "poster_url": "https://papers.trureturing.org/10.5281-zenodo.23934999/chiral-event-parity-minimality/films/001-antipodal-sphere/poster.jpg",
+          "title": "The Antipodal Sphere",
+          "url": "https://papers.trureturing.org/10.5281-zenodo.23934999/chiral-event-parity-minimality/films/#001-antipodal-sphere"
+        }
+      ],
       "visualizations": []
     },
     {
-      "formalization_requests": [],
+      "formalization_requests": [
+        {
+          "label": "Theorem 1, Sections 2–3",
+          "url": "https://github.com/the-omega-institute/trureturing-requests/issues/186"
+        },
+        {
+          "label": "Corollary 2, Section 4.1",
+          "url": "https://github.com/the-omega-institute/trureturing-requests/issues/187"
+        },
+        {
+          "label": "Corollary 3, Section 4.3",
+          "url": "https://github.com/the-omega-institute/trureturing-requests/issues/188"
+        }
+      ],
       "id": "consiglio-apollaro-wiesniak-2022-xmems-css-shape",
       "kind": "collected",
       "reading": {
-        "en": "https://papers.trureturing.org/10.5281-zenodo.23904463/en/",
-        "zh": "https://papers.trureturing.org/10.5281-zenodo.23904463/zh/"
+        "en": "https://papers.trureturing.org/10.5281-zenodo.23904463/consiglio-apollaro-wiesniak-2022-xmems-css-shape/en/",
+        "zh": "https://papers.trureturing.org/10.5281-zenodo.23904463/consiglio-apollaro-wiesniak-2022-xmems-css-shape/zh/"
       },
       "repository_url": "https://github.com/mathesis-papers/10.5281-zenodo.23904463",
       "site_url": "https://papers.trureturing.org/10.5281-zenodo.23904463/",
-      "slides": [],
+      "slides": [
+        {
+          "id": "seminar",
+          "language": "en",
+          "notes_url": "https://papers.trureturing.org/10.5281-zenodo.23904463/consiglio-apollaro-wiesniak-2022-xmems-css-shape/slides/seminar/consiglio-apollaro-wiesniak-2022-xmems-css-shape-seminar-en-notes.pdf",
+          "pdf_url": "https://papers.trureturing.org/10.5281-zenodo.23904463/consiglio-apollaro-wiesniak-2022-xmems-css-shape/slides/seminar/consiglio-apollaro-wiesniak-2022-xmems-css-shape-seminar-en.pdf"
+        },
+        {
+          "id": "seminar",
+          "language": "zh",
+          "notes_url": "https://papers.trureturing.org/10.5281-zenodo.23904463/consiglio-apollaro-wiesniak-2022-xmems-css-shape/slides/seminar/consiglio-apollaro-wiesniak-2022-xmems-css-shape-seminar-zh-notes.pdf",
+          "pdf_url": "https://papers.trureturing.org/10.5281-zenodo.23904463/consiglio-apollaro-wiesniak-2022-xmems-css-shape/slides/seminar/consiglio-apollaro-wiesniak-2022-xmems-css-shape-seminar-zh.pdf"
+        }
+      ],
       "version": 2,
-      "videos": [],
+      "videos": [
+        {
+          "id": "001-escaping-the-shape-narrated_720p",
+          "mp4_url": "https://papers.trureturing.org/10.5281-zenodo.23904463/consiglio-apollaro-wiesniak-2022-xmems-css-shape/films/001-escaping-the-shape/consiglio-apollaro-wiesniak-2022-xmems-css-shape_001_720p_narrated.mp4",
+          "poster_url": "https://papers.trureturing.org/10.5281-zenodo.23904463/consiglio-apollaro-wiesniak-2022-xmems-css-shape/films/001-escaping-the-shape/poster.jpg",
+          "title": "Escaping the conjectured shape",
+          "url": "https://papers.trureturing.org/10.5281-zenodo.23904463/consiglio-apollaro-wiesniak-2022-xmems-css-shape/films/#001-escaping-the-shape"
+        }
+      ],
       "visualizations": []
     },
     {
@@ -896,6 +1097,18 @@
     },
     {
       "formalization_requests": [],
+      "id": "spin-one-rotation-boxes",
+      "kind": "collected",
+      "reading": {},
+      "repository_url": "https://github.com/mathesis-papers/spin-one-rotation-boxes",
+      "site_url": "https://papers.trureturing.org/spin-one-rotation-boxes/",
+      "slides": [],
+      "version": 2,
+      "videos": [],
+      "visualizations": []
+    },
+    {
+      "formalization_requests": [],
       "id": "stepanov-herrmann-guhr-2021-correlation-top-eigenvector-weight",
       "kind": "collected",
       "reading": {
@@ -994,6 +1207,6 @@
       "visualizations": []
     }
   ],
-  "generated_at": "2026-11-19T12:48:54.587372284Z",
+  "generated_at": "2026-11-19T13:30:07.158726216Z",
   "schema": "mathesis.materials-index.v1"
 }
