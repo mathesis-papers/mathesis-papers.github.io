@@ -225,33 +225,109 @@
       "visualizations": []
     },
     {
-      "formalization_requests": [],
+      "formalization_requests": [
+        {
+          "label": "Proposition 2",
+          "url": "https://github.com/the-omega-institute/trureturing-requests/issues/234"
+        },
+        {
+          "label": "Proposition 3",
+          "url": "https://github.com/the-omega-institute/trureturing-requests/issues/235"
+        }
+      ],
       "id": "b164660-chebfloor",
       "kind": "collected",
       "reading": {
-        "en": "https://papers.trureturing.org/10.5281-zenodo.23884882/en/",
-        "zh": "https://papers.trureturing.org/10.5281-zenodo.23884882/zh/"
+        "en": "https://papers.trureturing.org/10.5281-zenodo.23884882/b164660-chebfloor/en/",
+        "zh": "https://papers.trureturing.org/10.5281-zenodo.23884882/b164660-chebfloor/zh/"
       },
       "repository_url": "https://github.com/mathesis-papers/10.5281-zenodo.23884882",
       "site_url": "https://papers.trureturing.org/10.5281-zenodo.23884882/",
-      "slides": [],
+      "slides": [
+        {
+          "id": "seminar",
+          "language": "en",
+          "notes_url": "https://papers.trureturing.org/10.5281-zenodo.23884882/b164660-chebfloor/slides/seminar/b164660-chebfloor-seminar-en-notes.pdf",
+          "pdf_url": "https://papers.trureturing.org/10.5281-zenodo.23884882/b164660-chebfloor/slides/seminar/b164660-chebfloor-seminar-en.pdf"
+        },
+        {
+          "id": "seminar",
+          "language": "zh",
+          "notes_url": "https://papers.trureturing.org/10.5281-zenodo.23884882/b164660-chebfloor/slides/seminar/b164660-chebfloor-seminar-zh-notes.pdf",
+          "pdf_url": "https://papers.trureturing.org/10.5281-zenodo.23884882/b164660-chebfloor/slides/seminar/b164660-chebfloor-seminar-zh.pdf"
+        }
+      ],
       "version": 1,
-      "videos": [],
+      "videos": [
+        {
+          "id": "001-divisibility-sign-narrated_720p",
+          "mp4_url": "https://papers.trureturing.org/10.5281-zenodo.23884882/b164660-chebfloor/films/001-divisibility-sign/b164660-chebfloor_001_720p_narrated.mp4",
+          "poster_url": "https://papers.trureturing.org/10.5281-zenodo.23884882/b164660-chebfloor/films/001-divisibility-sign/poster.jpg",
+          "title": "Two floors, one sign flip",
+          "url": "https://papers.trureturing.org/10.5281-zenodo.23884882/b164660-chebfloor/films/#001-divisibility-sign"
+        }
+      ],
       "visualizations": []
     },
     {
-      "formalization_requests": [],
+      "formalization_requests": [
+        {
+          "label": "Lemma 2",
+          "url": "https://github.com/the-omega-institute/trureturing-requests/issues/131"
+        },
+        {
+          "label": "Lemma 6",
+          "url": "https://github.com/the-omega-institute/trureturing-requests/issues/132"
+        },
+        {
+          "label": "Corollary 7",
+          "url": "https://github.com/the-omega-institute/trureturing-requests/issues/133"
+        },
+        {
+          "label": "Corollary 8",
+          "url": "https://github.com/the-omega-institute/trureturing-requests/issues/134"
+        },
+        {
+          "label": "Lemma 9",
+          "url": "https://github.com/the-omega-institute/trureturing-requests/issues/135"
+        },
+        {
+          "label": "Corollary 11",
+          "url": "https://github.com/the-omega-institute/trureturing-requests/issues/136"
+        }
+      ],
       "id": "bajnok-beatty-original-conjecture-4-1",
       "kind": "collected",
       "reading": {
-        "en": "https://papers.trureturing.org/10.5281-zenodo.23931730/en/",
-        "zh": "https://papers.trureturing.org/10.5281-zenodo.23931730/zh/"
+        "en": "https://papers.trureturing.org/10.5281-zenodo.23931730/bajnok-beatty-original-conjecture-4-1/en/",
+        "zh": "https://papers.trureturing.org/10.5281-zenodo.23931730/bajnok-beatty-original-conjecture-4-1/zh/"
       },
       "repository_url": "https://github.com/mathesis-papers/10.5281-zenodo.23931730",
       "site_url": "https://papers.trureturing.org/10.5281-zenodo.23931730/",
-      "slides": [],
+      "slides": [
+        {
+          "id": "seminar",
+          "language": "en",
+          "notes_url": "https://papers.trureturing.org/10.5281-zenodo.23931730/bajnok-beatty-original-conjecture-4-1/slides/seminar/bajnok-beatty-original-conjecture-4-1-seminar-en-notes.pdf",
+          "pdf_url": "https://papers.trureturing.org/10.5281-zenodo.23931730/bajnok-beatty-original-conjecture-4-1/slides/seminar/bajnok-beatty-original-conjecture-4-1-seminar-en.pdf"
+        },
+        {
+          "id": "seminar",
+          "language": "zh",
+          "notes_url": "https://papers.trureturing.org/10.5281-zenodo.23931730/bajnok-beatty-original-conjecture-4-1/slides/seminar/bajnok-beatty-original-conjecture-4-1-seminar-zh-notes.pdf",
+          "pdf_url": "https://papers.trureturing.org/10.5281-zenodo.23931730/bajnok-beatty-original-conjecture-4-1/slides/seminar/bajnok-beatty-original-conjecture-4-1-seminar-zh.pdf"
+        }
+      ],
       "version": 2,
-      "videos": [],
+      "videos": [
+        {
+          "id": "001-diamond-square-narrated_720p",
+          "mp4_url": "https://papers.trureturing.org/10.5281-zenodo.23931730/bajnok-beatty-original-conjecture-4-1/films/001-diamond-square/bajnok-beatty-original-conjecture-4-1_001_720p_narrated.mp4",
+          "poster_url": "https://papers.trureturing.org/10.5281-zenodo.23931730/bajnok-beatty-original-conjecture-4-1/films/001-diamond-square/poster.jpg",
+          "title": "From a diamond to a square",
+          "url": "https://papers.trureturing.org/10.5281-zenodo.23931730/bajnok-beatty-original-conjecture-4-1/films/#001-diamond-square"
+        }
+      ],
       "visualizations": []
     },
     {
@@ -918,6 +994,6 @@
       "visualizations": []
     }
   ],
-  "generated_at": "2026-11-19T12:41:24.469703925Z",
+  "generated_at": "2026-11-19T12:48:54.587372284Z",
   "schema": "mathesis.materials-index.v1"
 }
