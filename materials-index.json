@@ -1381,33 +1381,109 @@
       "visualizations": []
     },
     {
-      "formalization_requests": [],
+      "formalization_requests": [
+        {
+          "label": "Lemma 2",
+          "url": "https://github.com/the-omega-institute/trureturing-requests/issues/179"
+        },
+        {
+          "label": "Corollary 3; Theorem 1",
+          "url": "https://github.com/the-omega-institute/trureturing-requests/issues/180"
+        },
+        {
+          "label": "Corollary 4",
+          "url": "https://github.com/the-omega-institute/trureturing-requests/issues/181"
+        },
+        {
+          "label": "Corollary 5",
+          "url": "https://github.com/the-omega-institute/trureturing-requests/issues/182"
+        }
+      ],
       "id": "malkoun-2026-mo512579-jordan-elementary",
       "kind": "collected",
       "reading": {
-        "en": "https://papers.trureturing.org/10.5281-zenodo.23920582/en/",
-        "zh": "https://papers.trureturing.org/10.5281-zenodo.23920582/zh/"
+        "en": "https://papers.trureturing.org/10.5281-zenodo.23920582/malkoun-2026-mo512579-jordan-elementary/en/",
+        "zh": "https://papers.trureturing.org/10.5281-zenodo.23920582/malkoun-2026-mo512579-jordan-elementary/zh/"
       },
       "repository_url": "https://github.com/mathesis-papers/10.5281-zenodo.23920582",
       "site_url": "https://papers.trureturing.org/10.5281-zenodo.23920582/",
-      "slides": [],
+      "slides": [
+        {
+          "id": "seminar",
+          "language": "en",
+          "notes_url": "https://papers.trureturing.org/10.5281-zenodo.23920582/malkoun-2026-mo512579-jordan-elementary/slides/seminar/malkoun-2026-mo512579-jordan-elementary-seminar-en-notes.pdf",
+          "pdf_url": "https://papers.trureturing.org/10.5281-zenodo.23920582/malkoun-2026-mo512579-jordan-elementary/slides/seminar/malkoun-2026-mo512579-jordan-elementary-seminar-en.pdf"
+        },
+        {
+          "id": "seminar",
+          "language": "zh",
+          "notes_url": "https://papers.trureturing.org/10.5281-zenodo.23920582/malkoun-2026-mo512579-jordan-elementary/slides/seminar/malkoun-2026-mo512579-jordan-elementary-seminar-zh-notes.pdf",
+          "pdf_url": "https://papers.trureturing.org/10.5281-zenodo.23920582/malkoun-2026-mo512579-jordan-elementary/slides/seminar/malkoun-2026-mo512579-jordan-elementary-seminar-zh.pdf"
+        }
+      ],
       "version": 1,
-      "videos": [],
+      "videos": [
+        {
+          "id": "001-stacked-gram-narrated_720p",
+          "mp4_url": "https://papers.trureturing.org/10.5281-zenodo.23920582/malkoun-2026-mo512579-jordan-elementary/films/001-stacked-gram/malkoun-2026-mo512579-jordan-elementary_001_720p_narrated.mp4",
+          "poster_url": "https://papers.trureturing.org/10.5281-zenodo.23920582/malkoun-2026-mo512579-jordan-elementary/films/001-stacked-gram/poster.jpg",
+          "title": "Swap the stacks, bound the determinant",
+          "url": "https://papers.trureturing.org/10.5281-zenodo.23920582/malkoun-2026-mo512579-jordan-elementary/films/#001-stacked-gram"
+        }
+      ],
       "visualizations": []
     },
     {
-      "formalization_requests": [],
+      "formalization_requests": [
+        {
+          "label": "Theorem 1",
+          "url": "https://github.com/the-omega-institute/trureturing-requests/issues/253"
+        },
+        {
+          "label": "Corollary 2",
+          "url": "https://github.com/the-omega-institute/trureturing-requests/issues/254"
+        },
+        {
+          "label": "Corollary 3",
+          "url": "https://github.com/the-omega-institute/trureturing-requests/issues/255"
+        },
+        {
+          "label": "Corollary 4",
+          "url": "https://github.com/the-omega-institute/trureturing-requests/issues/256"
+        }
+      ],
       "id": "mathar-a027182-closed-form",
       "kind": "collected",
       "reading": {
-        "en": "https://papers.trureturing.org/10.5281-zenodo.23884889/en/",
-        "zh": "https://papers.trureturing.org/10.5281-zenodo.23884889/zh/"
+        "en": "https://papers.trureturing.org/10.5281-zenodo.23884889/mathar-a027182-closed-form/en/",
+        "zh": "https://papers.trureturing.org/10.5281-zenodo.23884889/mathar-a027182-closed-form/zh/"
       },
       "repository_url": "https://github.com/mathesis-papers/10.5281-zenodo.23884889",
       "site_url": "https://papers.trureturing.org/10.5281-zenodo.23884889/",
-      "slides": [],
+      "slides": [
+        {
+          "id": "seminar",
+          "language": "en",
+          "notes_url": "https://papers.trureturing.org/10.5281-zenodo.23884889/mathar-a027182-closed-form/slides/seminar/mathar-a027182-closed-form-seminar-en-notes.pdf",
+          "pdf_url": "https://papers.trureturing.org/10.5281-zenodo.23884889/mathar-a027182-closed-form/slides/seminar/mathar-a027182-closed-form-seminar-en.pdf"
+        },
+        {
+          "id": "seminar",
+          "language": "zh",
+          "notes_url": "https://papers.trureturing.org/10.5281-zenodo.23884889/mathar-a027182-closed-form/slides/seminar/mathar-a027182-closed-form-seminar-zh-notes.pdf",
+          "pdf_url": "https://papers.trureturing.org/10.5281-zenodo.23884889/mathar-a027182-closed-form/slides/seminar/mathar-a027182-closed-form-seminar-zh.pdf"
+        }
+      ],
       "version": 4,
-      "videos": [],
+      "videos": [
+        {
+          "id": "001-symmetry-to-recurrence-narrated_720p",
+          "mp4_url": "https://papers.trureturing.org/10.5281-zenodo.23884889/mathar-a027182-closed-form/films/001-symmetry-to-recurrence/mathar-a027182-closed-form_001_720p_narrated.mp4",
+          "poster_url": "https://papers.trureturing.org/10.5281-zenodo.23884889/mathar-a027182-closed-form/films/001-symmetry-to-recurrence/poster.jpg",
+          "title": "From a symmetric row to a recurrence",
+          "url": "https://papers.trureturing.org/10.5281-zenodo.23884889/mathar-a027182-closed-form/films/#001-symmetry-to-recurrence"
+        }
+      ],
       "visualizations": []
     },
     {
@@ -1738,6 +1814,6 @@
       "visualizations": []
     }
   ],
-  "generated_at": "2026-11-19T15:34:15.366712664Z",
+  "generated_at": "2026-11-19T15:54:05.289486507Z",
   "schema": "mathesis.materials-index.v1"
 }
