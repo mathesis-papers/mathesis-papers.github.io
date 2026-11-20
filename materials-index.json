@@ -1788,6 +1788,18 @@
     },
     {
       "formalization_requests": [],
+      "id": "nath2021-commuting-cn-conjecture2",
+      "kind": "collected",
+      "reading": {},
+      "repository_url": "https://github.com/mathesis-papers/nath2021-commuting-cn-conjecture2",
+      "site_url": "https://papers.trureturing.org/nath2021-commuting-cn-conjecture2/",
+      "slides": [],
+      "version": 2,
+      "videos": [],
+      "visualizations": []
+    },
+    {
+      "formalization_requests": [],
       "id": "oeis-a189733-curtz-denominator-conjecture",
       "kind": "collected",
       "reading": {
@@ -2072,6 +2084,6 @@
       "visualizations": []
     }
   ],
-  "generated_at": "2026-11-20T14:29:40.855566128Z",
+  "generated_at": "2026-11-20T15:29:52.444009758Z",
   "schema": "mathesis.materials-index.v1"
 }
