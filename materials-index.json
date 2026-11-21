@@ -710,6 +710,18 @@
       "visualizations": []
     },
     {
+      "formalization_requests": [],
+      "id": "finch-zero-runs",
+      "kind": "collected",
+      "reading": {},
+      "repository_url": "https://github.com/mathesis-papers/finch-zero-runs",
+      "site_url": "https://papers.trureturing.org/finch-zero-runs/",
+      "slides": [],
+      "version": 3,
+      "videos": [],
+      "visualizations": []
+    },
+    {
       "formalization_requests": [
         {
           "label": "Theorem 1",
@@ -760,6 +772,18 @@
           "url": "https://papers.trureturing.org/10.5281-zenodo.23920556/ggps2025/films/#001-modulus"
         }
       ],
+      "visualizations": []
+    },
+    {
+      "formalization_requests": [],
+      "id": "han-pedon-metallic-hankel-quasipolynomial",
+      "kind": "collected",
+      "reading": {},
+      "repository_url": "https://github.com/mathesis-papers/han-pedon-metallic-hankel-quasipolynomial",
+      "site_url": "https://papers.trureturing.org/han-pedon-metallic-hankel-quasipolynomial/",
+      "slides": [],
+      "version": 2,
+      "videos": [],
       "visualizations": []
     },
     {
@@ -2043,6 +2067,18 @@
     },
     {
       "formalization_requests": [],
+      "id": "velez-cadavid-numerical-semigroup-realizability",
+      "kind": "collected",
+      "reading": {},
+      "repository_url": "https://github.com/mathesis-papers/velez-cadavid-numerical-semigroup-realizability",
+      "site_url": "https://papers.trureturing.org/velez-cadavid-numerical-semigroup-realizability/",
+      "slides": [],
+      "version": 2,
+      "videos": [],
+      "visualizations": []
+    },
+    {
+      "formalization_requests": [],
       "id": "wang-conjecture326",
       "kind": "collected",
       "reading": {
@@ -2084,6 +2120,6 @@
       "visualizations": []
     }
   ],
-  "generated_at": "2026-11-21T11:28:59.076620084Z",
+  "generated_at": "2026-11-21T13:12:30.708026282Z",
   "schema": "mathesis.materials-index.v1"
 }
