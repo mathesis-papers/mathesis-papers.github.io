@@ -811,6 +811,18 @@
       "visualizations": []
     },
     {
+      "formalization_requests": [],
+      "id": "hanna-a381355",
+      "kind": "collected",
+      "reading": {},
+      "repository_url": "https://github.com/mathesis-papers/hanna-a381355",
+      "site_url": "https://papers.trureturing.org/hanna-a381355/",
+      "slides": [],
+      "version": 2,
+      "videos": [],
+      "visualizations": []
+    },
+    {
       "formalization_requests": [
         {
           "label": "Lemma 1",
@@ -2240,6 +2252,6 @@
       "visualizations": []
     }
   ],
-  "generated_at": "2026-11-22T12:32:47.024160486Z",
+  "generated_at": "2026-11-22T13:29:36.384875599Z",
   "schema": "mathesis.materials-index.v1"
 }
