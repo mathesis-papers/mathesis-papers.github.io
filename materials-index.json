@@ -331,6 +331,18 @@
       "visualizations": []
     },
     {
+      "formalization_requests": [],
+      "id": "bala-machine3626-exact-halting-time",
+      "kind": "collected",
+      "reading": {},
+      "repository_url": "https://github.com/mathesis-papers/bala-machine3626-exact-halting-time",
+      "site_url": "https://papers.trureturing.org/bala-machine3626-exact-halting-time/",
+      "slides": [],
+      "version": 3,
+      "videos": [],
+      "visualizations": []
+    },
+    {
       "formalization_requests": [
         {
           "label": "Corollary 2",
@@ -1559,6 +1571,18 @@
       "visualizations": []
     },
     {
+      "formalization_requests": [],
+      "id": "mathar-a174193-order-four-recurrence",
+      "kind": "collected",
+      "reading": {},
+      "repository_url": "https://github.com/mathesis-papers/mathar-a174193-order-four-recurrence",
+      "site_url": "https://papers.trureturing.org/mathar-a174193-order-four-recurrence/",
+      "slides": [],
+      "version": 3,
+      "videos": [],
+      "visualizations": []
+    },
+    {
       "formalization_requests": [
         {
           "label": "Theorem 1, Sections 1 and 3",
@@ -1872,6 +1896,18 @@
     },
     {
       "formalization_requests": [],
+      "id": "oeis-a112399-morken-first-divisor-sum",
+      "kind": "collected",
+      "reading": {},
+      "repository_url": "https://github.com/mathesis-papers/oeis-a112399-morken-first-divisor-sum",
+      "site_url": "https://papers.trureturing.org/oeis-a112399-morken-first-divisor-sum/",
+      "slides": [],
+      "version": 3,
+      "videos": [],
+      "visualizations": []
+    },
+    {
+      "formalization_requests": [],
       "id": "oeis-a189733-curtz-denominator-conjecture",
       "kind": "collected",
       "reading": {
@@ -2180,6 +2216,6 @@
       "visualizations": []
     }
   ],
-  "generated_at": "2026-11-22T10:30:07.966829131Z",
+  "generated_at": "2026-11-22T11:29:24.930269714Z",
   "schema": "mathesis.materials-index.v1"
 }
