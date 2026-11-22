@@ -1080,6 +1080,18 @@
       "visualizations": []
     },
     {
+      "formalization_requests": [],
+      "id": "jen2610-permuted-rotor-loops",
+      "kind": "collected",
+      "reading": {},
+      "repository_url": "https://github.com/mathesis-papers/jen2610-permuted-rotor-loops",
+      "site_url": "https://papers.trureturing.org/jen2610-permuted-rotor-loops/",
+      "slides": [],
+      "version": 5,
+      "videos": [],
+      "visualizations": []
+    },
+    {
       "formalization_requests": [
         {
           "label": "Theorem 1 (Section 2)",
@@ -2168,6 +2180,6 @@
       "visualizations": []
     }
   ],
-  "generated_at": "2026-11-22T09:29:47.664398794Z",
+  "generated_at": "2026-11-22T10:30:07.966829131Z",
   "schema": "mathesis.materials-index.v1"
 }
