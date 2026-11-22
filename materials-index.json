@@ -2040,6 +2040,18 @@
     },
     {
       "formalization_requests": [],
+      "id": "projective-toric-design-subgroup-counterexample",
+      "kind": "collected",
+      "reading": {},
+      "repository_url": "https://github.com/mathesis-papers/projective-toric-design-subgroup-counterexample",
+      "site_url": "https://papers.trureturing.org/projective-toric-design-subgroup-counterexample/",
+      "slides": [],
+      "version": 3,
+      "videos": [],
+      "visualizations": []
+    },
+    {
+      "formalization_requests": [],
       "id": "radsarar-anando-2026-apollonian-second-eigenvalue",
       "kind": "collected",
       "reading": {
@@ -2214,8 +2226,20 @@
       "version": 1,
       "videos": [],
       "visualizations": []
+    },
+    {
+      "formalization_requests": [],
+      "id": "zhan-gupta-hillery-detector-sensor-flat-averaging",
+      "kind": "collected",
+      "reading": {},
+      "repository_url": "https://github.com/mathesis-papers/zhan-gupta-hillery-detector-sensor-flat-averaging",
+      "site_url": "https://papers.trureturing.org/zhan-gupta-hillery-detector-sensor-flat-averaging/",
+      "slides": [],
+      "version": 3,
+      "videos": [],
+      "visualizations": []
     }
   ],
-  "generated_at": "2026-11-22T11:29:24.930269714Z",
+  "generated_at": "2026-11-22T12:32:47.024160486Z",
   "schema": "mathesis.materials-index.v1"
 }
