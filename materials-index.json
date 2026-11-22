@@ -812,6 +812,30 @@
     },
     {
       "formalization_requests": [],
+      "id": "hanna-a181074-binomial-exponentials",
+      "kind": "collected",
+      "reading": {},
+      "repository_url": "https://github.com/mathesis-papers/10.5281-zenodo.24408310",
+      "site_url": "https://papers.trureturing.org/10.5281-zenodo.24408310/",
+      "slides": [],
+      "version": 3,
+      "videos": [],
+      "visualizations": []
+    },
+    {
+      "formalization_requests": [],
+      "id": "hanna-a181080-integrality",
+      "kind": "collected",
+      "reading": {},
+      "repository_url": "https://github.com/mathesis-papers/10.5281-zenodo.24407817",
+      "site_url": "https://papers.trureturing.org/10.5281-zenodo.24407817/",
+      "slides": [],
+      "version": 2,
+      "videos": [],
+      "visualizations": []
+    },
+    {
+      "formalization_requests": [],
       "id": "hanna-a381355",
       "kind": "collected",
       "reading": {},
@@ -2252,6 +2276,6 @@
       "visualizations": []
     }
   ],
-  "generated_at": "2026-11-22T15:29:56.396743631Z",
+  "generated_at": "2026-11-22T17:29:48.378030707Z",
   "schema": "mathesis.materials-index.v1"
 }
