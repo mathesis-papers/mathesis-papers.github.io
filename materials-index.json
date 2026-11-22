@@ -650,6 +650,18 @@
     },
     {
       "formalization_requests": [],
+      "id": "copeland-a131758",
+      "kind": "collected",
+      "reading": {},
+      "repository_url": "https://github.com/mathesis-papers/copeland-a131758",
+      "site_url": "https://papers.trureturing.org/copeland-a131758/",
+      "slides": [],
+      "version": 2,
+      "videos": [],
+      "visualizations": []
+    },
+    {
+      "formalization_requests": [],
       "id": "delgado-suer-yesil-2026-symmetrization-surjectivity",
       "kind": "collected",
       "reading": {},
@@ -1159,6 +1171,18 @@
           "url": "https://papers.trureturing.org/10.5281-zenodo.23885964/kang-jager-2026-universal-permutative-lift-refutation/films/#001-fixed-label"
         }
       ],
+      "visualizations": []
+    },
+    {
+      "formalization_requests": [],
+      "id": "khesin-li-2024-bipartite-encoder-equivalence",
+      "kind": "collected",
+      "reading": {},
+      "repository_url": "https://github.com/mathesis-papers/khesin-li-2024-bipartite-encoder-equivalence",
+      "site_url": "https://papers.trureturing.org/khesin-li-2024-bipartite-encoder-equivalence/",
+      "slides": [],
+      "version": 2,
+      "videos": [],
       "visualizations": []
     },
     {
@@ -2144,6 +2168,6 @@
       "visualizations": []
     }
   ],
-  "generated_at": "2026-11-22T08:30:58.672462196Z",
+  "generated_at": "2026-11-22T09:29:47.664398794Z",
   "schema": "mathesis.materials-index.v1"
 }
