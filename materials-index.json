@@ -571,6 +571,18 @@
       ]
     },
     {
+      "formalization_requests": [],
+      "id": "cheng-milne-hall-wiseman-2016-four-qubit-correlation-monogamy",
+      "kind": "collected",
+      "reading": {},
+      "repository_url": "https://github.com/mathesis-papers/cheng-milne-hall-wiseman-2016-four-qubit-correlation-monogamy",
+      "site_url": "https://papers.trureturing.org/cheng-milne-hall-wiseman-2016-four-qubit-correlation-monogamy/",
+      "slides": [],
+      "version": 2,
+      "videos": [],
+      "visualizations": []
+    },
+    {
       "formalization_requests": [
         {
           "label": "Corollary 3; Corollary 4; Corollary 5; Corollary 6; Corollary 7; Lemma 2 and equation (1); Theorem 1",
@@ -1932,6 +1944,18 @@
     },
     {
       "formalization_requests": [],
+      "id": "noe-2013-a222759-prime-cube-growth",
+      "kind": "collected",
+      "reading": {},
+      "repository_url": "https://github.com/mathesis-papers/noe-2013-a222759-prime-cube-growth",
+      "site_url": "https://papers.trureturing.org/noe-2013-a222759-prime-cube-growth/",
+      "slides": [],
+      "version": 2,
+      "videos": [],
+      "visualizations": []
+    },
+    {
+      "formalization_requests": [],
       "id": "oeis-a112399-morken-first-divisor-sum",
       "kind": "collected",
       "reading": {},
@@ -2276,6 +2300,6 @@
       "visualizations": []
     }
   ],
-  "generated_at": "2026-11-22T18:07:21.530204334Z",
+  "generated_at": "2026-11-22T21:18:16.236735879Z",
   "schema": "mathesis.materials-index.v1"
 }
