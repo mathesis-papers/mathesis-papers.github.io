@@ -553,6 +553,18 @@
     },
     {
       "formalization_requests": [],
+      "id": "barker-2018-oeis-a299289-tsi-coordination-sequence",
+      "kind": "collected",
+      "reading": {},
+      "repository_url": "https://github.com/mathesis-papers/barker-2018-oeis-a299289-tsi-coordination-sequence",
+      "site_url": "https://papers.trureturing.org/barker-2018-oeis-a299289-tsi-coordination-sequence/",
+      "slides": [],
+      "version": 2,
+      "videos": [],
+      "visualizations": []
+    },
+    {
+      "formalization_requests": [],
       "id": "barker-tea-coordination-sequence",
       "kind": "collected",
       "reading": {},
@@ -573,6 +585,18 @@
       },
       "repository_url": "https://github.com/mathesis-papers/bernath-a400645-consecutive-ratio",
       "site_url": "https://papers.trureturing.org/bernath-a400645-consecutive-ratio/",
+      "slides": [],
+      "version": 2,
+      "videos": [],
+      "visualizations": []
+    },
+    {
+      "formalization_requests": [],
+      "id": "bonamagarichey-2026-extremal-frequency",
+      "kind": "collected",
+      "reading": {},
+      "repository_url": "https://github.com/mathesis-papers/bonamagarichey-2026-extremal-frequency",
+      "site_url": "https://papers.trureturing.org/bonamagarichey-2026-extremal-frequency/",
       "slides": [],
       "version": 2,
       "videos": [],
@@ -3260,6 +3284,6 @@
       "visualizations": []
     }
   ],
-  "generated_at": "2026-11-23T20:30:34.61324549Z",
+  "generated_at": "2026-11-23T21:30:05.460687389Z",
   "schema": "mathesis.materials-index.v1"
 }
