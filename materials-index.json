@@ -457,6 +457,30 @@
     },
     {
       "formalization_requests": [],
+      "id": "balaper-a281181-phi2period",
+      "kind": "collected",
+      "reading": {},
+      "repository_url": "https://github.com/mathesis-papers/balaper-a281181-phi2period",
+      "site_url": "https://papers.trureturing.org/balaper-a281181-phi2period/",
+      "slides": [],
+      "version": 3,
+      "videos": [],
+      "visualizations": []
+    },
+    {
+      "formalization_requests": [],
+      "id": "balaper-a281183-phi2period",
+      "kind": "collected",
+      "reading": {},
+      "repository_url": "https://github.com/mathesis-papers/balaper-a281183-phi2period",
+      "site_url": "https://papers.trureturing.org/balaper-a281183-phi2period/",
+      "slides": [],
+      "version": 2,
+      "videos": [],
+      "visualizations": []
+    },
+    {
+      "formalization_requests": [],
       "id": "barker-tea-coordination-sequence",
       "kind": "collected",
       "reading": {},
@@ -2331,6 +2355,18 @@
     },
     {
       "formalization_requests": [],
+      "id": "oeis-a195417-absolute-coefficient-root-limit",
+      "kind": "collected",
+      "reading": {},
+      "repository_url": "https://github.com/mathesis-papers/oeis-a195417-absolute-coefficient-root-limit",
+      "site_url": "https://papers.trureturing.org/oeis-a195417-absolute-coefficient-root-limit/",
+      "slides": [],
+      "version": 4,
+      "videos": [],
+      "visualizations": []
+    },
+    {
+      "formalization_requests": [],
       "id": "oeis-a208509-affine-polynomial-pair-binomial-coefficients",
       "kind": "collected",
       "reading": {},
@@ -2610,6 +2646,18 @@
     },
     {
       "formalization_requests": [],
+      "id": "ss2205-bottomheavy",
+      "kind": "collected",
+      "reading": {},
+      "repository_url": "https://github.com/mathesis-papers/ss2205-bottomheavy",
+      "site_url": "https://papers.trureturing.org/ss2205-bottomheavy/",
+      "slides": [],
+      "version": 3,
+      "videos": [],
+      "visualizations": []
+    },
+    {
+      "formalization_requests": [],
       "id": "stasiuk-lutkenhaus-tan-error-state-erasure",
       "kind": "collected",
       "reading": {},
@@ -2828,6 +2876,6 @@
       "visualizations": []
     }
   ],
-  "generated_at": "2026-11-23T06:49:57.698254125Z",
+  "generated_at": "2026-11-23T07:33:01.793211511Z",
   "schema": "mathesis.materials-index.v1"
 }
