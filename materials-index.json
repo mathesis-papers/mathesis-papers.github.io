@@ -2304,6 +2304,18 @@
     },
     {
       "formalization_requests": [],
+      "id": "oeis-a130095-ratio-limit",
+      "kind": "collected",
+      "reading": {},
+      "repository_url": "https://github.com/mathesis-papers/oeis-a130095-ratio-limit",
+      "site_url": "https://papers.trureturing.org/oeis-a130095-ratio-limit/",
+      "slides": [],
+      "version": 2,
+      "videos": [],
+      "visualizations": []
+    },
+    {
+      "formalization_requests": [],
       "id": "oeis-a189733-curtz-denominator-conjecture",
       "kind": "collected",
       "reading": {
@@ -2528,6 +2540,18 @@
       "reading": {},
       "repository_url": "https://github.com/mathesis-papers/rowland-sistos-barron-2025-rank-sequences",
       "site_url": "https://papers.trureturing.org/rowland-sistos-barron-2025-rank-sequences/",
+      "slides": [],
+      "version": 2,
+      "videos": [],
+      "visualizations": []
+    },
+    {
+      "formalization_requests": [],
+      "id": "salinas-omega-chain-extension",
+      "kind": "collected",
+      "reading": {},
+      "repository_url": "https://github.com/mathesis-papers/salinas-omega-chain-extension",
+      "site_url": "https://papers.trureturing.org/salinas-omega-chain-extension/",
       "slides": [],
       "version": 2,
       "videos": [],
@@ -2804,6 +2828,6 @@
       "visualizations": []
     }
   ],
-  "generated_at": "2026-11-23T06:00:59.484069182Z",
+  "generated_at": "2026-11-23T06:49:57.698254125Z",
   "schema": "mathesis.materials-index.v1"
 }
