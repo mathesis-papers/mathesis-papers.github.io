@@ -66,6 +66,18 @@
       "visualizations": []
     },
     {
+      "formalization_requests": [],
+      "id": "a374338-circle-vertices",
+      "kind": "collected",
+      "reading": {},
+      "repository_url": "https://github.com/mathesis-papers/a374338-circle-vertices",
+      "site_url": "https://papers.trureturing.org/a374338-circle-vertices/",
+      "slides": [],
+      "version": 2,
+      "videos": [],
+      "visualizations": []
+    },
+    {
       "formalization_requests": [
         {
           "label": "Theorem 1",
@@ -2042,6 +2054,18 @@
     },
     {
       "formalization_requests": [],
+      "id": "li-poon-sze-2011-p2-realignment-gap",
+      "kind": "collected",
+      "reading": {},
+      "repository_url": "https://github.com/mathesis-papers/li-poon-sze-2011-p2-realignment-gap",
+      "site_url": "https://papers.trureturing.org/li-poon-sze-2011-p2-realignment-gap/",
+      "slides": [],
+      "version": 3,
+      "videos": [],
+      "visualizations": []
+    },
+    {
+      "formalization_requests": [],
       "id": "liu-wesolowski-2026-ordinary-fractional-evolution",
       "kind": "collected",
       "reading": {},
@@ -2127,6 +2151,18 @@
           "url": "https://papers.trureturing.org/10.5281-zenodo.23920582/malkoun-2026-mo512579-jordan-elementary/films/#001-stacked-gram"
         }
       ],
+      "visualizations": []
+    },
+    {
+      "formalization_requests": [],
+      "id": "markey-five-site-growth-identity",
+      "kind": "collected",
+      "reading": {},
+      "repository_url": "https://github.com/mathesis-papers/markey-five-site-growth-identity",
+      "site_url": "https://papers.trureturing.org/markey-five-site-growth-identity/",
+      "slides": [],
+      "version": 3,
+      "videos": [],
       "visualizations": []
     },
     {
@@ -3003,6 +3039,18 @@
     },
     {
       "formalization_requests": [],
+      "id": "schulte-implicit-power-coefficients",
+      "kind": "collected",
+      "reading": {},
+      "repository_url": "https://github.com/mathesis-papers/schulte-implicit-power-coefficients",
+      "site_url": "https://papers.trureturing.org/schulte-implicit-power-coefficients/",
+      "slides": [],
+      "version": 3,
+      "videos": [],
+      "visualizations": []
+    },
+    {
+      "formalization_requests": [],
       "id": "sp322844-serpentine",
       "kind": "collected",
       "reading": {},
@@ -3284,6 +3332,6 @@
       "visualizations": []
     }
   ],
-  "generated_at": "2026-11-23T21:30:05.460687389Z",
+  "generated_at": "2026-11-23T22:30:40.264982525Z",
   "schema": "mathesis.materials-index.v1"
 }
