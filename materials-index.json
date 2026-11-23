@@ -119,6 +119,18 @@
       "visualizations": []
     },
     {
+      "formalization_requests": [],
+      "id": "abed-nikolaeva-novikov-2026-af-density-bound",
+      "kind": "collected",
+      "reading": {},
+      "repository_url": "https://github.com/mathesis-papers/abed-nikolaeva-novikov-2026-af-density-bound",
+      "site_url": "https://papers.trureturing.org/abed-nikolaeva-novikov-2026-af-density-bound/",
+      "slides": [],
+      "version": 3,
+      "videos": [],
+      "visualizations": []
+    },
+    {
       "formalization_requests": [
         {
           "label": "Corollary 2 — explicit theta family; Theorem 1 — precise theta-family spectrum",
@@ -173,6 +185,18 @@
           "url": "https://papers.trureturing.org/aks2610-twin-free-theta-separation/aks2610-twin-free-theta-separation/films/#001-landmarks"
         }
       ],
+      "visualizations": []
+    },
+    {
+      "formalization_requests": [],
+      "id": "aliabadi-2605-16478v2-problem-7-6",
+      "kind": "collected",
+      "reading": {},
+      "repository_url": "https://github.com/mathesis-papers/aliabadi-2605-16478v2-problem-7-6",
+      "site_url": "https://papers.trureturing.org/aliabadi-2605-16478v2-problem-7-6/",
+      "slides": [],
+      "version": 3,
+      "videos": [],
       "visualizations": []
     },
     {
@@ -686,6 +710,18 @@
     },
     {
       "formalization_requests": [],
+      "id": "crim-question-one-four-parts",
+      "kind": "collected",
+      "reading": {},
+      "repository_url": "https://github.com/mathesis-papers/crim-question-one-four-parts",
+      "site_url": "https://papers.trureturing.org/crim-question-one-four-parts/",
+      "slides": [],
+      "version": 2,
+      "videos": [],
+      "visualizations": []
+    },
+    {
+      "formalization_requests": [],
       "id": "delgado-suer-yesil-2026-symmetrization-surjectivity",
       "kind": "collected",
       "reading": {},
@@ -743,6 +779,18 @@
           "url": "https://papers.trureturing.org/10.5281-zenodo.23884884/denis-lacaille-martin-serrano-ensastiga-2026-anticoherence-trace-distance/films/#001-symmetry-and-distance"
         }
       ],
+      "visualizations": []
+    },
+    {
+      "formalization_requests": [],
+      "id": "ducuara-susa-skrzypczyk-2024-f3-steering-ellipsoid-threshold",
+      "kind": "collected",
+      "reading": {},
+      "repository_url": "https://github.com/mathesis-papers/ducuara-susa-skrzypczyk-2024-f3-steering-ellipsoid-threshold",
+      "site_url": "https://papers.trureturing.org/ducuara-susa-skrzypczyk-2024-f3-steering-ellipsoid-threshold/",
+      "slides": [],
+      "version": 3,
+      "videos": [],
       "visualizations": []
     },
     {
@@ -853,6 +901,18 @@
       "reading": {},
       "repository_url": "https://github.com/mathesis-papers/hanna-a381355",
       "site_url": "https://papers.trureturing.org/hanna-a381355/",
+      "slides": [],
+      "version": 2,
+      "videos": [],
+      "visualizations": []
+    },
+    {
+      "formalization_requests": [],
+      "id": "hanna-composition-congruences",
+      "kind": "collected",
+      "reading": {},
+      "repository_url": "https://github.com/mathesis-papers/hanna-composition-congruences",
+      "site_url": "https://papers.trureturing.org/hanna-composition-congruences/",
       "slides": [],
       "version": 2,
       "videos": [],
@@ -1456,6 +1516,18 @@
       "visualizations": []
     },
     {
+      "formalization_requests": [],
+      "id": "korzekwa-et-al-2019-three-distinguishability-product-refutation",
+      "kind": "collected",
+      "reading": {},
+      "repository_url": "https://github.com/mathesis-papers/korzekwa-et-al-2019-three-distinguishability-product-refutation",
+      "site_url": "https://papers.trureturing.org/korzekwa-et-al-2019-three-distinguishability-product-refutation/",
+      "slides": [],
+      "version": 2,
+      "videos": [],
+      "visualizations": []
+    },
+    {
       "formalization_requests": [
         {
           "label": "Corrected subset weights",
@@ -1513,6 +1585,18 @@
       "visualizations": []
     },
     {
+      "formalization_requests": [],
+      "id": "luschny-a323206",
+      "kind": "collected",
+      "reading": {},
+      "repository_url": "https://github.com/mathesis-papers/luschny-a323206",
+      "site_url": "https://papers.trureturing.org/luschny-a323206/",
+      "slides": [],
+      "version": 2,
+      "videos": [],
+      "visualizations": []
+    },
+    {
       "formalization_requests": [
         {
           "label": "Lemma 2",
@@ -1563,6 +1647,18 @@
           "url": "https://papers.trureturing.org/10.5281-zenodo.23920582/malkoun-2026-mo512579-jordan-elementary/films/#001-stacked-gram"
         }
       ],
+      "visualizations": []
+    },
+    {
+      "formalization_requests": [],
+      "id": "mathar-2012-a084261-recurrence",
+      "kind": "collected",
+      "reading": {},
+      "repository_url": "https://github.com/mathesis-papers/mathar-2012-a084261-recurrence",
+      "site_url": "https://papers.trureturing.org/mathar-2012-a084261-recurrence/",
+      "slides": [],
+      "version": 2,
+      "videos": [],
       "visualizations": []
     },
     {
@@ -1627,6 +1723,18 @@
       "site_url": "https://papers.trureturing.org/mathar-a174193-order-four-recurrence/",
       "slides": [],
       "version": 3,
+      "videos": [],
+      "visualizations": []
+    },
+    {
+      "formalization_requests": [],
+      "id": "mathar-a386829-recurrence-dfinite",
+      "kind": "collected",
+      "reading": {},
+      "repository_url": "https://github.com/mathesis-papers/mathar-a386829-recurrence-dfinite",
+      "site_url": "https://papers.trureturing.org/mathar-a386829-recurrence-dfinite/",
+      "slides": [],
+      "version": 2,
       "videos": [],
       "visualizations": []
     },
@@ -1854,6 +1962,18 @@
       "visualizations": []
     },
     {
+      "formalization_requests": [],
+      "id": "multiplicity-dominance",
+      "kind": "collected",
+      "reading": {},
+      "repository_url": "https://github.com/mathesis-papers/multiplicity-dominance",
+      "site_url": "https://papers.trureturing.org/multiplicity-dominance/",
+      "slides": [],
+      "version": 3,
+      "videos": [],
+      "visualizations": []
+    },
+    {
       "formalization_requests": [
         {
           "label": "Population-preserving thermal blocks for arbitrary full-support inputs",
@@ -1956,6 +2076,18 @@
     },
     {
       "formalization_requests": [],
+      "id": "oeis-a086205-bala-complex-shift-determinant-refutation",
+      "kind": "collected",
+      "reading": {},
+      "repository_url": "https://github.com/mathesis-papers/oeis-a086205-bala-complex-shift-determinant-refutation",
+      "site_url": "https://papers.trureturing.org/oeis-a086205-bala-complex-shift-determinant-refutation/",
+      "slides": [],
+      "version": 2,
+      "videos": [],
+      "visualizations": []
+    },
+    {
+      "formalization_requests": [],
       "id": "oeis-a112399-morken-first-divisor-sum",
       "kind": "collected",
       "reading": {},
@@ -1988,6 +2120,18 @@
       "reading": {},
       "repository_url": "https://github.com/mathesis-papers/oeis-a208509-affine-polynomial-pair-binomial-coefficients",
       "site_url": "https://papers.trureturing.org/oeis-a208509-affine-polynomial-pair-binomial-coefficients/",
+      "slides": [],
+      "version": 2,
+      "videos": [],
+      "visualizations": []
+    },
+    {
+      "formalization_requests": [],
+      "id": "oeis-a322026-sequence-machine-dirichlet-inverse-identity",
+      "kind": "collected",
+      "reading": {},
+      "repository_url": "https://github.com/mathesis-papers/oeis-a322026-sequence-machine-dirichlet-inverse-identity",
+      "site_url": "https://papers.trureturing.org/oeis-a322026-sequence-machine-dirichlet-inverse-identity/",
       "slides": [],
       "version": 2,
       "videos": [],
@@ -2035,6 +2179,18 @@
       "site_url": "https://papers.trureturing.org/10.5281-zenodo.23885968/",
       "slides": [],
       "version": 4,
+      "videos": [],
+      "visualizations": []
+    },
+    {
+      "formalization_requests": [],
+      "id": "oeis-a394697-toroidal-king-peak-entropy",
+      "kind": "collected",
+      "reading": {},
+      "repository_url": "https://github.com/mathesis-papers/oeis-a394697-toroidal-king-peak-entropy",
+      "site_url": "https://papers.trureturing.org/oeis-a394697-toroidal-king-peak-entropy/",
+      "slides": [],
+      "version": 2,
       "videos": [],
       "visualizations": []
     },
@@ -2151,6 +2307,18 @@
     },
     {
       "formalization_requests": [],
+      "id": "sp322844-serpentine",
+      "kind": "collected",
+      "reading": {},
+      "repository_url": "https://github.com/mathesis-papers/sp322844-serpentine",
+      "site_url": "https://papers.trureturing.org/sp322844-serpentine/",
+      "slides": [],
+      "version": 3,
+      "videos": [],
+      "visualizations": []
+    },
+    {
+      "formalization_requests": [],
       "id": "sp322844-serpentine-higher",
       "kind": "collected",
       "reading": {},
@@ -2215,6 +2383,18 @@
       "site_url": "https://papers.trureturing.org/10.5281-zenodo.23903315/",
       "slides": [],
       "version": 1,
+      "videos": [],
+      "visualizations": []
+    },
+    {
+      "formalization_requests": [],
+      "id": "tebni355257-logcoef",
+      "kind": "collected",
+      "reading": {},
+      "repository_url": "https://github.com/mathesis-papers/tebni355257-logcoef",
+      "site_url": "https://papers.trureturing.org/tebni355257-logcoef/",
+      "slides": [],
+      "version": 2,
       "videos": [],
       "visualizations": []
     },
@@ -2289,6 +2469,18 @@
     },
     {
       "formalization_requests": [],
+      "id": "ycz2015-psicm",
+      "kind": "collected",
+      "reading": {},
+      "repository_url": "https://github.com/mathesis-papers/ycz2015-psicm",
+      "site_url": "https://papers.trureturing.org/ycz2015-psicm/",
+      "slides": [],
+      "version": 2,
+      "videos": [],
+      "visualizations": []
+    },
+    {
+      "formalization_requests": [],
       "id": "zhan-gupta-hillery-detector-sensor-flat-averaging",
       "kind": "collected",
       "reading": {},
@@ -2300,6 +2492,6 @@
       "visualizations": []
     }
   ],
-  "generated_at": "2026-11-22T21:18:16.236735879Z",
+  "generated_at": "2026-11-23T00:32:45.649540846Z",
   "schema": "mathesis.materials-index.v1"
 }
