@@ -189,6 +189,18 @@
     },
     {
       "formalization_requests": [],
+      "id": "alekseyev-halving-partitions-nonregularity",
+      "kind": "collected",
+      "reading": {},
+      "repository_url": "https://github.com/mathesis-papers/alekseyev-halving-partitions-nonregularity",
+      "site_url": "https://papers.trureturing.org/alekseyev-halving-partitions-nonregularity/",
+      "slides": [],
+      "version": 2,
+      "videos": [],
+      "visualizations": []
+    },
+    {
+      "formalization_requests": [],
       "id": "aliabadi-2605-16478v2-problem-7-6",
       "kind": "collected",
       "reading": {},
@@ -246,6 +258,30 @@
           "url": "https://papers.trureturing.org/10.5281-zenodo.23919065/alikhani-griswold-2026-connected-minus-four-family/films/#001-leaf-support"
         }
       ],
+      "visualizations": []
+    },
+    {
+      "formalization_requests": [],
+      "id": "alm2024-factorial-product-uniqueness",
+      "kind": "collected",
+      "reading": {},
+      "repository_url": "https://github.com/mathesis-papers/alm2024-factorial-product-uniqueness",
+      "site_url": "https://papers.trureturing.org/alm2024-factorial-product-uniqueness/",
+      "slides": [],
+      "version": 3,
+      "videos": [],
+      "visualizations": []
+    },
+    {
+      "formalization_requests": [],
+      "id": "alm2024-normal-extension-monotonicity",
+      "kind": "collected",
+      "reading": {},
+      "repository_url": "https://github.com/mathesis-papers/alm2024-normal-extension-monotonicity",
+      "site_url": "https://papers.trureturing.org/alm2024-normal-extension-monotonicity/",
+      "slides": [],
+      "version": 2,
+      "videos": [],
       "visualizations": []
     },
     {
@@ -417,6 +453,18 @@
           "url": "https://papers.trureturing.org/10.5281-zenodo.23971278/bala295462/films/#001-binary-spacing"
         }
       ],
+      "visualizations": []
+    },
+    {
+      "formalization_requests": [],
+      "id": "barker-tea-coordination-sequence",
+      "kind": "collected",
+      "reading": {},
+      "repository_url": "https://github.com/mathesis-papers/barker-tea-coordination-sequence",
+      "site_url": "https://papers.trureturing.org/barker-tea-coordination-sequence/",
+      "slides": [],
+      "version": 2,
+      "videos": [],
       "visualizations": []
     },
     {
@@ -722,6 +770,18 @@
     },
     {
       "formalization_requests": [],
+      "id": "das-et-al-2025-onb-tomography-holevo-ratio",
+      "kind": "collected",
+      "reading": {},
+      "repository_url": "https://github.com/mathesis-papers/das-et-al-2025-onb-tomography-holevo-ratio",
+      "site_url": "https://papers.trureturing.org/das-et-al-2025-onb-tomography-holevo-ratio/",
+      "slides": [],
+      "version": 3,
+      "videos": [],
+      "visualizations": []
+    },
+    {
+      "formalization_requests": [],
       "id": "delgado-suer-yesil-2026-symmetrization-surjectivity",
       "kind": "collected",
       "reading": {},
@@ -860,6 +920,18 @@
     },
     {
       "formalization_requests": [],
+      "id": "h3894-composition-congruences",
+      "kind": "collected",
+      "reading": {},
+      "repository_url": "https://github.com/mathesis-papers/h3894-composition-congruences",
+      "site_url": "https://papers.trureturing.org/h3894-composition-congruences/",
+      "slides": [],
+      "version": 2,
+      "videos": [],
+      "visualizations": []
+    },
+    {
+      "formalization_requests": [],
       "id": "han-pedon-metallic-hankel-quasipolynomial",
       "kind": "collected",
       "reading": {},
@@ -901,6 +973,30 @@
       "reading": {},
       "repository_url": "https://github.com/mathesis-papers/hanna-a381355",
       "site_url": "https://papers.trureturing.org/hanna-a381355/",
+      "slides": [],
+      "version": 2,
+      "videos": [],
+      "visualizations": []
+    },
+    {
+      "formalization_requests": [],
+      "id": "hanna-a389472-congruences",
+      "kind": "collected",
+      "reading": {},
+      "repository_url": "https://github.com/mathesis-papers/hanna-a389472-congruences",
+      "site_url": "https://papers.trureturing.org/hanna-a389472-congruences/",
+      "slides": [],
+      "version": 2,
+      "videos": [],
+      "visualizations": []
+    },
+    {
+      "formalization_requests": [],
+      "id": "hanna-a389475-integral-lifting-congruences",
+      "kind": "collected",
+      "reading": {},
+      "repository_url": "https://github.com/mathesis-papers/hanna-a389475-integral-lifting-congruences",
+      "site_url": "https://papers.trureturing.org/hanna-a389475-integral-lifting-congruences/",
       "slides": [],
       "version": 2,
       "videos": [],
@@ -965,6 +1061,30 @@
           "url": "https://papers.trureturing.org/10.5281-zenodo.23903300/hardin-barker-a209723-edge-differences/films/#001-two-stars"
         }
       ],
+      "visualizations": []
+    },
+    {
+      "formalization_requests": [],
+      "id": "hardin240513-ladder-formulas",
+      "kind": "collected",
+      "reading": {},
+      "repository_url": "https://github.com/mathesis-papers/hardin240513-ladder-formulas",
+      "site_url": "https://papers.trureturing.org/hardin240513-ladder-formulas/",
+      "slides": [],
+      "version": 3,
+      "videos": [],
+      "visualizations": []
+    },
+    {
+      "formalization_requests": [],
+      "id": "hausmann-2026-question-5-4-refutation",
+      "kind": "collected",
+      "reading": {},
+      "repository_url": "https://github.com/mathesis-papers/hausmann-2026-question-5-4-refutation",
+      "site_url": "https://papers.trureturing.org/hausmann-2026-question-5-4-refutation/",
+      "slides": [],
+      "version": 2,
+      "videos": [],
       "visualizations": []
     },
     {
@@ -1208,6 +1328,18 @@
       "site_url": "https://papers.trureturing.org/jen2610-permuted-rotor-loops/",
       "slides": [],
       "version": 5,
+      "videos": [],
+      "visualizations": []
+    },
+    {
+      "formalization_requests": [],
+      "id": "kagey343881-powerproducts",
+      "kind": "collected",
+      "reading": {},
+      "repository_url": "https://github.com/mathesis-papers/kagey343881-powerproducts",
+      "site_url": "https://papers.trureturing.org/kagey343881-powerproducts/",
+      "slides": [],
+      "version": 2,
       "videos": [],
       "visualizations": []
     },
@@ -1893,6 +2025,18 @@
       "visualizations": []
     },
     {
+      "formalization_requests": [],
+      "id": "mertens-2024-grid-cylinder-joint-growth",
+      "kind": "collected",
+      "reading": {},
+      "repository_url": "https://github.com/mathesis-papers/mertens-2024-grid-cylinder-joint-growth",
+      "site_url": "https://papers.trureturing.org/mertens-2024-grid-cylinder-joint-growth/",
+      "slides": [],
+      "version": 3,
+      "videos": [],
+      "visualizations": []
+    },
+    {
       "formalization_requests": [
         {
           "label": "Energy-resolved cycle counts with arbitrary minimum gap",
@@ -2211,6 +2355,18 @@
     },
     {
       "formalization_requests": [],
+      "id": "oeis-a401248-first-two-dense-divisor-block-minimum",
+      "kind": "collected",
+      "reading": {},
+      "repository_url": "https://github.com/mathesis-papers/oeis-a401248-first-two-dense-divisor-block-minimum",
+      "site_url": "https://papers.trureturing.org/oeis-a401248-first-two-dense-divisor-block-minimum/",
+      "slides": [],
+      "version": 3,
+      "videos": [],
+      "visualizations": []
+    },
+    {
+      "formalization_requests": [],
       "id": "okada-2020-premerged-determinant-nonpalindromic",
       "kind": "collected",
       "reading": {
@@ -2346,6 +2502,18 @@
     },
     {
       "formalization_requests": [],
+      "id": "stasiuk-lutkenhaus-tan-error-state-erasure",
+      "kind": "collected",
+      "reading": {},
+      "repository_url": "https://github.com/mathesis-papers/stasiuk-lutkenhaus-tan-error-state-erasure",
+      "site_url": "https://papers.trureturing.org/stasiuk-lutkenhaus-tan-error-state-erasure/",
+      "slides": [],
+      "version": 3,
+      "videos": [],
+      "visualizations": []
+    },
+    {
+      "formalization_requests": [],
       "id": "stepanov-herrmann-guhr-2021-correlation-top-eigenvector-weight",
       "kind": "collected",
       "reading": {
@@ -2356,6 +2524,18 @@
       "site_url": "https://papers.trureturing.org/10.5281-zenodo.23927427/",
       "slides": [],
       "version": 2,
+      "videos": [],
+      "visualizations": []
+    },
+    {
+      "formalization_requests": [],
+      "id": "ta-2025-problem-11-6-three-invariant-refutation",
+      "kind": "collected",
+      "reading": {},
+      "repository_url": "https://github.com/mathesis-papers/ta-2025-problem-11-6-three-invariant-refutation",
+      "site_url": "https://papers.trureturing.org/ta-2025-problem-11-6-three-invariant-refutation/",
+      "slides": [],
+      "version": 3,
       "videos": [],
       "visualizations": []
     },
@@ -2427,6 +2607,18 @@
     },
     {
       "formalization_requests": [],
+      "id": "w-state-bsm-optimum",
+      "kind": "collected",
+      "reading": {},
+      "repository_url": "https://github.com/mathesis-papers/w-state-bsm-optimum",
+      "site_url": "https://papers.trureturing.org/w-state-bsm-optimum/",
+      "slides": [],
+      "version": 2,
+      "videos": [],
+      "visualizations": []
+    },
+    {
+      "formalization_requests": [],
       "id": "wang-conjecture326",
       "kind": "collected",
       "reading": {
@@ -2481,6 +2673,18 @@
     },
     {
       "formalization_requests": [],
+      "id": "yoeli-gour-destruction-superchannel",
+      "kind": "collected",
+      "reading": {},
+      "repository_url": "https://github.com/mathesis-papers/yoeli-gour-destruction-superchannel",
+      "site_url": "https://papers.trureturing.org/yoeli-gour-destruction-superchannel/",
+      "slides": [],
+      "version": 4,
+      "videos": [],
+      "visualizations": []
+    },
+    {
+      "formalization_requests": [],
       "id": "zhan-gupta-hillery-detector-sensor-flat-averaging",
       "kind": "collected",
       "reading": {},
@@ -2492,6 +2696,6 @@
       "visualizations": []
     }
   ],
-  "generated_at": "2026-11-23T00:32:45.649540846Z",
+  "generated_at": "2026-11-23T03:57:44.894109941Z",
   "schema": "mathesis.materials-index.v1"
 }
