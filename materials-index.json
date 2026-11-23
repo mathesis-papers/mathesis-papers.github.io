@@ -920,6 +920,18 @@
     },
     {
       "formalization_requests": [],
+      "id": "groux-catalan-denominators",
+      "kind": "collected",
+      "reading": {},
+      "repository_url": "https://github.com/mathesis-papers/10.5281-zenodo.24411278",
+      "site_url": "https://papers.trureturing.org/10.5281-zenodo.24411278/",
+      "slides": [],
+      "version": 2,
+      "videos": [],
+      "visualizations": []
+    },
+    {
+      "formalization_requests": [],
       "id": "h3894-composition-congruences",
       "kind": "collected",
       "reading": {},
@@ -1061,6 +1073,30 @@
           "url": "https://papers.trureturing.org/10.5281-zenodo.23903300/hardin-barker-a209723-edge-differences/films/#001-two-stars"
         }
       ],
+      "visualizations": []
+    },
+    {
+      "formalization_requests": [],
+      "id": "hardin-barker-cyclic-repetitions",
+      "kind": "collected",
+      "reading": {},
+      "repository_url": "https://github.com/mathesis-papers/10.5281-zenodo.24410604",
+      "site_url": "https://papers.trureturing.org/10.5281-zenodo.24410604/",
+      "slides": [],
+      "version": 2,
+      "videos": [],
+      "visualizations": []
+    },
+    {
+      "formalization_requests": [],
+      "id": "hardin185765",
+      "kind": "collected",
+      "reading": {},
+      "repository_url": "https://github.com/mathesis-papers/10.5281-zenodo.24410608",
+      "site_url": "https://papers.trureturing.org/10.5281-zenodo.24410608/",
+      "slides": [],
+      "version": 2,
+      "videos": [],
       "visualizations": []
     },
     {
@@ -1328,6 +1364,18 @@
       "site_url": "https://papers.trureturing.org/jen2610-permuted-rotor-loops/",
       "slides": [],
       "version": 5,
+      "videos": [],
+      "visualizations": []
+    },
+    {
+      "formalization_requests": [],
+      "id": "jp2025-hadamard-closure",
+      "kind": "collected",
+      "reading": {},
+      "repository_url": "https://github.com/mathesis-papers/jp2025-hadamard-closure",
+      "site_url": "https://papers.trureturing.org/jp2025-hadamard-closure/",
+      "slides": [],
+      "version": 2,
       "videos": [],
       "visualizations": []
     },
@@ -1714,6 +1762,18 @@
           "url": "https://papers.trureturing.org/kurk396563/kurk396563/films/#001-determinant-to-schur"
         }
       ],
+      "visualizations": []
+    },
+    {
+      "formalization_requests": [],
+      "id": "kurkov-a340991-convolution-row-recursion",
+      "kind": "collected",
+      "reading": {},
+      "repository_url": "https://github.com/mathesis-papers/kurkov-a340991-convolution-row-recursion",
+      "site_url": "https://papers.trureturing.org/kurkov-a340991-convolution-row-recursion/",
+      "slides": [],
+      "version": 2,
+      "videos": [],
       "visualizations": []
     },
     {
@@ -2328,6 +2388,18 @@
     },
     {
       "formalization_requests": [],
+      "id": "oeis-a392976-inverse-recurrence",
+      "kind": "collected",
+      "reading": {},
+      "repository_url": "https://github.com/mathesis-papers/10.5281-zenodo.24411295",
+      "site_url": "https://papers.trureturing.org/10.5281-zenodo.24411295/",
+      "slides": [],
+      "version": 2,
+      "videos": [],
+      "visualizations": []
+    },
+    {
+      "formalization_requests": [],
       "id": "oeis-a394697-toroidal-king-peak-entropy",
       "kind": "collected",
       "reading": {},
@@ -2375,6 +2447,18 @@
       },
       "repository_url": "https://github.com/mathesis-papers/10.5281-zenodo.23927423",
       "site_url": "https://papers.trureturing.org/10.5281-zenodo.23927423/",
+      "slides": [],
+      "version": 2,
+      "videos": [],
+      "visualizations": []
+    },
+    {
+      "formalization_requests": [],
+      "id": "oudra-a248186-cubic-floor",
+      "kind": "collected",
+      "reading": {},
+      "repository_url": "https://github.com/mathesis-papers/10.5281-zenodo.24410612",
+      "site_url": "https://papers.trureturing.org/10.5281-zenodo.24410612/",
       "slides": [],
       "version": 2,
       "videos": [],
@@ -2529,6 +2613,18 @@
     },
     {
       "formalization_requests": [],
+      "id": "sun-a006077-hankel-determinants",
+      "kind": "collected",
+      "reading": {},
+      "repository_url": "https://github.com/mathesis-papers/10.5281-zenodo.24410616",
+      "site_url": "https://papers.trureturing.org/10.5281-zenodo.24410616/",
+      "slides": [],
+      "version": 2,
+      "videos": [],
+      "visualizations": []
+    },
+    {
+      "formalization_requests": [],
       "id": "ta-2025-problem-11-6-three-invariant-refutation",
       "kind": "collected",
       "reading": {},
@@ -2646,6 +2742,18 @@
     },
     {
       "formalization_requests": [],
+      "id": "wu-a227244-progressions",
+      "kind": "collected",
+      "reading": {},
+      "repository_url": "https://github.com/mathesis-papers/10.5281-zenodo.24410621",
+      "site_url": "https://papers.trureturing.org/10.5281-zenodo.24410621/",
+      "slides": [],
+      "version": 3,
+      "videos": [],
+      "visualizations": []
+    },
+    {
+      "formalization_requests": [],
       "id": "xu-et-al-2023-noisy-ghz-witness-bound-gap",
       "kind": "collected",
       "reading": {
@@ -2696,6 +2804,6 @@
       "visualizations": []
     }
   ],
-  "generated_at": "2026-11-23T03:57:44.894109941Z",
+  "generated_at": "2026-11-23T06:00:59.484069182Z",
   "schema": "mathesis.materials-index.v1"
 }
