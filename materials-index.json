@@ -648,6 +648,18 @@
       "visualizations": []
     },
     {
+      "formalization_requests": [],
+      "id": "brown-cameron-2020-irrational-imaginary-independence-root",
+      "kind": "collected",
+      "reading": {},
+      "repository_url": "https://github.com/mathesis-papers/brown-cameron-2020-irrational-imaginary-independence-root",
+      "site_url": "https://papers.trureturing.org/brown-cameron-2020-irrational-imaginary-independence-root/",
+      "slides": [],
+      "version": 2,
+      "videos": [],
+      "visualizations": []
+    },
+    {
       "formalization_requests": [
         {
           "label": "Theorem 1",
@@ -850,6 +862,18 @@
           "url": "https://papers.trureturing.org/10.5281-zenodo.23904463/consiglio-apollaro-wiesniak-2022-xmems-css-shape/films/#001-escaping-the-shape"
         }
       ],
+      "visualizations": []
+    },
+    {
+      "formalization_requests": [],
+      "id": "coons-strict-adjacent-multiplicity-growth",
+      "kind": "collected",
+      "reading": {},
+      "repository_url": "https://github.com/mathesis-papers/coons-strict-adjacent-multiplicity-growth",
+      "site_url": "https://papers.trureturing.org/coons-strict-adjacent-multiplicity-growth/",
+      "slides": [],
+      "version": 3,
+      "videos": [],
       "visualizations": []
     },
     {
@@ -1216,6 +1240,18 @@
       "site_url": "https://papers.trureturing.org/10.5281-zenodo.24410608/",
       "slides": [],
       "version": 2,
+      "videos": [],
+      "visualizations": []
+    },
+    {
+      "formalization_requests": [],
+      "id": "hardin233156",
+      "kind": "collected",
+      "reading": {},
+      "repository_url": "https://github.com/mathesis-papers/hardin233156",
+      "site_url": "https://papers.trureturing.org/hardin233156/",
+      "slides": [],
+      "version": 3,
       "videos": [],
       "visualizations": []
     },
@@ -1958,6 +1994,18 @@
     },
     {
       "formalization_requests": [],
+      "id": "kurkov-binary-stirling-row-edge",
+      "kind": "collected",
+      "reading": {},
+      "repository_url": "https://github.com/mathesis-papers/kurkov-binary-stirling-row-edge",
+      "site_url": "https://papers.trureturing.org/kurkov-binary-stirling-row-edge/",
+      "slides": [],
+      "version": 2,
+      "videos": [],
+      "visualizations": []
+    },
+    {
+      "formalization_requests": [],
       "id": "larotonda-principal-log-distance",
       "kind": "collected",
       "reading": {},
@@ -1989,6 +2037,18 @@
       "site_url": "https://papers.trureturing.org/luschny-a323206/",
       "slides": [],
       "version": 2,
+      "videos": [],
+      "visualizations": []
+    },
+    {
+      "formalization_requests": [],
+      "id": "ma2013-dsspectral-equal-blocks",
+      "kind": "collected",
+      "reading": {},
+      "repository_url": "https://github.com/mathesis-papers/ma2013-dsspectral-equal-blocks",
+      "site_url": "https://papers.trureturing.org/ma2013-dsspectral-equal-blocks/",
+      "slides": [],
+      "version": 3,
       "videos": [],
       "visualizations": []
     },
@@ -2165,6 +2225,18 @@
       "reading": {},
       "repository_url": "https://github.com/mathesis-papers/mathar-square-root-quotient-recurrence",
       "site_url": "https://papers.trureturing.org/mathar-square-root-quotient-recurrence/",
+      "slides": [],
+      "version": 2,
+      "videos": [],
+      "visualizations": []
+    },
+    {
+      "formalization_requests": [],
+      "id": "mathex-2026-mo511715-cutoff-bound",
+      "kind": "collected",
+      "reading": {},
+      "repository_url": "https://github.com/mathesis-papers/mathex-2026-mo511715-cutoff-bound",
+      "site_url": "https://papers.trureturing.org/mathex-2026-mo511715-cutoff-bound/",
       "slides": [],
       "version": 2,
       "videos": [],
@@ -2551,6 +2623,18 @@
       "site_url": "https://papers.trureturing.org/oeis-a130095-ratio-limit/",
       "slides": [],
       "version": 2,
+      "videos": [],
+      "visualizations": []
+    },
+    {
+      "formalization_requests": [],
+      "id": "oeis-a188475-original-shifted-hankel",
+      "kind": "collected",
+      "reading": {},
+      "repository_url": "https://github.com/mathesis-papers/oeis-a188475-original-shifted-hankel",
+      "site_url": "https://papers.trureturing.org/oeis-a188475-original-shifted-hankel/",
+      "slides": [],
+      "version": 4,
       "videos": [],
       "visualizations": []
     },
@@ -3152,6 +3236,6 @@
       "visualizations": []
     }
   ],
-  "generated_at": "2026-11-23T17:30:16.516433662Z",
+  "generated_at": "2026-11-23T18:33:08.237685623Z",
   "schema": "mathesis.materials-index.v1"
 }
