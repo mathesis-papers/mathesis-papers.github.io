@@ -1023,11 +1023,35 @@
     },
     {
       "formalization_requests": [],
+      "id": "finch-unimodular-zerofree-six",
+      "kind": "collected",
+      "reading": {},
+      "repository_url": "https://github.com/mathesis-papers/finch-unimodular-zerofree-six",
+      "site_url": "https://papers.trureturing.org/finch-unimodular-zerofree-six/",
+      "slides": [],
+      "version": 3,
+      "videos": [],
+      "visualizations": []
+    },
+    {
+      "formalization_requests": [],
       "id": "finch-zero-runs",
       "kind": "collected",
       "reading": {},
       "repository_url": "https://github.com/mathesis-papers/finch-zero-runs",
       "site_url": "https://papers.trureturing.org/finch-zero-runs/",
+      "slides": [],
+      "version": 3,
+      "videos": [],
+      "visualizations": []
+    },
+    {
+      "formalization_requests": [],
+      "id": "gangloff-guillon-oprocha-circle-finite-positive-expansivity",
+      "kind": "collected",
+      "reading": {},
+      "repository_url": "https://github.com/mathesis-papers/gangloff-guillon-oprocha-circle-finite-positive-expansivity",
+      "site_url": "https://papers.trureturing.org/gangloff-guillon-oprocha-circle-finite-positive-expansivity/",
       "slides": [],
       "version": 3,
       "videos": [],
@@ -1189,6 +1213,18 @@
       "reading": {},
       "repository_url": "https://github.com/mathesis-papers/hanna-composition-congruences",
       "site_url": "https://papers.trureturing.org/hanna-composition-congruences/",
+      "slides": [],
+      "version": 2,
+      "videos": [],
+      "visualizations": []
+    },
+    {
+      "formalization_requests": [],
+      "id": "hanna-square-exponent-integrality",
+      "kind": "collected",
+      "reading": {},
+      "repository_url": "https://github.com/mathesis-papers/hanna-square-exponent-integrality",
+      "site_url": "https://papers.trureturing.org/hanna-square-exponent-integrality/",
       "slides": [],
       "version": 2,
       "videos": [],
@@ -1715,11 +1751,35 @@
     },
     {
       "formalization_requests": [],
+      "id": "keshari-mayassi-prabhakar-nasser-2026-zeta8-faithfulness",
+      "kind": "collected",
+      "reading": {},
+      "repository_url": "https://github.com/mathesis-papers/keshari-mayassi-prabhakar-nasser-2026-zeta8-faithfulness",
+      "site_url": "https://papers.trureturing.org/keshari-mayassi-prabhakar-nasser-2026-zeta8-faithfulness/",
+      "slides": [],
+      "version": 2,
+      "videos": [],
+      "visualizations": []
+    },
+    {
+      "formalization_requests": [],
       "id": "khesin-li-2024-bipartite-encoder-equivalence",
       "kind": "collected",
       "reading": {},
       "repository_url": "https://github.com/mathesis-papers/khesin-li-2024-bipartite-encoder-equivalence",
       "site_url": "https://papers.trureturing.org/khesin-li-2024-bipartite-encoder-equivalence/",
+      "slides": [],
+      "version": 2,
+      "videos": [],
+      "visualizations": []
+    },
+    {
+      "formalization_requests": [],
+      "id": "kim-stolarsky-eventual-three-prefix-conjecture",
+      "kind": "collected",
+      "reading": {},
+      "repository_url": "https://github.com/mathesis-papers/kim-stolarsky-eventual-three-prefix-conjecture",
+      "site_url": "https://papers.trureturing.org/kim-stolarsky-eventual-three-prefix-conjecture/",
       "slides": [],
       "version": 2,
       "videos": [],
@@ -3051,6 +3111,18 @@
     },
     {
       "formalization_requests": [],
+      "id": "shao-zhao-italian-cycle-closed-form",
+      "kind": "collected",
+      "reading": {},
+      "repository_url": "https://github.com/mathesis-papers/shao-zhao-italian-cycle-closed-form",
+      "site_url": "https://papers.trureturing.org/shao-zhao-italian-cycle-closed-form/",
+      "slides": [],
+      "version": 2,
+      "videos": [],
+      "visualizations": []
+    },
+    {
+      "formalization_requests": [],
       "id": "sp322844-serpentine",
       "kind": "collected",
       "reading": {},
@@ -3134,6 +3206,18 @@
       "reading": {},
       "repository_url": "https://github.com/mathesis-papers/10.5281-zenodo.24410616",
       "site_url": "https://papers.trureturing.org/10.5281-zenodo.24410616/",
+      "slides": [],
+      "version": 2,
+      "videos": [],
+      "visualizations": []
+    },
+    {
+      "formalization_requests": [],
+      "id": "sun346934-sign-composite-permanents",
+      "kind": "collected",
+      "reading": {},
+      "repository_url": "https://github.com/mathesis-papers/sun346934-sign-composite-permanents",
+      "site_url": "https://papers.trureturing.org/sun346934-sign-composite-permanents/",
       "slides": [],
       "version": 2,
       "videos": [],
@@ -3332,6 +3416,6 @@
       "visualizations": []
     }
   ],
-  "generated_at": "2026-11-23T22:30:40.264982525Z",
+  "generated_at": "2026-11-24T00:45:02.068772724Z",
   "schema": "mathesis.materials-index.v1"
 }
