@@ -1449,6 +1449,18 @@
     },
     {
       "formalization_requests": [],
+      "id": "hardin229634-defective-colourings",
+      "kind": "collected",
+      "reading": {},
+      "repository_url": "https://github.com/mathesis-papers/hardin229634-defective-colourings",
+      "site_url": "https://papers.trureturing.org/hardin229634-defective-colourings/",
+      "slides": [],
+      "version": 2,
+      "videos": [],
+      "visualizations": []
+    },
+    {
+      "formalization_requests": [],
       "id": "hardin233156",
       "kind": "collected",
       "reading": {},
@@ -3668,6 +3680,6 @@
       "visualizations": []
     }
   ],
-  "generated_at": "2026-11-24T10:36:30.424755491Z",
+  "generated_at": "2026-11-24T11:30:12.603281712Z",
   "schema": "mathesis.materials-index.v1"
 }
