@@ -416,6 +416,18 @@
     },
     {
       "formalization_requests": [],
+      "id": "bala-a292179-a292178-bilateral-logarithm",
+      "kind": "collected",
+      "reading": {},
+      "repository_url": "https://github.com/mathesis-papers/bala-a292179-a292178-bilateral-logarithm",
+      "site_url": "https://papers.trureturing.org/bala-a292179-a292178-bilateral-logarithm/",
+      "slides": [],
+      "version": 3,
+      "videos": [],
+      "visualizations": []
+    },
+    {
+      "formalization_requests": [],
       "id": "bala-machine3626-exact-halting-time",
       "kind": "collected",
       "reading": {},
@@ -1028,6 +1040,30 @@
       "reading": {},
       "repository_url": "https://github.com/mathesis-papers/ducuara-susa-skrzypczyk-2024-f3-steering-ellipsoid-threshold",
       "site_url": "https://papers.trureturing.org/ducuara-susa-skrzypczyk-2024-f3-steering-ellipsoid-threshold/",
+      "slides": [],
+      "version": 3,
+      "videos": [],
+      "visualizations": []
+    },
+    {
+      "formalization_requests": [],
+      "id": "ekene-accumulated-sparse-errors",
+      "kind": "collected",
+      "reading": {},
+      "repository_url": "https://github.com/mathesis-papers/ekene-accumulated-sparse-errors",
+      "site_url": "https://papers.trureturing.org/ekene-accumulated-sparse-errors/",
+      "slides": [],
+      "version": 2,
+      "videos": [],
+      "visualizations": []
+    },
+    {
+      "formalization_requests": [],
+      "id": "feldman-wilce-bounded-cliques-open-chromatic-strictness",
+      "kind": "collected",
+      "reading": {},
+      "repository_url": "https://github.com/mathesis-papers/feldman-wilce-bounded-cliques-open-chromatic-strictness",
+      "site_url": "https://papers.trureturing.org/feldman-wilce-bounded-cliques-open-chromatic-strictness/",
       "slides": [],
       "version": 3,
       "videos": [],
@@ -2263,6 +2299,18 @@
     },
     {
       "formalization_requests": [],
+      "id": "manju-sharma-outer-twisted-derivations",
+      "kind": "collected",
+      "reading": {},
+      "repository_url": "https://github.com/mathesis-papers/manju-sharma-outer-twisted-derivations",
+      "site_url": "https://papers.trureturing.org/manju-sharma-outer-twisted-derivations/",
+      "slides": [],
+      "version": 2,
+      "videos": [],
+      "visualizations": []
+    },
+    {
+      "formalization_requests": [],
       "id": "markey-five-site-growth-identity",
       "kind": "collected",
       "reading": {},
@@ -2827,6 +2875,30 @@
       "site_url": "https://papers.trureturing.org/oeis-a130095-ratio-limit/",
       "slides": [],
       "version": 2,
+      "videos": [],
+      "visualizations": []
+    },
+    {
+      "formalization_requests": [],
+      "id": "oeis-a146304-maximal-bishop-growth-refutation",
+      "kind": "collected",
+      "reading": {},
+      "repository_url": "https://github.com/mathesis-papers/oeis-a146304-maximal-bishop-growth-refutation",
+      "site_url": "https://papers.trureturing.org/oeis-a146304-maximal-bishop-growth-refutation/",
+      "slides": [],
+      "version": 2,
+      "videos": [],
+      "visualizations": []
+    },
+    {
+      "formalization_requests": [],
+      "id": "oeis-a157100-five-term-recurrence",
+      "kind": "collected",
+      "reading": {},
+      "repository_url": "https://github.com/mathesis-papers/oeis-a157100-five-term-recurrence",
+      "site_url": "https://papers.trureturing.org/oeis-a157100-five-term-recurrence/",
+      "slides": [],
+      "version": 3,
       "videos": [],
       "visualizations": []
     },
@@ -3500,6 +3572,6 @@
       "visualizations": []
     }
   ],
-  "generated_at": "2026-11-24T01:31:06.874875161Z",
+  "generated_at": "2026-11-24T02:34:21.637496759Z",
   "schema": "mathesis.materials-index.v1"
 }
