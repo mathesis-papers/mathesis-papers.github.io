@@ -841,6 +841,18 @@
     },
     {
       "formalization_requests": [],
+      "id": "choi-yoo-kim-kwon-won-healing-chains",
+      "kind": "collected",
+      "reading": {},
+      "repository_url": "https://github.com/mathesis-papers/choi-yoo-kim-kwon-won-healing-chains",
+      "site_url": "https://papers.trureturing.org/choi-yoo-kim-kwon-won-healing-chains/",
+      "slides": [],
+      "version": 2,
+      "videos": [],
+      "visualizations": []
+    },
+    {
+      "formalization_requests": [],
       "id": "clarisse-wocjan-2005-permutation-criteria-classification",
       "kind": "collected",
       "reading": {},
@@ -1220,11 +1232,35 @@
     },
     {
       "formalization_requests": [],
+      "id": "hanna-self-substitution-integrality",
+      "kind": "collected",
+      "reading": {},
+      "repository_url": "https://github.com/mathesis-papers/hanna-self-substitution-integrality",
+      "site_url": "https://papers.trureturing.org/hanna-self-substitution-integrality/",
+      "slides": [],
+      "version": 3,
+      "videos": [],
+      "visualizations": []
+    },
+    {
+      "formalization_requests": [],
       "id": "hanna-square-exponent-integrality",
       "kind": "collected",
       "reading": {},
       "repository_url": "https://github.com/mathesis-papers/hanna-square-exponent-integrality",
       "site_url": "https://papers.trureturing.org/hanna-square-exponent-integrality/",
+      "slides": [],
+      "version": 2,
+      "videos": [],
+      "visualizations": []
+    },
+    {
+      "formalization_requests": [],
+      "id": "hardin-barker-a202330",
+      "kind": "collected",
+      "reading": {},
+      "repository_url": "https://github.com/mathesis-papers/hardin-barker-a202330",
+      "site_url": "https://papers.trureturing.org/hardin-barker-a202330/",
       "slides": [],
       "version": 2,
       "videos": [],
@@ -1286,6 +1322,18 @@
       "reading": {},
       "repository_url": "https://github.com/mathesis-papers/10.5281-zenodo.24410604",
       "site_url": "https://papers.trureturing.org/10.5281-zenodo.24410604/",
+      "slides": [],
+      "version": 2,
+      "videos": [],
+      "visualizations": []
+    },
+    {
+      "formalization_requests": [],
+      "id": "hardin-barker-trace-array-formulas",
+      "kind": "collected",
+      "reading": {},
+      "repository_url": "https://github.com/mathesis-papers/hardin-barker-trace-array-formulas",
+      "site_url": "https://papers.trureturing.org/hardin-barker-trace-array-formulas/",
       "slides": [],
       "version": 2,
       "videos": [],
@@ -2352,6 +2400,18 @@
     },
     {
       "formalization_requests": [],
+      "id": "mathar379464-bounded-path-recurrences",
+      "kind": "collected",
+      "reading": {},
+      "repository_url": "https://github.com/mathesis-papers/mathar379464-bounded-path-recurrences",
+      "site_url": "https://papers.trureturing.org/mathar379464-bounded-path-recurrences/",
+      "slides": [],
+      "version": 3,
+      "videos": [],
+      "visualizations": []
+    },
+    {
+      "formalization_requests": [],
       "id": "mathex-2026-mo511715-cutoff-bound",
       "kind": "collected",
       "reading": {},
@@ -2523,6 +2583,18 @@
       "reading": {},
       "repository_url": "https://github.com/mathesis-papers/mertens-2024-grid-cylinder-joint-growth",
       "site_url": "https://papers.trureturing.org/mertens-2024-grid-cylinder-joint-growth/",
+      "slides": [],
+      "version": 3,
+      "videos": [],
+      "visualizations": []
+    },
+    {
+      "formalization_requests": [],
+      "id": "mertens-range-two-stable-matching",
+      "kind": "collected",
+      "reading": {},
+      "repository_url": "https://github.com/mathesis-papers/mertens-range-two-stable-matching",
+      "site_url": "https://papers.trureturing.org/mertens-range-two-stable-matching/",
       "slides": [],
       "version": 3,
       "videos": [],
@@ -2804,6 +2876,18 @@
       "reading": {},
       "repository_url": "https://github.com/mathesis-papers/oeis-a208509-affine-polynomial-pair-binomial-coefficients",
       "site_url": "https://papers.trureturing.org/oeis-a208509-affine-polynomial-pair-binomial-coefficients/",
+      "slides": [],
+      "version": 2,
+      "videos": [],
+      "visualizations": []
+    },
+    {
+      "formalization_requests": [],
+      "id": "oeis-a288476-replacement-iterate-length",
+      "kind": "collected",
+      "reading": {},
+      "repository_url": "https://github.com/mathesis-papers/oeis-a288476-replacement-iterate-length",
+      "site_url": "https://papers.trureturing.org/oeis-a288476-replacement-iterate-length/",
       "slides": [],
       "version": 2,
       "videos": [],
@@ -3416,6 +3500,6 @@
       "visualizations": []
     }
   ],
-  "generated_at": "2026-11-24T00:45:02.068772724Z",
+  "generated_at": "2026-11-24T01:31:06.874875161Z",
   "schema": "mathesis.materials-index.v1"
 }
