@@ -298,6 +298,18 @@
     },
     {
       "formalization_requests": [],
+      "id": "ambroz-kadlec-masakova-pelantova-thue-morse-prefix-costs",
+      "kind": "collected",
+      "reading": {},
+      "repository_url": "https://github.com/mathesis-papers/ambroz-kadlec-masakova-pelantova-thue-morse-prefix-costs",
+      "site_url": "https://papers.trureturing.org/ambroz-kadlec-masakova-pelantova-thue-morse-prefix-costs/",
+      "slides": [],
+      "version": 2,
+      "videos": [],
+      "visualizations": []
+    },
+    {
+      "formalization_requests": [],
       "id": "arvind-commuting-graph-prime-sixth-order",
       "kind": "collected",
       "reading": {},
@@ -811,6 +823,18 @@
       "visualizations": []
     },
     {
+      "formalization_requests": [],
+      "id": "cheon-riordan-bell-inertia-611",
+      "kind": "collected",
+      "reading": {},
+      "repository_url": "https://github.com/mathesis-papers/cheon-riordan-bell-inertia-611",
+      "site_url": "https://papers.trureturing.org/cheon-riordan-bell-inertia-611/",
+      "slides": [],
+      "version": 3,
+      "videos": [],
+      "visualizations": []
+    },
+    {
       "formalization_requests": [
         {
           "label": "Corollary 3; Corollary 4; Corollary 5; Corollary 6; Corollary 7; Lemma 2 and equation (1); Theorem 1",
@@ -1031,6 +1055,18 @@
           "url": "https://papers.trureturing.org/10.5281-zenodo.23884884/denis-lacaille-martin-serrano-ensastiga-2026-anticoherence-trace-distance/films/#001-symmetry-and-distance"
         }
       ],
+      "visualizations": []
+    },
+    {
+      "formalization_requests": [],
+      "id": "dfl514-selfconj",
+      "kind": "collected",
+      "reading": {},
+      "repository_url": "https://github.com/mathesis-papers/dfl514-selfconj",
+      "site_url": "https://papers.trureturing.org/dfl514-selfconj/",
+      "slides": [],
+      "version": 2,
+      "videos": [],
       "visualizations": []
     },
     {
@@ -1275,6 +1311,18 @@
       "site_url": "https://papers.trureturing.org/hanna-self-substitution-integrality/",
       "slides": [],
       "version": 3,
+      "videos": [],
+      "visualizations": []
+    },
+    {
+      "formalization_requests": [],
+      "id": "hanna-square-exponent-and-related-congruences",
+      "kind": "collected",
+      "reading": {},
+      "repository_url": "https://github.com/mathesis-papers/hanna-square-exponent-and-related-congruences",
+      "site_url": "https://papers.trureturing.org/hanna-square-exponent-and-related-congruences/",
+      "slides": [],
+      "version": 2,
       "videos": [],
       "visualizations": []
     },
@@ -1871,6 +1919,18 @@
     },
     {
       "formalization_requests": [],
+      "id": "kimberling-rational-enumeration",
+      "kind": "collected",
+      "reading": {},
+      "repository_url": "https://github.com/mathesis-papers/kimberling-rational-enumeration",
+      "site_url": "https://papers.trureturing.org/kimberling-rational-enumeration/",
+      "slides": [],
+      "version": 2,
+      "videos": [],
+      "visualizations": []
+    },
+    {
+      "formalization_requests": [],
       "id": "klanderman-conjecture-4-2",
       "kind": "collected",
       "reading": {},
@@ -2217,6 +2277,18 @@
       "site_url": "https://papers.trureturing.org/liu-wesolowski-2026-ordinary-fractional-evolution/",
       "slides": [],
       "version": 3,
+      "videos": [],
+      "visualizations": []
+    },
+    {
+      "formalization_requests": [],
+      "id": "luo-mccullough-tsikalas-pseudo-pick-quotient",
+      "kind": "collected",
+      "reading": {},
+      "repository_url": "https://github.com/mathesis-papers/luo-mccullough-tsikalas-pseudo-pick-quotient",
+      "site_url": "https://papers.trureturing.org/luo-mccullough-tsikalas-pseudo-pick-quotient/",
+      "slides": [],
+      "version": 2,
       "videos": [],
       "visualizations": []
     },
@@ -2832,6 +2904,18 @@
     },
     {
       "formalization_requests": [],
+      "id": "nguyen-tan-unitary-cayley-prime-zero-eigenvalue",
+      "kind": "collected",
+      "reading": {},
+      "repository_url": "https://github.com/mathesis-papers/nguyen-tan-unitary-cayley-prime-zero-eigenvalue",
+      "site_url": "https://papers.trureturing.org/nguyen-tan-unitary-cayley-prime-zero-eigenvalue/",
+      "slides": [],
+      "version": 2,
+      "videos": [],
+      "visualizations": []
+    },
+    {
+      "formalization_requests": [],
       "id": "noe-2013-a222759-prime-cube-growth",
       "kind": "collected",
       "reading": {},
@@ -2849,6 +2933,18 @@
       "reading": {},
       "repository_url": "https://github.com/mathesis-papers/oeis-a086205-bala-complex-shift-determinant-refutation",
       "site_url": "https://papers.trureturing.org/oeis-a086205-bala-complex-shift-determinant-refutation/",
+      "slides": [],
+      "version": 2,
+      "videos": [],
+      "visualizations": []
+    },
+    {
+      "formalization_requests": [],
+      "id": "oeis-a094373-ianakiev-shortest-ruler-palindrome",
+      "kind": "collected",
+      "reading": {},
+      "repository_url": "https://github.com/mathesis-papers/oeis-a094373-ianakiev-shortest-ruler-palindrome",
+      "site_url": "https://papers.trureturing.org/oeis-a094373-ianakiev-shortest-ruler-palindrome/",
       "slides": [],
       "version": 2,
       "videos": [],
@@ -3572,6 +3668,6 @@
       "visualizations": []
     }
   ],
-  "generated_at": "2026-11-24T02:34:21.637496759Z",
+  "generated_at": "2026-11-24T05:31:40.836197868Z",
   "schema": "mathesis.materials-index.v1"
 }
