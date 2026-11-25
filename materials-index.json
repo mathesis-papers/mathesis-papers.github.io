@@ -451,6 +451,18 @@
       "visualizations": []
     },
     {
+      "formalization_requests": [],
+      "id": "bala281428-factorial-valuations",
+      "kind": "collected",
+      "reading": {},
+      "repository_url": "https://github.com/mathesis-papers/bala281428-factorial-valuations",
+      "site_url": "https://papers.trureturing.org/bala281428-factorial-valuations/",
+      "slides": [],
+      "version": 2,
+      "videos": [],
+      "visualizations": []
+    },
+    {
       "formalization_requests": [
         {
           "label": "Corollary 2",
@@ -608,6 +620,18 @@
       "site_url": "https://papers.trureturing.org/barker-tea-coordination-sequence/",
       "slides": [],
       "version": 2,
+      "videos": [],
+      "visualizations": []
+    },
+    {
+      "formalization_requests": [],
+      "id": "bergman-question15",
+      "kind": "collected",
+      "reading": {},
+      "repository_url": "https://github.com/mathesis-papers/bergman-question15",
+      "site_url": "https://papers.trureturing.org/bergman-question15/",
+      "slides": [],
+      "version": 5,
       "videos": [],
       "visualizations": []
     },
@@ -812,6 +836,18 @@
     },
     {
       "formalization_requests": [],
+      "id": "chen-lin-direction-flip-threshold-limit",
+      "kind": "collected",
+      "reading": {},
+      "repository_url": "https://github.com/mathesis-papers/chen-lin-direction-flip-threshold-limit",
+      "site_url": "https://papers.trureturing.org/chen-lin-direction-flip-threshold-limit/",
+      "slides": [],
+      "version": 2,
+      "videos": [],
+      "visualizations": []
+    },
+    {
+      "formalization_requests": [],
       "id": "cheng-milne-hall-wiseman-2016-four-qubit-correlation-monogamy",
       "kind": "collected",
       "reading": {},
@@ -979,6 +1015,18 @@
       "reading": {},
       "repository_url": "https://github.com/mathesis-papers/crim-question-one-four-parts",
       "site_url": "https://papers.trureturing.org/crim-question-one-four-parts/",
+      "slides": [],
+      "version": 2,
+      "videos": [],
+      "visualizations": []
+    },
+    {
+      "formalization_requests": [],
+      "id": "dabrowski-poulain-ragoucy-2026-switched-ssep-reachability",
+      "kind": "collected",
+      "reading": {},
+      "repository_url": "https://github.com/mathesis-papers/dabrowski-poulain-ragoucy-2026-switched-ssep-reachability",
+      "site_url": "https://papers.trureturing.org/dabrowski-poulain-ragoucy-2026-switched-ssep-reachability/",
       "slides": [],
       "version": 2,
       "videos": [],
@@ -1413,6 +1461,18 @@
     },
     {
       "formalization_requests": [],
+      "id": "hardin-barker-six-column-colorings",
+      "kind": "collected",
+      "reading": {},
+      "repository_url": "https://github.com/mathesis-papers/hardin-barker-six-column-colorings",
+      "site_url": "https://papers.trureturing.org/hardin-barker-six-column-colorings/",
+      "slides": [],
+      "version": 2,
+      "videos": [],
+      "visualizations": []
+    },
+    {
+      "formalization_requests": [],
       "id": "hardin-barker-trace-array-formulas",
       "kind": "collected",
       "reading": {},
@@ -1627,6 +1687,18 @@
           "url": "https://papers.trureturing.org/10.5281-zenodo.23904467/hexagon-perp-line-counterexamples/films/#001-twelve-fifteen"
         }
       ],
+      "visualizations": []
+    },
+    {
+      "formalization_requests": [],
+      "id": "hohn-a390148-split-prime-shared-divisibility",
+      "kind": "collected",
+      "reading": {},
+      "repository_url": "https://github.com/mathesis-papers/hohn-a390148-split-prime-shared-divisibility",
+      "site_url": "https://papers.trureturing.org/hohn-a390148-split-prime-shared-divisibility/",
+      "slides": [],
+      "version": 2,
+      "videos": [],
       "visualizations": []
     },
     {
@@ -2952,6 +3024,18 @@
     },
     {
       "formalization_requests": [],
+      "id": "notik-singer-chamber",
+      "kind": "collected",
+      "reading": {},
+      "repository_url": "https://github.com/mathesis-papers/notik-singer-chamber",
+      "site_url": "https://papers.trureturing.org/notik-singer-chamber/",
+      "slides": [],
+      "version": 3,
+      "videos": [],
+      "visualizations": []
+    },
+    {
+      "formalization_requests": [],
       "id": "oeis-a086205-bala-complex-shift-determinant-refutation",
       "kind": "collected",
       "reading": {},
@@ -3209,14 +3293,11 @@
       "formalization_requests": [],
       "id": "okada-2020-premerged-determinant-nonpalindromic",
       "kind": "collected",
-      "reading": {
-        "en": "https://papers.trureturing.org/10.5281-zenodo.23927423/en/",
-        "zh": "https://papers.trureturing.org/10.5281-zenodo.23927423/zh/"
-      },
+      "reading": {},
       "repository_url": "https://github.com/mathesis-papers/10.5281-zenodo.23927423",
       "site_url": "https://papers.trureturing.org/10.5281-zenodo.23927423/",
       "slides": [],
-      "version": 2,
+      "version": 3,
       "videos": [],
       "visualizations": []
     },
@@ -3344,6 +3425,18 @@
       "reading": {},
       "repository_url": "https://github.com/mathesis-papers/rowland-sistos-barron-2025-rank-sequences",
       "site_url": "https://papers.trureturing.org/rowland-sistos-barron-2025-rank-sequences/",
+      "slides": [],
+      "version": 2,
+      "videos": [],
+      "visualizations": []
+    },
+    {
+      "formalization_requests": [],
+      "id": "sahas2015-even-additive-complexity-morphisms",
+      "kind": "collected",
+      "reading": {},
+      "repository_url": "https://github.com/mathesis-papers/sahas2015-even-additive-complexity-morphisms",
+      "site_url": "https://papers.trureturing.org/sahas2015-even-additive-complexity-morphisms/",
       "slides": [],
       "version": 2,
       "videos": [],
@@ -3692,6 +3785,6 @@
       "visualizations": []
     }
   ],
-  "generated_at": "2026-11-25T13:32:01.245098576Z",
+  "generated_at": "2026-11-25T17:30:17.784948687Z",
   "schema": "mathesis.materials-index.v1"
 }
