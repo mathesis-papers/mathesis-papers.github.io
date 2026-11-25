@@ -676,6 +676,18 @@
     },
     {
       "formalization_requests": [],
+      "id": "bkm-double-root",
+      "kind": "collected",
+      "reading": {},
+      "repository_url": "https://github.com/mathesis-papers/bkm-double-root",
+      "site_url": "https://papers.trureturing.org/bkm-double-root/",
+      "slides": [],
+      "version": 2,
+      "videos": [],
+      "visualizations": []
+    },
+    {
+      "formalization_requests": [],
       "id": "bks11-14325-whole-event",
       "kind": "collected",
       "reading": {},
@@ -3929,6 +3941,6 @@
       "visualizations": []
     }
   ],
-  "generated_at": "2026-11-25T20:30:39.946584148Z",
+  "generated_at": "2026-11-25T22:30:14.153495965Z",
   "schema": "mathesis.materials-index.v1"
 }
