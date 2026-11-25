@@ -310,6 +310,18 @@
     },
     {
       "formalization_requests": [],
+      "id": "araujo-brauer-complete-mapping",
+      "kind": "collected",
+      "reading": {},
+      "repository_url": "https://github.com/mathesis-papers/araujo-brauer-complete-mapping",
+      "site_url": "https://papers.trureturing.org/araujo-brauer-complete-mapping/",
+      "slides": [],
+      "version": 2,
+      "videos": [],
+      "visualizations": []
+    },
+    {
+      "formalization_requests": [],
       "id": "arvind-commuting-graph-prime-sixth-order",
       "kind": "collected",
       "reading": {},
@@ -1172,6 +1184,18 @@
       "reading": {},
       "repository_url": "https://github.com/mathesis-papers/dfl514-selfconj",
       "site_url": "https://papers.trureturing.org/dfl514-selfconj/",
+      "slides": [],
+      "version": 2,
+      "videos": [],
+      "visualizations": []
+    },
+    {
+      "formalization_requests": [],
+      "id": "ding-hu-2020-hyperdisk-regular-subset-finite-cover",
+      "kind": "collected",
+      "reading": {},
+      "repository_url": "https://github.com/mathesis-papers/ding-hu-2020-hyperdisk-regular-subset-finite-cover",
+      "site_url": "https://papers.trureturing.org/ding-hu-2020-hyperdisk-regular-subset-finite-cover/",
       "slides": [],
       "version": 2,
       "videos": [],
@@ -3279,6 +3303,18 @@
     },
     {
       "formalization_requests": [],
+      "id": "oeis-a378258-hanna-mod-six",
+      "kind": "collected",
+      "reading": {},
+      "repository_url": "https://github.com/mathesis-papers/oeis-a378258-hanna-mod-six",
+      "site_url": "https://papers.trureturing.org/oeis-a378258-hanna-mod-six/",
+      "slides": [],
+      "version": 2,
+      "videos": [],
+      "visualizations": []
+    },
+    {
+      "formalization_requests": [],
       "id": "oeis-a378495-difference-conjectures",
       "kind": "collected",
       "reading": {
@@ -3416,6 +3452,18 @@
       "reading": {},
       "repository_url": "https://github.com/mathesis-papers/ovsienko-tabachnikov-first-dual-somos-integrality",
       "site_url": "https://papers.trureturing.org/ovsienko-tabachnikov-first-dual-somos-integrality/",
+      "slides": [],
+      "version": 2,
+      "videos": [],
+      "visualizations": []
+    },
+    {
+      "formalization_requests": [],
+      "id": "pal-toth-bene-vertesi-2021-second-family-all-dimensions",
+      "kind": "collected",
+      "reading": {},
+      "repository_url": "https://github.com/mathesis-papers/pal-toth-bene-vertesi-2021-second-family-all-dimensions",
+      "site_url": "https://papers.trureturing.org/pal-toth-bene-vertesi-2021-second-family-all-dimensions/",
       "slides": [],
       "version": 2,
       "videos": [],
@@ -3881,6 +3929,6 @@
       "visualizations": []
     }
   ],
-  "generated_at": "2026-11-25T19:29:38.444016686Z",
+  "generated_at": "2026-11-25T20:30:39.946584148Z",
   "schema": "mathesis.materials-index.v1"
 }
