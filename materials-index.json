@@ -428,6 +428,18 @@
     },
     {
       "formalization_requests": [],
+      "id": "bala-a258899-totient-period",
+      "kind": "collected",
+      "reading": {},
+      "repository_url": "https://github.com/mathesis-papers/bala-a258899-totient-period",
+      "site_url": "https://papers.trureturing.org/bala-a258899-totient-period/",
+      "slides": [],
+      "version": 2,
+      "videos": [],
+      "visualizations": []
+    },
+    {
+      "formalization_requests": [],
       "id": "bala-a292179-a292178-bilateral-logarithm",
       "kind": "collected",
       "reading": {},
@@ -645,6 +657,18 @@
       },
       "repository_url": "https://github.com/mathesis-papers/bernath-a400645-consecutive-ratio",
       "site_url": "https://papers.trureturing.org/bernath-a400645-consecutive-ratio/",
+      "slides": [],
+      "version": 2,
+      "videos": [],
+      "visualizations": []
+    },
+    {
+      "formalization_requests": [],
+      "id": "bks11-14325-whole-event",
+      "kind": "collected",
+      "reading": {},
+      "repository_url": "https://github.com/mathesis-papers/bks11-14325-whole-event",
+      "site_url": "https://papers.trureturing.org/bks11-14325-whole-event/",
       "slides": [],
       "version": 2,
       "videos": [],
@@ -1046,6 +1070,18 @@
     },
     {
       "formalization_requests": [],
+      "id": "debrota-stacey-2019-luders-entropy-saturation-sic",
+      "kind": "collected",
+      "reading": {},
+      "repository_url": "https://github.com/mathesis-papers/debrota-stacey-2019-luders-entropy-saturation-sic",
+      "site_url": "https://papers.trureturing.org/debrota-stacey-2019-luders-entropy-saturation-sic/",
+      "slides": [],
+      "version": 2,
+      "videos": [],
+      "visualizations": []
+    },
+    {
+      "formalization_requests": [],
       "id": "delgado-suer-yesil-2026-symmetrization-surjectivity",
       "kind": "collected",
       "reading": {},
@@ -1240,6 +1276,18 @@
           "url": "https://papers.trureturing.org/10.5281-zenodo.23920556/ggps2025/films/#001-modulus"
         }
       ],
+      "visualizations": []
+    },
+    {
+      "formalization_requests": [],
+      "id": "granvik-2024-a292273-real-part",
+      "kind": "collected",
+      "reading": {},
+      "repository_url": "https://github.com/mathesis-papers/granvik-2024-a292273-real-part",
+      "site_url": "https://papers.trureturing.org/granvik-2024-a292273-real-part/",
+      "slides": [],
+      "version": 2,
+      "videos": [],
       "visualizations": []
     },
     {
@@ -3785,6 +3833,6 @@
       "visualizations": []
     }
   ],
-  "generated_at": "2026-11-25T17:30:17.784948687Z",
+  "generated_at": "2026-11-25T18:32:32.061196846Z",
   "schema": "mathesis.materials-index.v1"
 }
