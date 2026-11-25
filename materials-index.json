@@ -1046,6 +1046,18 @@
     },
     {
       "formalization_requests": [],
+      "id": "critch-morton-2014-open-boundary-mps-marginal-birationality",
+      "kind": "collected",
+      "reading": {},
+      "repository_url": "https://github.com/mathesis-papers/critch-morton-2014-open-boundary-mps-marginal-birationality",
+      "site_url": "https://papers.trureturing.org/critch-morton-2014-open-boundary-mps-marginal-birationality/",
+      "slides": [],
+      "version": 2,
+      "videos": [],
+      "visualizations": []
+    },
+    {
+      "formalization_requests": [],
       "id": "dabrowski-poulain-ragoucy-2026-switched-ssep-reachability",
       "kind": "collected",
       "reading": {},
@@ -1065,6 +1077,18 @@
       "site_url": "https://papers.trureturing.org/das-et-al-2025-onb-tomography-holevo-ratio/",
       "slides": [],
       "version": 3,
+      "videos": [],
+      "visualizations": []
+    },
+    {
+      "formalization_requests": [],
+      "id": "das-mohanty-singular-squared-distance-laplacian",
+      "kind": "collected",
+      "reading": {},
+      "repository_url": "https://github.com/mathesis-papers/das-mohanty-singular-squared-distance-laplacian",
+      "site_url": "https://papers.trureturing.org/das-mohanty-singular-squared-distance-laplacian/",
+      "slides": [],
+      "version": 2,
       "videos": [],
       "visualizations": []
     },
@@ -1276,6 +1300,18 @@
           "url": "https://papers.trureturing.org/10.5281-zenodo.23920556/ggps2025/films/#001-modulus"
         }
       ],
+      "visualizations": []
+    },
+    {
+      "formalization_requests": [],
+      "id": "graffeo-gubbiotti-remark77-generic-nambu-cremona",
+      "kind": "collected",
+      "reading": {},
+      "repository_url": "https://github.com/mathesis-papers/graffeo-gubbiotti-remark77-generic-nambu-cremona",
+      "site_url": "https://papers.trureturing.org/graffeo-gubbiotti-remark77-generic-nambu-cremona/",
+      "slides": [],
+      "version": 2,
+      "videos": [],
       "visualizations": []
     },
     {
@@ -3540,6 +3576,18 @@
     },
     {
       "formalization_requests": [],
+      "id": "slbd2026",
+      "kind": "collected",
+      "reading": {},
+      "repository_url": "https://github.com/mathesis-papers/slbd2026",
+      "site_url": "https://papers.trureturing.org/slbd2026/",
+      "slides": [],
+      "version": 2,
+      "videos": [],
+      "visualizations": []
+    },
+    {
+      "formalization_requests": [],
       "id": "sp322844-serpentine",
       "kind": "collected",
       "reading": {},
@@ -3833,6 +3881,6 @@
       "visualizations": []
     }
   ],
-  "generated_at": "2026-11-25T18:32:32.061196846Z",
+  "generated_at": "2026-11-25T19:29:38.444016686Z",
   "schema": "mathesis.materials-index.v1"
 }
