@@ -1091,7 +1091,7 @@
       "repository_url": "https://github.com/mathesis-papers/delgado-suer-yesil-2026-symmetrization-surjectivity",
       "site_url": "https://papers.trureturing.org/delgado-suer-yesil-2026-symmetrization-surjectivity/",
       "slides": [],
-      "version": 4,
+      "version": 5,
       "videos": [],
       "visualizations": []
     },
@@ -3867,6 +3867,6 @@
       "visualizations": []
     }
   ],
-  "generated_at": "2026-11-26T05:32:02.924550863Z",
+  "generated_at": "2026-11-26T06:41:22.240696177Z",
   "schema": "mathesis.materials-index.v1"
 }
