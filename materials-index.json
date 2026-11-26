@@ -418,15 +418,38 @@
       "visualizations": []
     },
     {
-      "formalization_requests": [],
+      "formalization_requests": [
+        {
+          "label": "Lemma 1, Section 2",
+          "url": "https://github.com/the-omega-institute/trureturing-requests/issues/530"
+        }
+      ],
       "id": "bala-machine3626-exact-halting-time",
       "kind": "collected",
-      "reading": {},
+      "reading": {
+        "en": "https://papers.trureturing.org/bala-machine3626-exact-halting-time/bala-machine3626-exact-halting-time/en/",
+        "zh": "https://papers.trureturing.org/bala-machine3626-exact-halting-time/bala-machine3626-exact-halting-time/zh/"
+      },
       "repository_url": "https://github.com/mathesis-papers/bala-machine3626-exact-halting-time",
       "site_url": "https://papers.trureturing.org/bala-machine3626-exact-halting-time/",
-      "slides": [],
+      "slides": [
+        {
+          "id": "colloquium",
+          "language": "en",
+          "notes_url": "https://papers.trureturing.org/bala-machine3626-exact-halting-time/bala-machine3626-exact-halting-time/slides/colloquium/bala-machine3626-exact-halting-time-colloquium-en-notes.pdf",
+          "pdf_url": "https://papers.trureturing.org/bala-machine3626-exact-halting-time/bala-machine3626-exact-halting-time/slides/colloquium/bala-machine3626-exact-halting-time-colloquium-en.pdf"
+        }
+      ],
       "version": 3,
-      "videos": [],
+      "videos": [
+        {
+          "id": "001-restoring-block-narrated_720p",
+          "mp4_url": "https://papers.trureturing.org/bala-machine3626-exact-halting-time/bala-machine3626-exact-halting-time/films/001-restoring-block/bala-machine3626-exact-halting-time_001_720p_narrated.mp4",
+          "poster_url": "https://papers.trureturing.org/bala-machine3626-exact-halting-time/bala-machine3626-exact-halting-time/films/001-restoring-block/poster.jpg",
+          "title": "Why the Machine Runs the Same Block Twice",
+          "url": "https://papers.trureturing.org/bala-machine3626-exact-halting-time/bala-machine3626-exact-halting-time/films/#001-restoring-block"
+        }
+      ],
       "visualizations": []
     },
     {
@@ -4054,6 +4077,6 @@
       "visualizations": []
     }
   ],
-  "generated_at": "2026-11-26T22:31:24.365160539Z",
+  "generated_at": "2026-11-26T23:31:04.421319999Z",
   "schema": "mathesis.materials-index.v1"
 }
