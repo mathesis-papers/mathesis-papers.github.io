@@ -1001,6 +1001,18 @@
       "visualizations": []
     },
     {
+      "formalization_requests": [],
+      "id": "collins-sciriha-main-spectrum-double-cover",
+      "kind": "collected",
+      "reading": {},
+      "repository_url": "https://github.com/mathesis-papers/collins-sciriha-main-spectrum-double-cover",
+      "site_url": "https://papers.trureturing.org/collins-sciriha-main-spectrum-double-cover/",
+      "slides": [],
+      "version": 3,
+      "videos": [],
+      "visualizations": []
+    },
+    {
       "formalization_requests": [
         {
           "label": "Theorem 1, Sections 2–3",
@@ -4469,6 +4481,6 @@
       "visualizations": []
     }
   ],
-  "generated_at": "2026-11-27T14:31:24.28705717Z",
+  "generated_at": "2026-11-27T15:31:31.517905601Z",
   "schema": "mathesis.materials-index.v1"
 }
