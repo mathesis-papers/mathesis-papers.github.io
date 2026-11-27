@@ -4116,6 +4116,18 @@
     },
     {
       "formalization_requests": [],
+      "id": "su-hu-2026-minimum-rectangular-size",
+      "kind": "collected",
+      "reading": {},
+      "repository_url": "https://github.com/mathesis-papers/su-hu-2026-minimum-rectangular-size",
+      "site_url": "https://papers.trureturing.org/su-hu-2026-minimum-rectangular-size/",
+      "slides": [],
+      "version": 2,
+      "videos": [],
+      "visualizations": []
+    },
+    {
+      "formalization_requests": [],
       "id": "sun-a006077-hankel-determinants",
       "kind": "collected",
       "reading": {},
@@ -4445,6 +4457,6 @@
       "visualizations": []
     }
   ],
-  "generated_at": "2026-11-27T12:37:24.016191178Z",
+  "generated_at": "2026-11-27T13:32:30.402287017Z",
   "schema": "mathesis.materials-index.v1"
 }
