@@ -1522,6 +1522,18 @@
     },
     {
       "formalization_requests": [],
+      "id": "gy26c51-affine-coefficient-log-concavity",
+      "kind": "collected",
+      "reading": {},
+      "repository_url": "https://github.com/mathesis-papers/gy26c51-affine-coefficient-log-concavity",
+      "site_url": "https://papers.trureturing.org/gy26c51-affine-coefficient-log-concavity/",
+      "slides": [],
+      "version": 3,
+      "videos": [],
+      "visualizations": []
+    },
+    {
+      "formalization_requests": [],
       "id": "h3894-composition-congruences",
       "kind": "collected",
       "reading": {},
@@ -4410,6 +4422,18 @@
       "visualizations": []
     },
     {
+      "formalization_requests": [],
+      "id": "zelinsky-2021-conjecture-1-or-density",
+      "kind": "collected",
+      "reading": {},
+      "repository_url": "https://github.com/mathesis-papers/zelinsky-2021-conjecture-1-or-density",
+      "site_url": "https://papers.trureturing.org/zelinsky-2021-conjecture-1-or-density/",
+      "slides": [],
+      "version": 2,
+      "videos": [],
+      "visualizations": []
+    },
+    {
       "formalization_requests": [
         {
           "label": "Lemma 1",
@@ -4493,6 +4517,6 @@
       "visualizations": []
     }
   ],
-  "generated_at": "2026-11-27T17:31:39.182537232Z",
+  "generated_at": "2026-11-27T18:34:41.029974996Z",
   "schema": "mathesis.materials-index.v1"
 }
