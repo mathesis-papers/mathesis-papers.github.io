@@ -1522,6 +1522,18 @@
     },
     {
       "formalization_requests": [],
+      "id": "hagele-2026-refined-bmv-33-all-dimensions",
+      "kind": "collected",
+      "reading": {},
+      "repository_url": "https://github.com/mathesis-papers/hagele-2026-refined-bmv-33-all-dimensions",
+      "site_url": "https://papers.trureturing.org/hagele-2026-refined-bmv-33-all-dimensions/",
+      "slides": [],
+      "version": 2,
+      "videos": [],
+      "visualizations": []
+    },
+    {
+      "formalization_requests": [],
       "id": "han-pedon-metallic-hankel-quasipolynomial",
       "kind": "collected",
       "reading": {},
@@ -4433,6 +4445,6 @@
       "visualizations": []
     }
   ],
-  "generated_at": "2026-11-27T11:32:55.173349986Z",
+  "generated_at": "2026-11-27T12:37:24.016191178Z",
   "schema": "mathesis.materials-index.v1"
 }
