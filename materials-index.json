@@ -2762,6 +2762,18 @@
     },
     {
       "formalization_requests": [],
+      "id": "kurkov-a248667",
+      "kind": "collected",
+      "reading": {},
+      "repository_url": "https://github.com/mathesis-papers/kurkov-a248667",
+      "site_url": "https://papers.trureturing.org/kurkov-a248667/",
+      "slides": [],
+      "version": 2,
+      "videos": [],
+      "visualizations": []
+    },
+    {
+      "formalization_requests": [],
       "id": "kurkov-a263634-log-polynomials",
       "kind": "collected",
       "reading": {},
@@ -3999,6 +4011,18 @@
     },
     {
       "formalization_requests": [],
+      "id": "prefix-reversal-triple-count",
+      "kind": "collected",
+      "reading": {},
+      "repository_url": "https://github.com/mathesis-papers/prefix-reversal-triple-count",
+      "site_url": "https://papers.trureturing.org/prefix-reversal-triple-count/",
+      "slides": [],
+      "version": 2,
+      "videos": [],
+      "visualizations": []
+    },
+    {
+      "formalization_requests": [],
       "id": "projective-toric-design-subgroup-counterexample",
       "kind": "collected",
       "reading": {},
@@ -4553,6 +4577,6 @@
       "visualizations": []
     }
   ],
-  "generated_at": "2026-11-27T21:31:21.593830678Z",
+  "generated_at": "2026-11-27T22:31:39.607107377Z",
   "schema": "mathesis.materials-index.v1"
 }
