@@ -3837,6 +3837,18 @@
     },
     {
       "formalization_requests": [],
+      "id": "oeis-a401714-unitary-squarefree-divisor-sum",
+      "kind": "collected",
+      "reading": {},
+      "repository_url": "https://github.com/mathesis-papers/oeis-a401714-unitary-squarefree-divisor-sum",
+      "site_url": "https://papers.trureturing.org/oeis-a401714-unitary-squarefree-divisor-sum/",
+      "slides": [],
+      "version": 2,
+      "videos": [],
+      "visualizations": []
+    },
+    {
+      "formalization_requests": [],
       "id": "okada-2020-premerged-determinant-nonpalindromic",
       "kind": "collected",
       "reading": {},
@@ -4481,6 +4493,6 @@
       "visualizations": []
     }
   ],
-  "generated_at": "2026-11-27T15:31:31.517905601Z",
+  "generated_at": "2026-11-27T16:32:57.91816464Z",
   "schema": "mathesis.materials-index.v1"
 }
