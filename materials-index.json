@@ -2750,6 +2750,18 @@
     },
     {
       "formalization_requests": [],
+      "id": "lagarias-sun-2024-supernorm-size-asymptotic",
+      "kind": "collected",
+      "reading": {},
+      "repository_url": "https://github.com/mathesis-papers/lagarias-sun-2024-supernorm-size-asymptotic",
+      "site_url": "https://papers.trureturing.org/lagarias-sun-2024-supernorm-size-asymptotic/",
+      "slides": [],
+      "version": 2,
+      "videos": [],
+      "visualizations": []
+    },
+    {
+      "formalization_requests": [],
       "id": "larotonda-principal-log-distance",
       "kind": "collected",
       "reading": {},
@@ -4457,6 +4469,6 @@
       "visualizations": []
     }
   ],
-  "generated_at": "2026-11-27T13:32:30.402287017Z",
+  "generated_at": "2026-11-27T14:31:24.28705717Z",
   "schema": "mathesis.materials-index.v1"
 }
