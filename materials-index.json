@@ -1278,15 +1278,54 @@
       "visualizations": []
     },
     {
-      "formalization_requests": [],
+      "formalization_requests": [
+        {
+          "label": "Corollary 4",
+          "url": "https://github.com/the-omega-institute/trureturing-requests/issues/598"
+        },
+        {
+          "label": "Lemma 5",
+          "url": "https://github.com/the-omega-institute/trureturing-requests/issues/599"
+        },
+        {
+          "label": "Corollary 6",
+          "url": "https://github.com/the-omega-institute/trureturing-requests/issues/600"
+        },
+        {
+          "label": "Corollary 7",
+          "url": "https://github.com/the-omega-institute/trureturing-requests/issues/601"
+        },
+        {
+          "label": "Corollary 8",
+          "url": "https://github.com/the-omega-institute/trureturing-requests/issues/602"
+        }
+      ],
       "id": "ducuara-susa-skrzypczyk-2024-f3-steering-ellipsoid-threshold",
       "kind": "collected",
-      "reading": {},
+      "reading": {
+        "en": "https://papers.trureturing.org/ducuara-susa-skrzypczyk-2024-f3-steering-ellipsoid-threshold/ducuara-susa-skrzypczyk-2024-f3-steering-ellipsoid-threshold/en/",
+        "zh": "https://papers.trureturing.org/ducuara-susa-skrzypczyk-2024-f3-steering-ellipsoid-threshold/ducuara-susa-skrzypczyk-2024-f3-steering-ellipsoid-threshold/zh/"
+      },
       "repository_url": "https://github.com/mathesis-papers/ducuara-susa-skrzypczyk-2024-f3-steering-ellipsoid-threshold",
       "site_url": "https://papers.trureturing.org/ducuara-susa-skrzypczyk-2024-f3-steering-ellipsoid-threshold/",
-      "slides": [],
+      "slides": [
+        {
+          "id": "f3-threshold",
+          "language": "en",
+          "notes_url": "https://papers.trureturing.org/ducuara-susa-skrzypczyk-2024-f3-steering-ellipsoid-threshold/ducuara-susa-skrzypczyk-2024-f3-steering-ellipsoid-threshold/slides/f3-threshold/ducuara-susa-skrzypczyk-2024-f3-steering-ellipsoid-threshold-f3-threshold-en-notes.pdf",
+          "pdf_url": "https://papers.trureturing.org/ducuara-susa-skrzypczyk-2024-f3-steering-ellipsoid-threshold/ducuara-susa-skrzypczyk-2024-f3-steering-ellipsoid-threshold/slides/f3-threshold/ducuara-susa-skrzypczyk-2024-f3-steering-ellipsoid-threshold-f3-threshold-en.pdf"
+        }
+      ],
       "version": 3,
-      "videos": [],
+      "videos": [
+        {
+          "id": "001-steering-threshold-narrated_720p",
+          "mp4_url": "https://papers.trureturing.org/ducuara-susa-skrzypczyk-2024-f3-steering-ellipsoid-threshold/ducuara-susa-skrzypczyk-2024-f3-steering-ellipsoid-threshold/films/001-steering-threshold/ducuara-susa-skrzypczyk-2024-f3-steering-ellipsoid-threshold_001_720p_narrated.mp4",
+          "poster_url": "https://papers.trureturing.org/ducuara-susa-skrzypczyk-2024-f3-steering-ellipsoid-threshold/ducuara-susa-skrzypczyk-2024-f3-steering-ellipsoid-threshold/films/001-steering-threshold/poster.jpg",
+          "title": "The two-thirds steering threshold",
+          "url": "https://papers.trureturing.org/ducuara-susa-skrzypczyk-2024-f3-steering-ellipsoid-threshold/ducuara-susa-skrzypczyk-2024-f3-steering-ellipsoid-threshold/films/#001-steering-threshold"
+        }
+      ],
       "visualizations": []
     },
     {
@@ -1601,6 +1640,18 @@
           "url": "https://papers.trureturing.org/hanna-a381355/hanna-a381355/films/#001-prime-index"
         }
       ],
+      "visualizations": []
+    },
+    {
+      "formalization_requests": [],
+      "id": "hanna-a382316",
+      "kind": "collected",
+      "reading": {},
+      "repository_url": "https://github.com/mathesis-papers/hanna-a382316",
+      "site_url": "https://papers.trureturing.org/hanna-a382316/",
+      "slides": [],
+      "version": 2,
+      "videos": [],
       "visualizations": []
     },
     {
@@ -4382,6 +4433,6 @@
       "visualizations": []
     }
   ],
-  "generated_at": "2026-11-27T10:31:37.898281152Z",
+  "generated_at": "2026-11-27T11:32:55.173349986Z",
   "schema": "mathesis.materials-index.v1"
 }
