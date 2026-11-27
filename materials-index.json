@@ -591,6 +591,18 @@
     },
     {
       "formalization_requests": [],
+      "id": "banic-elezovic-2026-cyclic-dispersion-monotonicities",
+      "kind": "collected",
+      "reading": {},
+      "repository_url": "https://github.com/mathesis-papers/banic-elezovic-2026-cyclic-dispersion-monotonicities",
+      "site_url": "https://papers.trureturing.org/banic-elezovic-2026-cyclic-dispersion-monotonicities/",
+      "slides": [],
+      "version": 3,
+      "videos": [],
+      "visualizations": []
+    },
+    {
+      "formalization_requests": [],
       "id": "banica-ozteke-pittau-2018-truncation-isolation",
       "kind": "collected",
       "reading": {},
@@ -4529,6 +4541,6 @@
       "visualizations": []
     }
   ],
-  "generated_at": "2026-11-27T19:31:34.498270309Z",
+  "generated_at": "2026-11-27T20:31:51.811476659Z",
   "schema": "mathesis.materials-index.v1"
 }
