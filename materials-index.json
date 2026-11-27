@@ -3948,6 +3948,18 @@
     },
     {
       "formalization_requests": [],
+      "id": "peng-zero-dimensional-shadowing-extension",
+      "kind": "collected",
+      "reading": {},
+      "repository_url": "https://github.com/mathesis-papers/peng-zero-dimensional-shadowing-extension",
+      "site_url": "https://papers.trureturing.org/peng-zero-dimensional-shadowing-extension/",
+      "slides": [],
+      "version": 2,
+      "videos": [],
+      "visualizations": []
+    },
+    {
+      "formalization_requests": [],
       "id": "pozsgay-wanless-nonlinear-classical-factors",
       "kind": "collected",
       "reading": {
@@ -4517,6 +4529,6 @@
       "visualizations": []
     }
   ],
-  "generated_at": "2026-11-27T18:34:41.029974996Z",
+  "generated_at": "2026-11-27T19:31:34.498270309Z",
   "schema": "mathesis.materials-index.v1"
 }
