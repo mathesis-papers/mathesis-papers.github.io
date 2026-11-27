@@ -1921,6 +1921,18 @@
     },
     {
       "formalization_requests": [],
+      "id": "hardin229697",
+      "kind": "collected",
+      "reading": {},
+      "repository_url": "https://github.com/mathesis-papers/hardin229697",
+      "site_url": "https://papers.trureturing.org/hardin229697/",
+      "slides": [],
+      "version": 4,
+      "videos": [],
+      "visualizations": []
+    },
+    {
+      "formalization_requests": [],
       "id": "hardin233156",
       "kind": "collected",
       "reading": {},
@@ -4541,6 +4553,6 @@
       "visualizations": []
     }
   ],
-  "generated_at": "2026-11-27T20:31:51.811476659Z",
+  "generated_at": "2026-11-27T21:31:21.593830678Z",
   "schema": "mathesis.materials-index.v1"
 }
