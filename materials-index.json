@@ -3127,6 +3127,18 @@
     },
     {
       "formalization_requests": [],
+      "id": "mccormack-zelinsky-2023-question-38",
+      "kind": "collected",
+      "reading": {},
+      "repository_url": "https://github.com/mathesis-papers/mccormack-zelinsky-2023-question-38",
+      "site_url": "https://papers.trureturing.org/mccormack-zelinsky-2023-question-38/",
+      "slides": [],
+      "version": 2,
+      "videos": [],
+      "visualizations": []
+    },
+    {
+      "formalization_requests": [],
       "id": "meddaugh-stephens-2025-mixing-small-periodic-sets",
       "kind": "collected",
       "reading": {},
@@ -4370,6 +4382,6 @@
       "visualizations": []
     }
   ],
-  "generated_at": "2026-11-27T09:33:33.855338985Z",
+  "generated_at": "2026-11-27T10:31:37.898281152Z",
   "schema": "mathesis.materials-index.v1"
 }
