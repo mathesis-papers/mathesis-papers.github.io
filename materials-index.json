@@ -4174,6 +4174,18 @@
     },
     {
       "formalization_requests": [],
+      "id": "vega-coso-spectral-duality-uniqueness",
+      "kind": "collected",
+      "reading": {},
+      "repository_url": "https://github.com/mathesis-papers/vega-coso-spectral-duality-uniqueness",
+      "site_url": "https://papers.trureturing.org/vega-coso-spectral-duality-uniqueness/",
+      "slides": [],
+      "version": 3,
+      "videos": [],
+      "visualizations": []
+    },
+    {
+      "formalization_requests": [],
       "id": "velez-cadavid-numerical-semigroup-realizability",
       "kind": "collected",
       "reading": {},
@@ -4358,6 +4370,6 @@
       "visualizations": []
     }
   ],
-  "generated_at": "2026-11-27T08:35:30.0858689Z",
+  "generated_at": "2026-11-27T09:33:33.855338985Z",
   "schema": "mathesis.materials-index.v1"
 }
